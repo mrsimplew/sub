@@ -1,3729 +1,3728 @@
 ﻿1
-00:00:06,240 --> 00:00:07,560
-<i>Listen to me,
-Karvanista. </i>
+00: 00: 06,240 -> 00: 00: 07,560
+<i> Hãy nghe tôi,
+Về tóc. </i>
 
 2
-00:00:07,600 --> 00:00:10,640
-<i>If you think you have won
-this little skirmish, </i>
+00: 00: 07,600 -> 00: 00: 10,640
+<i> Nếu bạn nghĩ rằng bạn đã thắng
+cuộc giao tranh nhỏ này, </i>
 
 3
-00:00:10,680 --> 00:00:12,840
-<i>you are very much mistaken.</i>
+00: 00: 10,680 -> 00: 00: 12,840
+<i> bạn đã nhầm lẫn rất nhiều. </i>
 
 4
-00:00:12,880 --> 00:00:15,200
-Do not imagine for a second
+00: 00: 12,880 -> 00: 00: 15,200
+Đừng tưởng tượng trong một giây
 
 5
-00:00:15,240 --> 00:00:17,760
-that you have got
-the better of us.
-Right, Yaz?
+00: 00: 15,240 -> 00: 00: 17,760
+mà bạn đã có
+tốt hơn của chúng tôi.
+Đúng không, mùa hè?
 
 6
-00:00:17,800 --> 00:00:20,200
-Oh, yeah.
-We are totally in command.
+00: 00: 17,800 -> 00: 00: 20,200
+Ồ, vâng.
+Chúng tôi hoàn toàn chỉ huy.
 
 7
-00:00:22,400 --> 00:00:24,840
-<i>Is that right?
-'Cause from where I'm hovering, </i>
+00: 00: 22,400 -> 00: 00: 24,840
+Có đúng không?
+'Vì từ nơi tôi đang di chuyển, </i>
 
 8
-00:00:24,880 --> 00:00:27,840
-<i>you seem to be
-handcuffed and footlocked
-to a gravity bar,  </i>
+00: 00: 24,880 -> 00: 00: 27,840
+<i> bạn có vẻ là
+còng tay và khóa chân
+đến một thanh trọng lực, </i>
 
 9
-00:00:27,880 --> 00:00:29,880
-<i>which in 79 seconds
-will release you </i>
+00: 00: 27,880 -> 00: 00: 29,880
+<i> trong 79 giây
+sẽ trả tự do cho bạn </i>
 
 10
-00:00:29,920 --> 00:00:33,120
-<i>into the boiling acid ocean
-directly below </i>
+00: 00: 29,920 -> 00: 00: 33,120
+<i> vào đại dương axit sôi
+ngay bên dưới </i>
 
 11
-00:00:33,160 --> 00:00:35,720
-<i>where your bodies
-will instantly disintegrate. </i>
+00: 00: 33,160 -> 00: 00: 35,720
+<i> nơi cơ thể của bạn
+sẽ tan rã ngay lập tức. </i>
 
 12
-00:00:35,760 --> 00:00:39,160
-<i>Even if you survive that,
-which you won't,
-in four minutes' time,  </i>
+00: 00: 35,760 -> 00: 00: 39,160
+<i> Ngay cả khi bạn sống sót sau đó,
+mà bạn sẽ không,
+trong thời gian bốn phút, </i>
 
 13
-00:00:39,200 --> 00:00:43,480
-<i>the entire planet
-will be engulfed
-by a nearby giant red star.  </i>
+00: 00: 39,200 -> 00: 00: 43,480
+<i> toàn bộ hành tinh
+sẽ bị nhấn chìm
+bởi một ngôi sao đỏ khổng lồ gần đó. </i>
 
 14
-00:00:43,520 --> 00:00:47,360
-<i>Oh, and if you try to escape,
-my Kill Disks will blast you
-to pieces.  </i>
+00: 00: 43,520 -> 00: 00: 47,360
+<i> Ồ, và nếu bạn cố gắng trốn thoát,
+Đĩa Kill của tôi sẽ làm nổ tung bạn
+thành từng mảnh. </i>
 
 15
-00:00:50,000 --> 00:00:53,000
-<i>Meanwhile, I am now far away,</i>
+00: 00: 50.000 -> 00: 00: 53.000
+<i> Trong khi đó, tôi đang ở rất xa, </i>
 
 16
-00:00:53,040 --> 00:00:54,880
-<i>travelling towards
-what will in future be known </i>
+00: 00: 53,040 -> 00: 00: 54,880
+<i> đi về phía
+điều gì sẽ được biết trong tương lai </i>
 
 17
-00:00:54,920 --> 00:00:57,440
-<i>as the final hours
-of planet Earth. </i>
+00: 00: 54,920 -> 00: 00: 57,440
+<i> như những giờ cuối cùng
+của hành tinh Trái đất. </i>
 
 18
-00:00:57,480 --> 00:00:58,680
-What?
+00: 00: 57,480 -> 00: 00: 58,680
+Gì?
 
 19
-00:00:58,720 --> 00:01:00,400
-<i>Don't worry.
-You'll be long dead. </i>
+00: 00: 58,720 -> 00: 01: 00,400
+Đừng lo lắng.
+Bạn sẽ chết từ lâu. </i>
 
 20
-00:01:03,560 --> 00:01:04,960
-I must admit, Yaz,
+00: 01: 03,560 -> 00: 01: 04,960
+Tôi phải thừa nhận, Summer,
 
 21
-00:01:05,000 --> 00:01:07,040
-I can't help feeling
-that some of this is my fault.
+00: 01: 05.000 -> 00: 01: 07.040
+Tôi không thể không cảm thấy
+rằng một số trong số này là lỗi của tôi.
 
 22
-00:01:07,840 --> 00:01:09,040
-Some?
+00: 01: 07.840 -> 00: 01: 09.040
+Một vài?
 
 23
-00:01:09,080 --> 00:01:11,080
-- All of this is your fault.
-- What do you mean?
+00: 01: 09.080 -> 00: 01: 11.080
+- Tất cả những điều này là lỗi của bạn.
+- Ý bạn là gì?
 
 24
-00:01:11,120 --> 00:01:13,040
-Accidentally blowing up
-Karvanista's droid guards
+00: 01: 11.120 -> 00: 01: 13.040
+Tình cờ nổ tung
+Những người bảo vệ droid của Karvanista
 
 25
-00:01:13,080 --> 00:01:15,560
-when we were trying to
-sneak into his operations
-base unnoticed?
+00: 01: 13.080 -> 00: 01: 15.560
+khi chúng tôi cố gắng
+lẻn vào hoạt động của anh ấy
+cơ sở không được chú ý?
 
 26
-00:01:15,600 --> 00:01:17,560
-It's very temperamental,
+00: 01: 15.600 -> 00: 01: 17.560
+Nó rất thất thường,
 Nitro-9.
 
 27
-00:01:17,600 --> 00:01:21,520
-Suggesting we escape his base
-by air-surfing on this gravbar?
+00: 01: 17.600 -> 00: 01: 21.520
+Đề nghị chúng ta thoát khỏi căn cứ của anh ta
+bằng cách lướt không trên thanh gravbar này?
 
 28
-00:01:21,560 --> 00:01:23,560
-How was I to know
-the force shield would reboot
+00: 01: 21.560 -> 00: 01: 23.560
+Làm sao tôi biết được
+lá chắn lực lượng sẽ khởi động lại
 
 29
-00:01:23,600 --> 00:01:25,360
-at the exact moment we were
-heading towards it?
+00: 01: 23.600 -> 00: 01: 25.360
+vào thời điểm chính xác chúng tôi đã
+hướng tới nó?
 
 30
-00:01:25,400 --> 00:01:27,520
-And when we got captured,
-you had to mention
+00: 01: 25.400 -> 00: 01: 27.520
+Và khi chúng tôi bị bắt,
+bạn phải đề cập đến
 
 31
-00:01:27,560 --> 00:01:29,360
-the two sets of cuffs
-in your pocket.
+00: 01: 27.560 -> 00: 01: 29.360
+hai bộ còng
+ở trong túi quần bạn.
 
 32
-00:01:31,960 --> 00:01:34,880
-Two words, Yaz.
+00: 01: 31,960 -> 00: 01: 34,880
+Hai từ, Yaz.
 Trapezium Seven.
 
 33
-00:01:35,720 --> 00:01:37,440
-- Okay.
+00: 01: 35,720 -> 00: 01: 37,440
+- Được chứ.
 - Trapezium Seven.
 
 34
-00:01:37,480 --> 00:01:39,640
-That high-gravity
-circus workshop.
+00: 01: 37.480 -> 00: 01: 39.640
+Trọng lực cao đó
+xưởng xiếc.
 
 35
-00:01:39,680 --> 00:01:41,520
-Who were the top two
-in the class?
+00: 01: 39.680 -> 00: 01: 41.520
+Ai là hai người đứng đầu
+trong lớp?
 
 36
-00:01:42,520 --> 00:01:43,640
-- Ready?
-- No!
+00: 01: 42,520 -> 00: 01: 43,640
+- Sẵn sàng?
+- Không!
 
 37
-00:01:43,680 --> 00:01:45,440
-Me neither.
-I love being not ready.
+00: 01: 43.680 -> 00: 01: 45.440
+Tôi cũng không.
+Tôi thích chưa sẵn sàng.
 
 38
-00:01:45,480 --> 00:01:47,920
-Three. Two. One.
+00: 01: 45.480 -> 00: 01: 47.920
+Số ba. Hai. Một.
 
 39
-00:01:47,960 --> 00:01:49,000
-Alley-oop!
+00: 01: 47,960 -> 00: 01: 49,000
+Hẻm-oop!
 
 40
-00:01:53,080 --> 00:01:54,680
-- Got it!
+00: 01: 53.080 -> 00: 01: 54.680
+- Hiểu rồi!
 
 41
-00:01:57,400 --> 00:01:58,400
-Time to go.
+00: 01: 57.400 -> 00: 01: 58.400
+Thời gian để đi.
 
 42
-00:02:06,800 --> 00:02:08,920
-How do we get these cuffs off?
+00: 02: 06,800 -> 00: 02: 08,920
+Làm cách nào để gỡ những chiếc còng này ra?
 
 43
-00:02:08,960 --> 00:02:11,520
-Very easily.
-Because, Yasmin Khan,
+00: 02: 08,960 -> 00: 02: 11,520
+Rất dễ dàng.
+Bởi vì, Yasmin Khan,
 
 44
-00:02:11,560 --> 00:02:13,880
-they're voice activated!
+00: 02: 11,560 -> 00: 02: 13,880
+chúng được kích hoạt bằng giọng nói!
 
 45
-00:02:13,920 --> 00:02:16,040
-And that's why I told him
-they were in my pocket!
+00: 02: 13,920 -> 00: 02: 16,040
+Và đó là lý do tại sao tôi nói với anh ấy
+chúng đã ở trong túi của tôi!
 
 46
-00:02:16,560 --> 00:02:17,560
-Release.
+00: 02: 16,560 -> 00: 02: 17,560
+Phóng thích.
 
 47
-00:02:19,600 --> 00:02:21,920
-- Release!
-- Release!
+00: 02: 19.600 -> 00: 02: 21.920
+- Phóng thích!
+- Phóng thích!
 
 48
-00:02:24,400 --> 00:02:28,040
-Release!
-Or maybe I was Scottish
-when I set them up.
+00: 02: 24,400 -> 00: 02: 28,040
+Phóng thích!
+Hoặc có thể tôi là người Scotland
+khi tôi thiết lập chúng.
 
 49
-00:02:28,080 --> 00:02:29,320
-Release.
+00: 02: 28.080 -> 00: 02: 29.320
+Phóng thích.
 
 50
-00:02:29,760 --> 00:02:31,480
-Release!
+00: 02: 29,760 -> 00: 02: 31,480
+Phóng thích!
 
 51
-00:02:34,120 --> 00:02:35,480
-Doctor!
+00: 02: 34.120 -> 00: 02: 35.480
+Bác sĩ!
 
 52
-00:02:42,560 --> 00:02:45,240
-Doctor, the gravbar's breaking.
+00: 02: 42,560 -> 00: 02: 45,240
+Bác sĩ, thanh ống đồng bị vỡ.
 
 53
-00:02:45,280 --> 00:02:46,480
-That's inconvenient!
+00: 02: 45.280 -> 00: 02: 46.480
+Thật là bất tiện!
 
 54
-00:02:53,240 --> 00:02:56,600
-Release. Release. Release!
+00: 02: 53.240 -> 00: 02: 56.600
+Phóng thích. Phóng thích. Phóng thích!
 
 55
-00:02:56,640 --> 00:02:58,320
-Maybe it's my tone of voice.
+00: 02: 56,640 -> 00: 02: 58,320
+Có lẽ đó là giọng nói của tôi.
 
 56
-00:02:58,360 --> 00:02:59,360
-It's there!
+00: 02: 58.360 -> 00: 02: 59.360
+Nó ở đó!
 
 57
-00:03:02,280 --> 00:03:04,200
-- Call it!
-- Now!
+00: 03: 02.280 -> 00: 03: 04.200
+- Gọi nó đi!
+- Bây giờ!
 
 58
-00:03:16,320 --> 00:03:17,360
-What a relief.
+00: 03: 16.320 -> 00: 03: 17.360
+Thật là nhẹ nhõm.
 
 59
-00:03:19,960 --> 00:03:22,840
-Right. No one gets away
-with doing that to us, Yaz.
+00: 03: 19,960 -> 00: 03: 22,840
+Bên phải. Không ai có được
+khi làm điều đó với chúng tôi, Yaz.
 
 60
-00:03:24,680 --> 00:03:25,800
-What was it he said?
+00: 03: 24.680 -> 00: 03: 25.800
+Anh ấy đã nói gì vậy?
 
 61
-00:03:26,920 --> 00:03:28,520
-Final few hours of planet Earth?
+00: 03: 26,920 -> 00: 03: 28,520
+Vài giờ cuối cùng của hành tinh Trái đất?
 
 62
-00:03:29,840 --> 00:03:31,480
-He doesn't get rid of us
-that easily.
+00: 03: 29.840 -> 00: 03: 31.480
+Anh ấy không loại bỏ chúng tôi
+dễ dàng.
 
 63
-00:04:18,880 --> 00:04:19,880
-Not enough.
+00: 04: 18.880 -> 00: 04: 19.880
+Không đủ.
 
 64
-00:04:20,880 --> 00:04:22,360
-That is not enough.
+00: 04: 20.880 -> 00: 04: 22.360
+Chừng đó là không đủ.
 
 65
-00:04:23,080 --> 00:04:24,400
-We need more workers.
+00: 04: 23.080 -> 00: 04: 24.400
+Chúng tôi cần nhiều công nhân hơn.
 
 66
-00:04:25,440 --> 00:04:28,040
-Returned soldiers, the poor,
+00: 04: 25.440 -> 00: 04: 28.040
+Những người lính trở về, những người nghèo,
 
 67
-00:04:28,080 --> 00:04:30,560
-they must all be brought here
-and put to work.
+00: 04: 28.080 -> 00: 04: 30.560
+tất cả họ phải được đưa đến đây
+và đưa vào hoạt động.
 
 68
-00:04:31,680 --> 00:04:35,240
-Ah. There's still far to go.
+00: 04: 31.680 -> 00: 04: 35.240
+Ah. Vẫn còn xa để đi.
 
 69
-00:04:35,280 --> 00:04:38,000
-Of course, sir.
-May I also remind you,
+00: 04: 35.280 -> 00: 04: 38.000
+Tất nhiên, thưa ông.
+Tôi cũng có thể nhắc nhở bạn,
 
 70
-00:04:38,040 --> 00:04:42,040
-Mr Stonehouse is due shortly.
+00: 04: 38.040 -> 00: 04: 42.040
+Ông Stonehouse sẽ sớm ra mắt.
 
 71
-00:04:42,080 --> 00:04:44,560
-<i>Williamson,
-for the love of God,
-what are you doing here?  </i>
+00: 04: 42.080 -> 00: 04: 44.560
+Williamson,
+vì tình yêu của Chúa,
+Cậu đang làm gì ở đây? </i>
 
 72
-00:04:44,600 --> 00:04:46,720
-Why all this digging?
+00: 04: 44.600 -> 00: 04: 46.720
+Tại sao lại đào thế này?
 
 73
-00:04:46,760 --> 00:04:48,120
-I provide work and wages
+00: 04: 46.760 -> 00: 04: 48.120
+Tôi cung cấp công việc và tiền lương
 
 74
-00:04:48,160 --> 00:04:50,400
-for those who would
-not otherwise find it.
+00: 04: 48.160 -> 00: 04: 50.400
+cho những người sẽ
+nếu không thì không tìm thấy nó.
 
 75
-00:04:50,440 --> 00:04:51,480
-Is that not enough?
+00: 04: 50.440 -> 00: 04: 51.480
+Như vậy là chưa đủ?
 
 76
-00:04:51,520 --> 00:04:54,160
-Of course, it is laudable.
+00: 04: 51.520 -> 00: 04: 54.160
+Tất nhiên, nó là đáng khen ngợi.
 
 77
-00:04:54,200 --> 00:04:56,800
-But do you not think about
-what you are creating?
+00: 04: 54,200 -> 00: 04: 56,800
+Nhưng bạn không nghĩ về
+những gì bạn đang tạo ra?
 
 78
-00:04:57,600 --> 00:04:59,720
-I think very deeply about it.
+00: 04: 57.600 -> 00: 04: 59.720
+Tôi nghĩ rất sâu sắc về nó.
 
 79
-00:05:00,920 --> 00:05:04,360
-More deeply than
-you can possibly know.
+00: 05: 00.920 -> 00: 05: 04.360
+Sâu sắc hơn
+bạn có thể biết.
 
 80
-00:05:04,400 --> 00:05:07,960
-Then why can I see
-no rational plan at work here?
+00: 05: 04.400 -> 00: 05: 07.960
+Sau đó, tại sao tôi có thể nhìn thấy
+không có kế hoạch hợp lý tại nơi làm việc?
 
 81
-00:05:08,000 --> 00:05:10,440
-The designs are eccentric.
-The work is random.
+00: 05: 08,000 -> 00: 05: 10,440
+Các thiết kế là lệch tâm.
+Công việc là ngẫu nhiên.
 
 82
-00:05:10,480 --> 00:05:13,160
-And as for the tunnels
-being excavated,
+00: 05: 10,480 -> 00: 05: 13,160
+Và đối với các đường hầm
+đang được khai quật,
 
 83
-00:05:13,200 --> 00:05:15,000
-they are without purpose.
+00: 05: 13.200 -> 00: 05: 15.000
+chúng không có mục đích.
 
 84
-00:05:15,040 --> 00:05:17,240
-Without purpose?
+00: 05: 15.040 -> 00: 05: 17.240
+Không có mục đích?
 
 85
-00:05:17,280 --> 00:05:19,920
-If I were to speak to you
-about their true purpose,
+00: 05: 17,280 -> 00: 05: 19,920
+Nếu tôi muốn nói chuyện với bạn
+về mục đích thực sự của họ,
 
 86
-00:05:19,960 --> 00:05:22,360
-your mind would buckle
-under the pressure.
+00: 05: 19.960 -> 00: 05: 22.360
+tâm trí của bạn sẽ không ổn
+chịu áp lực.
 
 87
-00:05:22,400 --> 00:05:24,000
-With respect, sir,
+00: 05: 22,400 -> 00: 05: 24,000
+Với sự tôn trọng, thưa ông,
 
 88
-00:05:24,960 --> 00:05:26,920
-of the two of us,
+00: 05: 24,960 -> 00: 05: 26,920
+của hai chúng tôi,
 
 89
-00:05:26,960 --> 00:05:31,880
-my mind is clearly
-the more robust and rational.
+00: 05: 26,960 -> 00: 05: 31,880
+tâm trí của tôi rõ ràng
+càng mạnh mẽ và hợp lý.
 
 90
-00:05:32,720 --> 00:05:34,160
-You imagine what lies ahead
+00: 05: 32,720 -> 00: 05: 34,160
+Bạn tưởng tượng những gì ở phía trước
 
 91
-00:05:34,200 --> 00:05:36,240
-can be defeated with rationale?
+00: 05: 34.200 -> 00: 05: 36.240
+có thể bị đánh bại với lý do?
 
 92
-00:05:38,800 --> 00:05:40,320
-And pray, Mr Williamson,
+00: 05: 38,800 -> 00: 05: 40,320
+Và cầu nguyện, ông Williamson,
 
 93
-00:05:41,800 --> 00:05:45,000
-what do you imagine
-to lie ahead of us?
+00: 05: 41,800 -> 00: 05: 45,000
+bạn tưởng tượng ra sao
+nói dối trước chúng ta?
 
 94
-00:05:46,760 --> 00:05:48,040
-The cataclysmic.
+00: 05: 46,760 -> 00: 05: 48,040
+Trận đại hồng thủy.
 
 95
-00:05:50,000 --> 00:05:51,200
-The impossible.
+00: 05: 50.000 -> 00: 05: 51.200
+Điều không thể.
 
 96
-00:06:07,240 --> 00:06:09,640
-<i>Doesn't matter
-where you go in the world, </i>
+00: 06: 07.240 -> 00: 06: 09.640
+<i> Không thành vấn đề
+bạn đi đâu trên thế giới, </i>
 
 97
-00:06:09,680 --> 00:06:13,760
-<i>it could be
-the greatest museums
-in the biggest cities,  </i>
+00: 06: 09.680 -> 00: 06: 13.760
+<i> nó có thể là
+những viện bảo tàng vĩ đại nhất
+ở các thành phố lớn nhất, </i>
 
 98
-00:06:13,800 --> 00:06:17,280
-<i>none of them have got
-what we've got, right here. </i>
+00: 06: 13,800 -> 00: 06: 17,280
+<i> không ai trong số họ có
+những gì chúng tôi có, ngay tại đây. </i>
 
 99
-00:06:17,320 --> 00:06:22,160
-Nobody has got a top floor
-like the Museum of Liverpool.
+00: 06: 17.320 -> 00: 06: 22.160
+Không ai có tầng cao nhất
+như Bảo tàng Liverpool.
 
 100
-00:06:22,200 --> 00:06:25,320
-'Cause nobody
-has got our history.
+00: 06: 22,200 -> 00: 06: 25,320
+Vì không ai cả
+đã có lịch sử của chúng tôi.
 
 101
-00:06:27,040 --> 00:06:29,520
-Over there,
-we've got the writers.
+00: 06: 27.040 -> 00: 06: 29.520
+Đằng kia,
+chúng tôi có các nhà văn.
 
 102
-00:06:29,560 --> 00:06:32,640
-Over there, the musicians.
-And over there, the footballers.
+00: 06: 29.560 -> 00: 06: 32.640
+Ở đằng kia, các nhạc sĩ.
+Và đằng kia, những người làm bóng đá.
 
 103
-00:06:32,680 --> 00:06:34,560
-These are massive.
+00: 06: 32,680 -> 00: 06: 34,560
+Chúng rất lớn.
 
 104
-00:06:34,600 --> 00:06:36,400
-They're the pinnacle
-of this building,
+00: 06: 34.600 -> 00: 06: 36.400
+Họ là đỉnh cao
+của tòa nhà này,
 
 105
-00:06:36,440 --> 00:06:37,880
-and this city.
+00: 06: 36,440 -> 00: 06: 37,880
+và thành phố này.
 
 106
-00:06:38,840 --> 00:06:40,760
-These define us.
+00: 06: 38.840 -> 00: 06: 40.760
+Những điều này xác định chúng tôi.
 
 107
-00:06:40,800 --> 00:06:42,400
-These make Liverpool.
+00: 06: 40,800 -> 00: 06: 42,400
+Những điều này tạo nên Liverpool.
 
 108
-00:06:43,080 --> 00:06:45,120
-Dan. Dan!
+00: 06: 43.080 -> 00: 06: 45.120
+Và. Và!
 
 109
-00:06:46,320 --> 00:06:47,680
-That's enough from me now.
+00: 06: 46.320 -> 00: 06: 47.680
+Với tôi bây giờ là đủ rồi.
 
 110
-00:06:47,720 --> 00:06:49,240
-I'll let you have
-a look around on your own.
+00: 06: 47,720 -> 00: 06: 49,240
+Tôi sẽ để bạn có
+một cái nhìn xung quanh của riêng bạn.
 
 111
-00:06:51,960 --> 00:06:53,000
-All right, Di.
+00: 06: 51,960 -> 00: 06: 53,000
+Được rồi, Di.
 
 112
-00:06:55,240 --> 00:06:57,520
-How many times?
-Dan, you've got to stop.
+00: 06: 55,240 -> 00: 06: 57,520
+Bao nhiêu lần?
+Dan, bạn phải dừng lại.
 
 113
-00:06:57,560 --> 00:06:58,800
-You don't work here.
-You're not a guide.
+00: 06: 57,560 -> 00: 06: 58,800
+Bạn không làm việc ở đây.
+Bạn không phải là một hướng dẫn viên.
 
 114
-00:06:58,840 --> 00:07:00,520
-Stop pretending to be official.
+00: 06: 58.840 -> 00: 07: 00.520
+Đừng giả vờ là chính thức nữa.
 
 115
-00:07:00,560 --> 00:07:02,640
-I am official. Official Scouse.
+00: 07: 00.560 -> 00: 07: 02.640
+Tôi là chính thức. Hướng đạo sinh chính thức.
 
 116
-00:07:04,400 --> 00:07:05,880
-Just think of me
-as a free exhibit.
+00: 07: 04.400 -> 00: 07: 05.880
+Chỉ nghĩ về tôi
+như một cuộc triển lãm miễn phí.
 
 117
-00:07:05,920 --> 00:07:07,760
-Just a little bit livelier
-than the others.
+00: 07: 05,920 -> 00: 07: 07,760
+Sống động hơn một chút
+hơn những cái khác.
 
 118
-00:07:07,800 --> 00:07:09,680
-Lad, you've got a trade.
-Do that.
+00: 07: 07,800 -> 00: 07: 09,680
+Lad, bạn đã có một giao dịch.
+Làm điều đó.
 
 119
-00:07:09,720 --> 00:07:12,600
-I know, but I'm good at this.
+00: 07: 09.720 -> 00: 07: 12.600
+Tôi biết, nhưng tôi giỏi trong việc này.
 
 120
-00:07:12,640 --> 00:07:15,120
-And I'm only chatting.
-I make your punters happy.
+00: 07: 12,640 -> 00: 07: 15,120
+Và tôi chỉ trò chuyện.
+Tôi làm cho những người đánh cược của bạn hạnh phúc.
 
 121
-00:07:15,160 --> 00:07:18,200
-What's the point of being
-alive if it's not to make
-others happy?
+00: 07: 15.160 -> 00: 07: 18.200
+Mục đích của sự tồn tại là gì
+sống nếu nó không phải để làm
+những người khác hạnh phúc?
 
 122
-00:07:18,240 --> 00:07:20,520
-Alan says, if you do it again,
-he'll ban you permanently.
+00: 07: 18,240 -> 00: 07: 20,520
+Alan nói, nếu bạn làm lại,
+anh ấy sẽ cấm bạn vĩnh viễn.
 
 123
-00:07:20,560 --> 00:07:22,600
-- What if we say just mornings?
-- No.
+00: 07: 20.560 -> 00: 07: 22.600
+- Nếu chúng ta nói chỉ là buổi sáng thì sao?
+- Không.
 
 124
-00:07:24,080 --> 00:07:26,440
-So, we still on
-for Halloween drinks tonight?
+00: 07: 24.080 -> 00: 07: 26.440
+Vì vậy, chúng tôi vẫn tiếp tục
+cho đồ uống Halloween tối nay?
 
 125
-00:07:26,480 --> 00:07:27,840
-Yeah, yeah.
+00: 07: 26.480 -> 00: 07: 27.840
+Tuyệt.
 
 126
-00:07:27,880 --> 00:07:29,600
-Unless you've changed your mind.
+00: 07: 27.880 -> 00: 07: 29.600
+Trừ khi bạn đã thay đổi ý định.
 
 127
-00:07:29,640 --> 00:07:30,800
-No. No, I haven't.
+00: 07: 29.640 -> 00: 07: 30.800
+Không, tôi chưa.
 
 128
-00:07:30,840 --> 00:07:32,480
-No. Good. Me neither.
+00: 07: 30.840 -> 00: 07: 32.480
+Không tốt. Tôi cũng không.
 
 129
-00:07:33,760 --> 00:07:35,960
-Eight o'clock,
-the corner of Lark Lane.
+00: 07: 33,760 -> 00: 07: 35,960
+Tám giờ,
+góc của Lark Lane.
 
 130
-00:07:36,000 --> 00:07:37,200
-- It's a date.
-- Yeah.
+00: 07: 36,000 -> 00: 07: 37,200
+- Đó là một cuộc hẹn hò.
+- Vâng.
 
 131
-00:07:37,240 --> 00:07:39,440
-- Not a date date
-I'm not presuming.
-- No. Yeah.
+00: 07: 37,240 -> 00: 07: 39,440
+- Không phải là ngày hẹn hò
+Tôi không cho là vậy.
+- Không.
 
 132
-00:07:39,480 --> 00:07:41,120
-- Yeah.
-- But... Yeah, okay.
+00: 07: 39.480 -> 00: 07: 41.120
+- Vâng.
+- Nhưng ... Ừ, được rồi.
 
 133
-00:07:44,320 --> 00:07:45,640
-I've got to go.
+00: 07: 44.320 -> 00: 07: 45.640
+Tôi phải đi.
 
 134
-00:07:45,680 --> 00:07:48,080
-And don't keep me waiting, you,
-the Late Dan Lewis.
+00: 07: 45,680 -> 00: 07: 48,080
+Và đừng để tôi chờ đợi, bạn,
+Dan Lewis muộn.
 
 135
-00:07:48,560 --> 00:07:49,560
-Not tonight.
+00: 07: 48,560 -> 00: 07: 49,560
+Không phải tối nay.
 
 136
-00:07:50,760 --> 00:07:51,760
-Go on.
+00: 07: 50,760 -> 00: 07: 51,760
+Đi tiếp.
 
 137
-00:07:57,600 --> 00:07:59,080
-That's the fourth time.
+00: 07: 57,600 -> 00: 07: 59,080
+Đó là lần thứ tư.
 
 138
-00:07:59,120 --> 00:08:01,880
-I know.
-This is the simplest trajectory,
-Earth.
+00: 07: 59.120 -> 00: 08: 01.880
+Tôi biết.
+Đây là quỹ đạo đơn giản nhất,
+Trái đất.
 
 139
-00:08:01,920 --> 00:08:04,560
-We should be there already.
-What's wrong with you?
+00: 08: 01.920 -> 00: 08: 04.560
+Chúng ta nên ở đó rồi.
+Có chuyện gì với bạn vậy?
 
 140
-00:08:07,880 --> 00:08:11,880
-<i>Psychic connection
-reactivating, Doctor. </i>
+00: 08: 07.880 -> 00: 08: 11.880
+<i> Kết nối ngoại cảm
+đang kích hoạt lại, bác sĩ. </i>
 
 141
-00:08:11,920 --> 00:08:14,840
-Who's that?
-How am I seeing this?
+00: 08: 11.920 -> 00: 08: 14.840
+Ai đó?
+Làm thế nào tôi thấy điều này?
 
 142
-00:08:17,040 --> 00:08:18,480
-<i>Just watch.</i>
+00: 08: 17.040 -> 00: 08: 18.480
+<i> Chỉ cần xem. </i>
 
 143
-00:08:35,840 --> 00:08:36,920
-Still alive.
+00: 08: 35.840 -> 00: 08: 36.920
+Vẫn còn sống.
 
 144
-00:08:37,840 --> 00:08:39,480
-After all this time.
+00: 08: 37.840 -> 00: 08: 39.480
+Sau mọi chuyện.
 
 145
-00:08:39,520 --> 00:08:41,400
-How long has it been here?
+00: 08: 39.520 -> 00: 08: 41.400
+Nó ở đây bao lâu rồi?
 
 146
-00:08:41,440 --> 00:08:44,120
-Imprisoned since
-the dawn of the universe.
+00: 08: 41.440 -> 00: 08: 44.120
+Bị bỏ tù từ
+bình minh của vũ trụ.
 
 147
-00:08:44,160 --> 00:08:47,000
-That's what I was told.
-People embellish though.
+00: 08: 44.160 -> 00: 08: 47.000
+Đó là những gì tôi đã được nói.
+Người ta tôn tạo mặc dù.
 
 148
-00:08:47,040 --> 00:08:49,120
-Our job is to ensure
-all incarceration systems
+00: 08: 47.040 -> 00: 08: 49.120
+Công việc của chúng tôi là đảm bảo
+tất cả các hệ thống giam giữ
 
 149
-00:08:49,160 --> 00:08:51,440
-are still functional,
-and get the hell out.
+00: 08: 49.160 -> 00: 08: 51.440
+vẫn hoạt động,
+và thoát khỏi địa ngục.
 
 150
-00:08:53,120 --> 00:08:55,720
-Evaluation report
-on prisoner Swarm.
+00: 08: 53.120 -> 00: 08: 55.720
+Báo cáo đánh giá
+về tù nhân Swarm.
 
 151
-00:08:55,760 --> 00:08:57,400
-Confinement location,
+00: 08: 55.760 -> 00: 08: 57.400
+Vị trí giam giữ,
 
 152
-00:08:57,440 --> 00:09:01,240
-remnants of
-The Burnished Rage battleground.
+00: 08: 57.440 -> 00: 09: 01.240
+tàn dư của
+Chiến trường của Cơn thịnh nộ thiêu đốt.
 
 153
-00:09:01,280 --> 00:09:04,040
-Incarceration systems
-remain active.
+00: 09: 01.280 -> 00: 09: 04.040
+Hệ thống xử lý
+vẫn hoạt động.
 
 154
-00:09:04,080 --> 00:09:06,160
-Approaching prisoner
-for distanced live check.
+00: 09: 04.080 -> 00: 09: 06.160
+Tiếp cận tù nhân
+để kiểm tra trực tiếp ở xa.
 
 155
-00:09:08,400 --> 00:09:11,280
-Do not engage
-with the prisoner
-in conversation.
+00: 09: 08,400 -> 00: 09: 11,280
+Không tham gia
+với tù nhân
+trong cuộc trò chuyện.
 
 156
-00:09:11,320 --> 00:09:13,320
-Do not do anything that it asks,
+00: 09: 11.320 -> 00: 09: 13.320
+Đừng làm bất cứ điều gì nó yêu cầu,
 
 157
-00:09:13,360 --> 00:09:16,480
-no matter what it asks
-or how persuasive it seems.
+00: 09: 13.360 -> 00: 09: 16.480
+không có vấn đề gì nó yêu cầu
+hoặc nó có vẻ thuyết phục như thế nào.
 
 158
-00:09:16,520 --> 00:09:19,680
-I mean, obviously.
-I have done
-my psych-resistance training.
+00: 09: 16.520 -> 00: 09: 19.680
+Ý tôi là, rõ ràng.
+tôi đã làm
+huấn luyện sức đề kháng psych của tôi.
 
 159
-00:09:24,840 --> 00:09:26,400
-Containment chamber active.
+00: 09: 24.840 -> 00: 09: 26.400
+Buồng chứa đang hoạt động.
 
 160
-00:09:28,680 --> 00:09:31,360
-Physical securings
-still in place.
+00: 09: 28.680 -> 00: 09: 31.360
+Bảo mật vật lý
+vẫn ở nguyên vị trí.
 
 161
-00:09:31,400 --> 00:09:34,160
-Stratospheric impoundment
-systems operative.
+00: 09: 31.400 -> 00: 09: 34.160
+Sự giam giữ tầng bình lưu
+hệ thống hoạt động.
 
 162
-00:09:34,200 --> 00:09:36,320
-Prisoner remains secure.
+00: 09: 34.200 -> 00: 09: 36.320
+Tù nhân vẫn được an toàn.
 
 163
-00:09:38,440 --> 00:09:41,200
-Your last tour, En Sentac.
+00: 09: 38.440 -> 00: 09: 41.200
+Chuyến tham quan cuối cùng của bạn, En Sentac.
 
 164
-00:09:43,000 --> 00:09:44,680
-How does it know that?
+00: 09: 43.000 -> 00: 09: 44.680
+Làm sao nó biết được điều đó?
 
 165
-00:09:44,720 --> 00:09:50,520
-How many times
-across the millennia have you
-stared at me in silence?
+00: 09: 44,720 -> 00: 09: 50,520
+Bao nhiêu lần
+qua nhiều thiên niên kỷ có bạn
+nhìn chằm chằm vào tôi trong im lặng?
 
 166
-00:09:52,160 --> 00:09:55,120
-Now you're handing over
-your task...
+00: 09: 52.160 -> 00: 09: 55.120
+Bây giờ bạn đang bàn giao
+nhiệm vụ của bạn...
 
 167
-00:09:56,680 --> 00:09:58,320
-to a child.
+00: 09: 56.680 -> 00: 09: 58.320
+cho một đứa trẻ.
 
 168
-00:09:59,360 --> 00:10:01,440
-The kid will do fine.
+00: 09: 59.360 -> 00: 10: 01.440
+Đứa trẻ sẽ làm tốt.
 
 169
-00:10:01,480 --> 00:10:04,480
-You're as confined
-as you always have been,
+00: 10: 01.480 -> 00: 10: 04.480
+Bạn như bị hạn chế
+như bạn đã luôn như vậy,
 
 170
-00:10:04,520 --> 00:10:06,000
-and always will be.
+00: 10: 04,520 -> 00: 10: 06,000
+và sẽ luôn luôn được.
 
 171
-00:10:11,000 --> 00:10:12,200
-Wrong.
+00: 10: 11,000 -> 00: 10: 12,200
+Sai lầm.
 
 172
-00:10:18,640 --> 00:10:20,200
-Containment chamber malfunction.
+00: 10: 18,640 -> 00: 10: 20,200
+Sự cố buồng chứa.
 
 173
-00:10:24,440 --> 00:10:27,800
+00: 10: 24,440 -> 00: 10: 27,800
 - Boss?
--Feeling paralysed?
+-Cảm giác bị tê liệt?
 
 174
-00:10:27,840 --> 00:10:32,000
-Proof that your life's work
-has ended...
+00: 10: 27,840 -> 00: 10: 32,000
+Bằng chứng rằng công việc của cuộc đời bạn
+đã kết thúc...
 
 175
-00:10:33,080 --> 00:10:34,560
-in failure.
+00: 10: 33,080 -> 00: 10: 34,560
+trong thất bại.
 
 176
-00:10:35,520 --> 00:10:37,200
-Your reward
+00: 10: 35,520 -> 00: 10: 37,200
+Phần thưởng của bạn
 
 177
-00:10:37,240 --> 00:10:40,920
-for admirable service,
-to Division.
+00: 10: 37,240 -> 00: 10: 40,920
+cho dịch vụ đáng ngưỡng mộ,
+đến Bộ phận.
 
 178
-00:11:15,760 --> 00:11:18,480
-Renewed at last!
+00: 11: 15,760 -> 00: 11: 18,480
+Cuối cùng đã được gia hạn!
 
 179
-00:11:19,480 --> 00:11:20,680
-What have you done?
+00: 11: 19,480 -> 00: 11: 20,680
+Bạn đã làm gì
 
 180
-00:11:24,800 --> 00:11:26,000
-I waited.
+00: 11: 24,800 -> 00: 11: 26,000
+Tôi đã chờ đợi.
 
 181
-00:11:29,120 --> 00:11:30,360
-I planned.
+00: 11: 29,120 -> 00: 11: 30,360
+Tôi đã lên kế hoạch.
 
 182
-00:11:35,760 --> 00:11:37,720
-And now, I'm going to execute.
+00: 11: 35,760 -> 00: 11: 37,720
+Và bây giờ, tôi sẽ thực hiện.
 
 183
-00:11:39,200 --> 00:11:41,000
-That won't work, child.
+00: 11: 39,200 -> 00: 11: 41,000
+Điều đó sẽ không hiệu quả, con.
 
 184
-00:11:45,160 --> 00:11:46,720
-Your time is over.
+00: 11: 45,160 -> 00: 11: 46,720
+Thời gian của bạn đã qua.
 
 185
-00:11:48,880 --> 00:11:50,040
-As mine...
+00: 11: 48,880 -> 00: 11: 50,040
+Như của tôi ...
 
 186
-00:11:51,360 --> 00:11:53,480
-has begun once more.
+00: 11: 51.360 -> 00: 11: 53.480
+đã bắt đầu một lần nữa.
 
 187
-00:11:55,360 --> 00:11:56,480
+00: 11: 55,360 -> 00: 11: 56,480
 Huh.
 
 188
-00:12:01,640 --> 00:12:03,800
-Trick or treat, Doctor.
+00: 12: 01,640 -> 00: 12: 03,800
+Thủ thuật hay điều trị, bác sĩ.
 
 189
-00:12:08,240 --> 00:12:10,480
-Doctor! Doctor!
+00: 12: 08,240 -> 00: 12: 10,480
+Bác sĩ! Bác sĩ!
 
 190
-00:12:13,720 --> 00:12:14,880
-Have you seen this?
+00: 12: 13,720 -> 00: 12: 14,880
+Bạn đã thấy cái này chưa?
 
 191
-00:12:15,680 --> 00:12:18,480
-It's like the TARDIS is leaking.
+00: 12: 15,680 -> 00: 12: 18,480
+Nó giống như TARDIS đang bị rò rỉ.
 
 192
-00:12:24,000 --> 00:12:25,480
-Do you know what it is?
+00: 12: 24,000 -> 00: 12: 25,480
+Bạn có biết nó là gì không?
 
 193
-00:12:29,920 --> 00:12:31,120
-Nothing to worry about.
-It's fine.
+00: 12: 29,920 -> 00: 12: 31,120
+Không có gì phải lo lắng về.
+Tốt rồi.
 
 194
-00:12:31,160 --> 00:12:33,320
-I'm fine, TARDIS is fine.
-We're all fine.
+00: 12: 31,160 -> 00: 12: 33,320
+Tôi ổn, TARDIS ổn.
+Tất cả chúng ta đều ổn.
 
 195
-00:12:33,360 --> 00:12:34,760
-We'll be on Earth any moment.
+00: 12: 33,360 -> 00: 12: 34,760
+Chúng tôi sẽ có mặt trên Trái đất bất cứ lúc nào.
 
 196
-00:12:34,800 --> 00:12:35,800
-Right. Dateline.
+00: 12: 34,800 -> 00: 12: 35,800
+Bên phải. Đường dữ liệu.
 
 197
-00:12:36,960 --> 00:12:37,960
-October 31st.
+00: 12: 36,960 -> 00: 12: 37,960
+Ngày 31 tháng 10.
 
 198
-00:12:38,920 --> 00:12:40,920
-Halloween. Trick or treat.
+00: 12: 38,920 -> 00: 12: 40,920
+Halloween. Lừa hoặc đối xử.
 
 199
-00:12:45,640 --> 00:12:47,080
-Yeah, that'll see you
-right for a bit.
+00: 12: 45,640 -> 00: 12: 47,080
+Vâng, điều đó sẽ gặp bạn
+đúng một chút.
 
 200
-00:12:47,120 --> 00:12:48,640
-- Thanks.
--Oh, hang on.
+00: 12: 47,120 -> 00: 12: 48,640
+- Cảm ơn.
+- Chờ đã.
 
 201
-00:12:49,760 --> 00:12:51,160
-Take a couple of them
-for tonight,
+00: 12: 49,760 -> 00: 12: 51,160
+Lấy một vài trong số họ
+cho tối nay,
 
 202
-00:12:51,200 --> 00:12:52,800
-as long as you promise
-not to haunt me.
+00: 12: 51,200 -> 00: 12: 52,800
+miễn là bạn hứa
+không để ám ảnh tôi.
 
 203
-00:12:54,160 --> 00:12:56,120
-- Look after yourselves, ta-ra.
-- Come on.
+00: 12: 54,160 -> 00: 12: 56,120
+- Hãy tự chăm sóc bản thân, ta-ra.
+- Cố lên.
 
 204
-00:13:01,200 --> 00:13:04,560
-Yeah. Will I make up
-a box for you?
+00: 13: 01,200 -> 00: 13: 04,560
+Vâng. Tôi sẽ trang điểm
+một hộp cho bạn?
 
 205
-00:13:04,600 --> 00:13:07,080
-No, I'm sound, thanks.
+00: 13: 04,600 -> 00: 13: 07,080
+Không, tôi ổn, cảm ơn.
 
 206
-00:13:07,120 --> 00:13:10,000
-Well, at least take some soup.
+00: 13: 07.120 -> 00: 13: 10.000
+Chà, ít nhất hãy ăn một chút súp.
 Hmm?
 
 207
-00:13:10,040 --> 00:13:12,920
-Wilma, who likes soup?
-Really.
+00: 13: 10,040 -> 00: 13: 12,920
+Wilma, người thích súp?
+Có thật không.
 
 208
-00:13:12,960 --> 00:13:14,920
-Don't be proud, Daniel,
-come on.
+00: 13: 12,960 -> 00: 13: 14,920
+Đừng tự hào, Daniel,
+nào.
 
 209
-00:13:14,960 --> 00:13:18,240
-There's plenty of people
-who need soup
-a lot more than me.
+00: 13: 14,960 -> 00: 13: 18,240
+Có rất nhiều người
+ai cần súp
+hơn tôi rất nhiều.
 
 210
-00:13:18,280 --> 00:13:21,160
-And anyway, my numbers
-are coming up on Wednesday.
+00: 13: 18,280 -> 00: 13: 21,160
+Và dù sao, những con số của tôi
+sẽ đến vào thứ Tư.
 
 211
-00:13:21,200 --> 00:13:22,800
-You don't even play the lottery.
+00: 13: 21,200 -> 00: 13: 22,800
+Bạn thậm chí không chơi xổ số.
 
 212
-00:13:22,840 --> 00:13:24,400
-I know, that's how lucky I am.
+00: 13: 22,840 -> 00: 13: 24,400
+Tôi biết, đó là cách tôi may mắn.
 
 213
-00:13:24,440 --> 00:13:26,080
-- Wait.
+00: 13: 24,440 -> 00: 13: 26,080
+- Đợi đã.
 
 214
-00:13:27,440 --> 00:13:28,440
-Did you see that?
+00: 13: 27,440 -> 00: 13: 28,440
+Bạn có thấy điều đó không?
 
 215
-00:13:30,480 --> 00:13:31,600
-What?
+00: 13: 30,480 -> 00: 13: 31,600
+Gì?
 
 216
-00:13:31,640 --> 00:13:33,760
-There's something out there.
+00: 13: 31,640 -> 00: 13: 33,760
+Có một cái gì đó ở ngoài đó.
 
 217
-00:13:36,440 --> 00:13:38,800
-You've been
-on the sherry early tonight.
-Come on.
+00: 13: 36,440 -> 00: 13: 38,800
+Bạn đã từng
+trên rượu sherry sớm tối nay.
+Cố lên.
 
 218
-00:13:39,480 --> 00:13:40,480
-Let's lock up.
+00: 13: 39,480 -> 00: 13: 40,480
+Hãy khóa lại.
 
 219
-00:14:11,640 --> 00:14:13,200
-Trick or treat.
+00: 14: 11,640 -> 00: 14: 13,200
+Lừa hoặc đối xử.
 
 220
-00:14:13,240 --> 00:14:16,400
-Oh.
-You scared me there.
+00: 14: 13,240 -> 00: 14: 16,400
+Ồ.
+Bạn đã làm tôi sợ hãi ở đó.
 
 221
-00:14:16,440 --> 00:14:19,200
-Yeah. You can have
-the last ones.
+00: 14: 16,440 -> 00: 14: 19,200
+Vâng. Bạn có thể có
+cái cuối cùng.
 
 222
-00:14:19,240 --> 00:14:20,440
-You look great.
+00: 14: 19,240 -> 00: 14: 20,440
+Bạn trông rất tuyệt.
 
 223
-00:14:20,480 --> 00:14:22,240
-Go on, go home safe now.
+00: 14: 20,480 -> 00: 14: 22,240
+Đi đi, về nhà an toàn ngay bây giờ.
 
 224
-00:14:22,800 --> 00:14:23,800
-Night night.
+00: 14: 22,800 -> 00: 14: 23,800
+Đêm đêm.
 
 225
-00:14:33,040 --> 00:14:34,040
-All right, la.
+00: 14: 33,040 -> 00: 14: 34,040
+Được rồi, la.
 
 226
-00:14:36,880 --> 00:14:38,000
-Trick or treat.
+00: 14: 36,880 -> 00: 14: 38,000
+Lừa hoặc đối xử.
 
 227
-00:14:39,520 --> 00:14:40,600
-No.
+00: 14: 39,520 -> 00: 14: 40,600
+Không.
 
 228
-00:14:41,760 --> 00:14:43,600
-- You what?
-- How old are you?
+00: 14: 41,760 -> 00: 14: 43,600
+- Anh sao?
+- Bạn bao nhiêu tuổi?
 
 229
-00:14:43,640 --> 00:14:46,920
-- What's the difference?
-- You're not even dressed up.
+00: 14: 43,640 -> 00: 14: 46,920
+- Có gì khác biệt?
+- Bạn thậm chí còn không mặc quần áo.
 
 230
-00:14:46,960 --> 00:14:48,640
-- Yeah, well, neither are you.
-- You're just going round
+00: 14: 46,960 -> 00: 14: 48,640
+- Ừ, thì bạn cũng vậy.
+- Bạn chỉ đi vòng quanh
 
 231
-00:14:48,680 --> 00:14:49,840
-knocking on people's doors.
+00: 14: 48,680 -> 00: 14: 49,840
+gõ cửa nhà người ta.
 
 232
-00:14:51,280 --> 00:14:52,720
-I heard you had sweets.
+00: 14: 51,280 -> 00: 14: 52,720
+Tôi nghe nói bạn có đồ ngọt.
 
 233
-00:14:52,760 --> 00:14:54,320
-Go on. Get off with youse.
+00: 14: 52,760 -> 00: 14: 54,320
+Đi tiếp. Xuống xe với bạn.
 
 234
-00:14:57,160 --> 00:14:58,760
-Don't be throwing eggs
-at my house.
+00: 14: 57,160 -> 00: 14: 58,760
+Đừng ném trứng
+tại nhà tôi.
 
 235
-00:15:16,680 --> 00:15:18,800
-Take the soup, will you?
+00: 15: 16,680 -> 00: 15: 18,800
+Lấy súp, được không?
 
 236
-00:15:25,160 --> 00:15:27,720
-Yes.
-Gaze upon my might.
+00: 15: 25,160 -> 00: 15: 27,720
+Đúng.
+Hãy nhìn vào sức mạnh của tôi.
 
 237
-00:15:27,760 --> 00:15:30,040
-What is it with you lot tonight?
+00: 15: 27,760 -> 00: 15: 30,040
+Nó là gì với bạn nhiều tối nay?
 
 238
-00:15:30,080 --> 00:15:32,520
-Kneel before the might
-of the Lupari.
+00: 15: 30.080 -> 00: 15: 32.520
+Quỳ trước sức mạnh
+của Lupari.
 
 239
-00:15:32,560 --> 00:15:34,160
-You're paying for that door,
-you know.
+00: 15: 32,560 -> 00: 15: 34,160
+Bạn đang trả tiền cho cánh cửa đó,
+Bạn biết.
 
 240
-00:15:34,200 --> 00:15:35,840
-Be silent!
+00: 15: 34,200 -> 00: 15: 35,840
+Im lặng!
 
 241
-00:15:35,880 --> 00:15:41,640
-Or face execution
-at the hands of Karvanista.
+00: 15: 35,880 -> 00: 15: 41,640
+Hoặc đối mặt với sự hành quyết
+dưới bàn tay của Karvanista.
 
 242
-00:15:41,680 --> 00:15:44,240
+00: 15: 41,680 -> 00: 15: 44,240
 Vanquisher of
-the Thousand Civilisations.
+Nghìn nền văn minh.
 
 243
-00:15:44,280 --> 00:15:46,840
-Submit or die.
+00: 15: 44,280 -> 00: 15: 46,840
+Gửi hoặc chết.
 
 244
-00:15:46,880 --> 00:15:48,480
-Well, you've
-definitely put the effort in.
+00: 15: 46,880 -> 00: 15: 48,480
+Chà, bạn
+chắc chắn đặt nỗ lực vào.
 
 245
-00:15:48,520 --> 00:15:51,880
-You will not resist.
-You will do exactly
-as I command.
+00: 15: 48,520 -> 00: 15: 51,880
+Bạn sẽ không cưỡng lại.
+Bạn sẽ làm chính xác
+như tôi chỉ huy.
 
 246
-00:15:55,000 --> 00:15:56,960
-Don't think I will.
+00: 15: 55,000 -> 00: 15: 56,960
+Đừng nghĩ rằng tôi sẽ làm.
 
 247
-00:15:57,000 --> 00:16:01,240
-I said, you will not resist.
-You'll do exactly as I command.
+00: 15: 57,000 -> 00: 16: 01,240
+Tôi đã nói, bạn sẽ không kháng cự.
+Bạn sẽ làm chính xác như tôi chỉ huy.
 
 248
-00:16:01,280 --> 00:16:04,040
-And I said,
-get back out through that door.
+00: 16: 01,280 -> 00: 16: 04,040
+Và tôi đã nói,
+quay trở lại qua cánh cửa đó.
 
 249
-00:16:04,080 --> 00:16:05,280
-Or I'm getting the bizzies.
+00: 16: 04.080 -> 00: 16: 05.280
+Hoặc tôi nhận được bizzies.
 
 250
-00:16:05,320 --> 00:16:08,200
-- Why's that not working?
+00: 16: 05.320 -> 00: 16: 08.200
+- Tại sao nó không hoạt động?
 
 251
-00:16:08,240 --> 00:16:10,600
-- What's the matter with you?
-- What's the matter with me?
+00: 16: 08,240 -> 00: 16: 10,600
+- Có chuyện gì với bạn?
+- Chuyện gì xảy ra với tôi vậy?
 
 252
-00:16:10,640 --> 00:16:12,920
-I'm not the one going around
-smashing into people's houses
+00: 16: 10,640 -> 00: 16: 12,920
+Tôi không phải là người đi vòng quanh
+đập vào nhà dân
 
 253
-00:16:12,960 --> 00:16:13,960
-dressed as a dog.
+00: 16: 12,960 -> 00: 16: 13,960
+ăn mặc như một con chó.
 
 254
-00:16:15,760 --> 00:16:17,520
-What did you just call me?
+00: 16: 15,760 -> 00: 16: 17,520
+Bạn vừa gọi tôi là gì?
 
 255
-00:16:17,560 --> 00:16:19,400
-I mean it's good, like it's...
+00: 16: 17,560 -> 00: 16: 19,400
+Ý tôi là nó tốt, giống như ...
 
 256
-00:16:20,000 --> 00:16:21,160
-it's cute.
+00: 16: 20.000 -> 00: 16: 21.160
+nó dễ thương.
 
 257
-00:16:21,840 --> 00:16:22,840
-It looks dead soft.
+00: 16: 21,840 -> 00: 16: 22,840
+Nó trông mềm chết.
 
 258
-00:16:23,920 --> 00:16:25,800
-Is it real fur?
+00: 16: 23,920 -> 00: 16: 25,800
+Nó có phải là lông thật không?
 
 259
-00:16:25,840 --> 00:16:28,520
-You defile the sacred legacy
-of my forebears!
+00: 16: 25,840 -> 00: 16: 28,520
+Bạn làm ô uế di sản thiêng liêng
+tổ tiên của tôi!
 
 260
-00:16:28,560 --> 00:16:30,280
-You don't look
-anything like four bears.
+00: 16: 28,560 -> 00: 16: 30,280
+Bạn không nhìn
+bất cứ thứ gì giống như bốn con gấu.
 
 261
-00:16:30,320 --> 00:16:32,320
-Go on, shoo.
-Get back to your mam.
+00: 16: 30,320 -> 00: 16: 32,320
+Tiếp tục đi, shoo.
+Quay lại với mẹ của bạn.
 
 262
-00:16:32,360 --> 00:16:33,680
-Tell her what
-a brave lad you've been.
+00: 16: 32,360 -> 00: 16: 33,680
+Nói với cô ấy những gì
+một chàng trai dũng cảm mà bạn đã từng.
 
 263
-00:16:39,200 --> 00:16:41,880
-Never talk of my mother.
+00: 16: 39,200 -> 00: 16: 41,880
+Đừng bao giờ nói về mẹ tôi.
 
 264
-00:16:52,080 --> 00:16:53,080
+00: 16: 52,080 -> 00: 16: 53,080
 Liverpool.
 
 265
-00:16:53,880 --> 00:16:55,560
+00: 16: 53,880 -> 00: 16: 55,560
 Anfield.
 
 266
-00:16:55,600 --> 00:16:57,760
-Klopp era. Classic.
+00: 16: 55,600 -> 00: 16: 57,760
+Thời đại Klopp. Cổ điển.
 
 267
-00:16:57,800 --> 00:16:59,600
-Oh, Yaz,
-maybe we could take in a game,
+00: 16: 57,800 -> 00: 16: 59,600
+Ôi, mùa hè,
+có lẽ chúng ta có thể tham gia một trò chơi,
 
 268
-00:16:59,640 --> 00:17:02,160
-I've seen the Barcelona match
-nine times.
+00: 16: 59,640 -> 00: 17: 02,160
+Tôi đã xem trận đấu Barcelona
+chín lần.
 
 269
-00:17:02,200 --> 00:17:03,520
-I was a ball boy
-for Trent, once.
+00: 17: 02,200 -> 00: 17: 03,520
+Tôi là một cậu bé bóng
+cho Trent, một lần.
 
 270
-00:17:05,080 --> 00:17:06,080
-Hmm.
+00: 17: 05.080 -> 00: 17: 06.080
+Hừ!
 
 271
-00:17:10,840 --> 00:17:12,800
-Number 37.
+00: 17: 10,840 -> 00: 17: 12,800
+Số 37.
 
 272
-00:17:12,840 --> 00:17:15,600
-Non-terrestrial weapon
-dispersal traces.
+00: 17: 12,840 -> 00: 17: 15,600
+Vũ khí phi đất liền
+dấu vết phát tán.
 
 273
-00:17:22,080 --> 00:17:23,680
-And a door that's left open.
+00: 17: 22,080 -> 00: 17: 23,680
+Và một cánh cửa bị bỏ ngỏ.
 
 274
-00:17:24,960 --> 00:17:26,000
-Anyone home?
+00: 17: 24,960 -> 00: 17: 26,000
+Có ai ở nhà không?
 
 275
-00:17:33,280 --> 00:17:35,840
-I'm guessing, single bloke,
-definitely a Red.
+00: 17: 33,280 -> 00: 17: 35,840
+Tôi đoán, một bloke,
+chắc chắn là một màu Đỏ.
 
 276
-00:17:37,160 --> 00:17:38,720
-Someone's made
-a right mess in here.
+00: 17: 37,160 -> 00: 17: 38,720
+Ai đó đã làm
+một mớ hỗn độn đúng ở đây.
 
 277
-00:17:46,880 --> 00:17:51,240
-Ugh. Stun cube. Lupari tech.
-Karvanista was here.
+00: 17: 46,880 -> 00: 17: 51,240
+Ặc. Choáng khối lập phương. Công nghệ Lupari.
+Karvanista đã ở đây.
 
 278
-00:17:51,280 --> 00:17:52,640
-Looks like he took
-whoever lived here.
+00: 17: 51,280 -> 00: 17: 52,640
+Có vẻ như anh ấy đã lấy
+bất cứ ai đã sống ở đây.
 
 279
-00:17:52,680 --> 00:17:53,760
-Why would he do that?
+00: 17: 52,680 -> 00: 17: 53,760
+Tại sao anh lại làm vậy?
 
 280
-00:17:55,400 --> 00:17:57,080
+00: 17: 55,400 -> 00: 17: 57,080
 Daniel Lewis.
 
 281
-00:17:57,120 --> 00:17:59,560
-- This could be him.
-- So where is he now?
+00: 17: 57,120 -> 00: 17: 59,560
+- Đây có thể là anh ta.
+- Vậy bây giờ anh ấy đang ở đâu?
 
 282
-00:18:00,640 --> 00:18:02,400
-Ah. Quick check
-of planetary orbit.
+00: 18: 00,640 -> 00: 18: 02,400
+Ah. Kiểm tra nhanh
+của quỹ đạo hành tinh.
 
 283
-00:18:02,440 --> 00:18:03,800
-Nice laptop, Dan.
+00: 18: 02.440 -> 00: 18: 03.800
+Máy tính xách tay đẹp, Dan.
 
 284
-00:18:06,080 --> 00:18:07,080
-Right.
+00: 18: 06.080 -> 00: 18: 07.080
+Bên phải.
 
 285
-00:18:13,200 --> 00:18:14,840
-There. 7.2 minutes ago,
+00: 18: 13,200 -> 00: 18: 14,840
+Ở đó. 7,2 phút trước,
 
 286
-00:18:14,880 --> 00:18:17,600
+00: 18: 14,880 -> 00: 18: 17,600
 Karvanista's ship,
-leaving Earth,
+rời khỏi Trái đất,
 
 287
-00:18:17,640 --> 00:18:18,960
-shielded against detection.
+00: 18: 17,640 -> 00: 18: 18,960
+được che chắn để chống lại sự phát hiện.
 
 288
-00:18:19,000 --> 00:18:20,920
-- We're just behind him.
-- So where's he going?
+00: 18: 19,000 -> 00: 18: 20,920
+- Chúng tôi chỉ đứng sau anh ta.
+- Vậy anh ta đi đâu?
 
 289
-00:18:22,240 --> 00:18:23,920
-Why am I getting
-multiple traces?
+00: 18: 22,240 -> 00: 18: 23,920
+Tại sao tôi nhận được
+nhiều dấu vết?
 
 290
-00:18:25,000 --> 00:18:26,280
-Hang on while I zoom out.
+00: 18: 25.000 -> 00: 18: 26.280
+Giữ máy trong khi tôi thu nhỏ.
 
 291
-00:18:37,240 --> 00:18:39,520
-Seven billion Lupari ships
-coming this way.
+00: 18: 37,240 -> 00: 18: 39,520
+Bảy tỷ con tàu Lupari
+đến theo cách này.
 
 292
-00:18:40,320 --> 00:18:41,640
-That's an invasion fleet, right?
+00: 18: 40,320 -> 00: 18: 41,640
+Đó là một hạm đội xâm lược, phải không?
 
 293
-00:18:41,680 --> 00:18:43,560
-It looks like it.
+00: 18: 41,680 -> 00: 18: 43,560
+Có vẻ như vậy.
 
 294
-00:18:43,600 --> 00:18:46,760
-Karvanista's species,
-all heading here.
+00: 18: 43,600 -> 00: 18: 46,760
+Các loài của Karvanista,
+tất cả đều hướng đến đây.
 
 295
-00:18:46,800 --> 00:18:48,560
-Why was he ahead of them?
+00: 18: 46,800 -> 00: 18: 48,560
+Tại sao anh ấy lại đi trước họ?
 
 296
-00:18:48,600 --> 00:18:51,160
-And why take the bloke
-that lives here?
+00: 18: 48,600 -> 00: 18: 51,160
+Và tại sao lấy bloke
+sống ở đây?
 
 297
-00:18:51,200 --> 00:18:54,240
-Also, one other thing
-that's bugging me, tiny detail.
+00: 18: 51,200 -> 00: 18: 54,240
+Ngoài ra, một điều khác
+Điều đó làm tôi khó chịu, chi tiết nhỏ.
 
 298
-00:18:54,280 --> 00:18:57,120
-Why does Dan have
-such a flashy computer?
+00: 18: 54,280 -> 00: 18: 57,120
+Tại sao Dan có
+một máy tính hào nhoáng như vậy?
 
 299
-00:18:57,160 --> 00:18:58,280
-Because it's not his.
+00: 18: 57,160 -> 00: 18: 58,280
+Bởi vì nó không phải của anh ấy.
 
 300
-00:18:58,320 --> 00:18:59,440
-Get out!
+00: 18: 58,320 -> 00: 18: 59,440
+Ra khỏi!
 
 301
-00:19:13,680 --> 00:19:15,440
-- Oops.
+00: 19: 13,680 -> 00: 19: 15,440
+- Giáo sư.
 
 302
-00:19:16,880 --> 00:19:18,400
-- Ah. Sorry.
-- Sorry.
+00: 19: 16,880 -> 00: 19: 18,400
+- Ah. Xin lỗi.
+- Xin lỗi.
 
 303
-00:19:25,000 --> 00:19:26,640
-Hey, what have you done
-with the chilies?
+00: 19: 25.000 -> 00: 19: 26.640
+Này, bạn đã làm gì vậy
+với ớt?
 
 304
-00:19:28,240 --> 00:19:29,920
-Mmm. Have you tried the fridge?
+00: 19: 28,240 -> 00: 19: 29,920
+Ừm. Bạn đã thử tủ lạnh chưa?
 
 305
-00:19:29,960 --> 00:19:31,520
-Why would they be
-in the fridge?
+00: 19: 29,960 -> 00: 19: 31,520
+Tại sao họ sẽ là
+trong tủ lạnh?
 
 306
-00:19:31,560 --> 00:19:34,000
-- Well, sometimes you
-put them in the fridge.
-- I do not.
+00: 19: 31,560 -> 00: 19: 34,000
+- Chà, đôi khi bạn
+đặt chúng trong tủ lạnh.
+- Tôi không.
 
 307
-00:19:36,920 --> 00:19:38,200
-They're in the fridge.
+00: 19: 36,920 -> 00: 19: 38,200
+Chúng ở trong tủ lạnh.
 
 308
-00:19:38,240 --> 00:19:39,920
-Amazing.
+00: 19: 38,240 -> 00: 19: 39,920
+Kinh ngạc.
 
 309
-00:19:55,800 --> 00:19:57,000
-What do we do?
+00: 19: 55,800 -> 00: 19: 57,000
+Chúng ta làm gì?
 
 310
-00:19:57,040 --> 00:19:58,200
-I don't know.
+00: 19: 57,040 -> 00: 19: 58,200
+Tôi không biết.
 
 311
-00:19:59,120 --> 00:20:00,200
-Can we ignore it?
+00: 19: 59,120 -> 00: 20: 00,200
+Chúng ta có thể bỏ qua nó không?
 
 312
-00:20:01,920 --> 00:20:03,240
-They promised this
-would never happen.
+00: 20: 01,920 -> 00: 20: 03,240
+Họ đã hứa điều này
+sẽ không bao giờ xảy ra.
 
 313
-00:20:03,280 --> 00:20:05,240
-Except in the gravest
-of emergencies.
+00: 20: 03,280 -> 00: 20: 05,240
+Ngoại trừ trong bia mộ
+của các trường hợp khẩn cấp.
 
 314
-00:20:15,640 --> 00:20:17,120
-We didn't receive the warning.
+00: 20: 15,640 -> 00: 20: 17,120
+Chúng tôi không nhận được cảnh báo.
 
 315
-00:20:19,840 --> 00:20:21,000
-Come on.
+00: 20: 19,840 -> 00: 20: 21,000
+Cố lên.
 
 316
-00:20:21,680 --> 00:20:22,680
-Let's eat.
+00: 20: 21,680 -> 00: 20: 22,680
+Ăn thôi.
 
 317
-00:20:38,960 --> 00:20:40,080
-A dog shot me.
+00: 20: 38,960 -> 00: 20: 40,080
+Một con chó đã bắn tôi.
 
 318
-00:20:41,560 --> 00:20:43,320
-How can a dog shoot me? Ow!
+00: 20: 41,560 -> 00: 20: 43,320
+Làm thế nào một con chó có thể bắn tôi? Ồ!
 
 319
-00:20:44,600 --> 00:20:47,480
-The bars on that holding pen
-are electrified.
+00: 20: 44,600 -> 00: 20: 47,480
+Các thanh trên cây bút đang cầm đó
+được nhiễm điện.
 
 320
-00:20:47,520 --> 00:20:48,840
-What am I doing in here?
+00: 20: 47,520 -> 00: 20: 48,840
+Tôi đang làm gì ở đây?
 
 321
-00:20:50,400 --> 00:20:51,760
-Hang on. Holding pen?
+00: 20: 50,400 -> 00: 20: 51,760
+Treo lên. Giữ bút?
 
 322
-00:20:52,680 --> 00:20:54,680
-- I'm not an animal.
-- No.
+00: 20: 52,680 -> 00: 20: 54,680
+- Tôi không phải động vật.
+- Không.
 
 323
-00:20:54,720 --> 00:20:56,280
-Animals know when to be silent.
+00: 20: 54,720 -> 00: 20: 56,280
+Động vật biết khi nào cần im lặng.
 
 324
-00:20:56,320 --> 00:20:57,760
-You wait till I get out of here.
+00: 20: 56,320 -> 00: 20: 57,760
+Bạn đợi cho đến khi tôi ra khỏi đây.
 
 325
-00:20:57,800 --> 00:20:59,920
-- Why, what are you gonna do?
-- I'm gonna report you.
+00: 20: 57,800 -> 00: 20: 59,920
+- Sao, anh định làm gì?
+- Tôi sẽ báo cáo anh.
 
 326
-00:21:00,280 --> 00:21:02,640
-To who?
+00: 21: 00,280 -> 00: 21: 02,640
+Tới ai?
 
 327
-00:21:02,680 --> 00:21:04,960
-I'm gonna report you
-for kidnapping,
-what do you think of that?
+00: 21: 02,680 -> 00: 21: 04,960
+Tôi sẽ báo cáo bạn
+vì bắt cóc,
+Bạn nghĩ gì về điều đó?
 
 328
-00:21:05,000 --> 00:21:08,440
-Well, that's what's happening.
-So, fine.
+00: 21: 05,000 -> 00: 21: 08,440
+Đó là những gì đang xảy ra.
+Rất ổn.
 
 329
-00:21:08,800 --> 00:21:09,800
-What?
+00: 21: 08,800 -> 00: 21: 09,800
+Gì?
 
 330
-00:21:10,480 --> 00:21:11,480
-You're mine.
+00: 21: 10,480 -> 00: 21: 11,480
+Bạn là của tôi.
 
 331
-00:21:13,200 --> 00:21:16,280
-- And I'm taking you off-world.
-- What do you mean, off-world?
+00: 21: 13,200 -> 00: 21: 16,280
+- Và tôi đang đưa bạn đến với thế giới.
+- Ý bạn là gì, người ngoài thế giới?
 
 332
-00:21:26,840 --> 00:21:27,880
-That's space.
+00: 21: 26,840 -> 00: 21: 27,880
+Đó là không gian.
 
 333
-00:21:27,920 --> 00:21:30,520
-And they say
-you're a low-IQ species.
+00: 21: 27,920 -> 00: 21: 30,520
+Và họ nói
+bạn là một loài có chỉ số IQ thấp.
 
 334
-00:21:31,400 --> 00:21:33,360
-Well done.
+00: 21: 31,400 -> 00: 21: 33,360
+Tốt lắm.
 
 335
-00:21:33,400 --> 00:21:39,000
-We're travelling
-away from your planet,
-through space, on my spaceship.
+00: 21: 33,400 -> 00: 21: 39,000
+Chúng tôi đang đi du lịch
+xa hành tinh của bạn,
+xuyên không gian, trên tàu vũ trụ của tôi.
 
 336
-00:21:42,600 --> 00:21:46,280
-Oh. Look at your little brain
-trying to work it all out.
+00: 21: 42,600 -> 00: 21: 46,280
+Ồ. Nhìn vào bộ não nhỏ của bạn
+cố gắng làm việc tất cả.
 
 337
-00:21:47,280 --> 00:21:48,320
-Embarrassing.
+00: 21: 47,280 -> 00: 21: 48,320
+Xấu hổ.
 
 338
-00:21:49,120 --> 00:21:50,120
-Why, though?
+00: 21: 49,120 -> 00: 21: 50,120
+Tại sao, mặc dù vậy?
 
 339
-00:21:51,440 --> 00:21:53,760
-Why are you doing this?
-What's so special about me?
+00: 21: 51,440 -> 00: 21: 53,760
+Tại sao anh làm điều này?
+Tôi có gì đặc biệt?
 
 340
-00:21:53,800 --> 00:21:56,400
-Nothing.
-There's nothing
-special about you.
+00: 21: 53,800 -> 00: 21: 56,400
+Không.
+Không có gì
+đặc biệt về bạn.
 
 341
-00:21:56,440 --> 00:22:00,560
-You're insignificant,
-irrelevant,
-and utterly meaningless.
+00: 21: 56,440 -> 00: 22: 00,560
+Bạn không đáng kể,
+không liên quan,
+và hoàn toàn vô nghĩa.
 
 342
-00:22:01,440 --> 00:22:02,680
-You've gone to a lot of trouble
+00: 22: 01,440 -> 00: 22: 02,680
+Bạn đã gặp rất nhiều rắc rối
 
 343
-00:22:02,720 --> 00:22:05,280
-to kidnap someone
-who's completely irrelevant.
+00: 22: 02,720 -> 00: 22: 05,280
+bắt cóc ai đó
+người hoàn toàn không liên quan.
 
 344
-00:22:05,320 --> 00:22:07,200
-Or maybe I should
-just kill you!
-Yeah?
+00: 22: 05.320 -> 00: 22: 07.200
+Hoặc có lẽ tôi nên
+chỉ giết bạn!
+Vâng?
 
 345
-00:22:07,240 --> 00:22:08,800
-I could, right here.
+00: 22: 07,240 -> 00: 22: 08,800
+Tôi có thể, ngay tại đây.
 
 346
-00:22:08,840 --> 00:22:10,440
-Yeah, but you haven't though,
-have you?
+00: 22: 08,840 -> 00: 22: 10,440
+Vâng, nhưng bạn đã không,
+có bạn
 
 347
-00:22:12,160 --> 00:22:15,360
-No, you're not going to kill me.
-You could've done that
-in my kitchen.
+00: 22: 12,160 -> 00: 22: 15,360
+Không, bạn sẽ không giết tôi.
+Bạn có thể đã làm điều đó
+trong nhà bếp của tôi.
 
 348
-00:22:15,400 --> 00:22:17,560
-If you've gone to all
-this trouble to kidnap me,
+00: 22: 15,400 -> 00: 22: 17,560
+Nếu bạn đã đi đến tất cả
+rắc rối này để bắt cóc tôi,
 
 349
-00:22:17,600 --> 00:22:19,120
-killing me wouldn't make sense.
+00: 22: 17,600 -> 00: 22: 19,120
+giết tôi sẽ không có ý nghĩa.
 
 350
-00:22:20,160 --> 00:22:22,360
-Oh, I'm done talking to you.
+00: 22: 20,160 -> 00: 22: 22,360
+Ồ, tôi đã nói chuyện với bạn xong rồi.
 
 351
-00:22:22,400 --> 00:22:23,760
-I'm right, though, aren't I?
+00: 22: 22,400 -> 00: 22: 23,760
+Tuy nhiên, tôi đúng, phải không?
 
 352
-00:22:24,840 --> 00:22:25,920
-Go on. Off you go.
+00: 22: 24,840 -> 00: 22: 25,920
+Đi tiếp. Đi đi.
 
 353
-00:22:27,120 --> 00:22:28,600
-Hang on. Come back!
+00: 22: 27,120 -> 00: 22: 28,600
+Treo lên. Trở lại!
 
 354
-00:22:28,640 --> 00:22:30,440
-Where are we actually going?
+00: 22: 28,640 -> 00: 22: 30,440
+Chúng ta thực sự đang đi đâu?
 
 355
-00:22:30,480 --> 00:22:33,880
-Compressor blast.
-Tripped by the sonic.
+00: 22: 30,480 -> 00: 22: 33,880
+Máy nén nổ.
+Bị vấp bởi âm thanh.
 
 356
-00:22:36,240 --> 00:22:38,520
-He's deliberately leaving traps,
-in case he's followed.
+00: 22: 36,240 -> 00: 22: 38,520
+Anh ta đang cố tình để lại những cái bẫy,
+trong trường hợp anh ta bị theo dõi.
 
 357
-00:22:38,560 --> 00:22:40,880
-Clever, and dangerous,
-our Karvanista.
+00: 22: 38,560 -> 00: 22: 40,880
+Thông minh và nguy hiểm,
+Karvanista của chúng tôi.
 
 358
-00:22:40,920 --> 00:22:42,720
-So why are you obsessed
-with following him?
+00: 22: 40,920 -> 00: 22: 42,720
+Vậy tại sao bạn bị ám ảnh
+với việc theo dõi anh ta?
 
 359
-00:22:45,200 --> 00:22:47,200
-I don't know
-what you're talking about.
+00: 22: 45,200 -> 00: 22: 47,200
+Tôi không biết
+những gì bạn đang nói về.
 
 360
-00:22:47,240 --> 00:22:49,160
-"I need to see
-a man about a dog."
-That's all you said.
+00: 22: 47,240 -> 00: 22: 49,160
+"Tôi cần phải xem
+một người đàn ông về một con chó. "
+Đó là tất cả những gì bạn nói.
 
 361
-00:22:49,200 --> 00:22:51,520
-But it turns out
-the man is a dog,
-and he's called Karvanista,
+00: 22: 49,200 -> 00: 22: 51,520
+Nhưng hóa ra
+người đàn ông là một con chó,
+và anh ấy tên là Karvanista,
 
 362
-00:22:51,560 --> 00:22:53,800
-and you won't tell me why
-you're so interested in him.
+00: 22: 51,560 -> 00: 22: 53,800
+và bạn sẽ không nói cho tôi biết tại sao
+bạn rất quan tâm đến anh ấy.
 
 363
-00:22:54,640 --> 00:22:57,520
--Oh, my God.
+00: 22: 54,640 -> 00: 22: 57,520
+-Ôi chúa ơi.
 
 364
-00:22:57,560 --> 00:22:59,480
-- Doctor!
-- Who's that?
+00: 22: 57,560 -> 00: 22: 59,480
+- Bác sĩ!
+- Ai đó?
 
 365
-00:22:59,520 --> 00:23:01,720
-I have no idea.
+00: 22: 59,520 -> 00: 23: 01,720
+Tôi không có ý kiến.
 
 366
-00:23:01,760 --> 00:23:05,520
-Erm, I didn't expect
-to see you here.
-Not tonight.
+00: 23: 01,760 -> 00: 23: 05,520
+Erm, tôi không mong đợi
+để gặp bạn ở đây.
+Không phải tối nay.
 
 367
-00:23:05,560 --> 00:23:09,560
-Hi. Really sorry.
-We're in the middle
-of something quite important.
+00: 23: 05,560 -> 00: 23: 09,560
+Chào. Thật sự xin lỗi.
+Chúng tôi đang ở giữa
+của một cái gì đó khá quan trọng.
 
 368
-00:23:09,600 --> 00:23:11,960
-- Have we met?
-- Not yet. But we will.
+00: 23: 09,600 -> 00: 23: 11,960
+- Chúng ta gặp nhau chưa nhỉ?
+- Vẫn chưa. Nhưng chúng tôi sẽ làm.
 
 369
-00:23:13,040 --> 00:23:14,920
-In the past, I think.
-If it's true.
+00: 23: 13,040 -> 00: 23: 14,920
+Trong quá khứ, tôi nghĩ.
+Nếu nó là sự thật.
 
 370
-00:23:16,360 --> 00:23:17,640
-I'm Claire.
+00: 23: 16,360 -> 00: 23: 17,640
+Tôi là Claire.
 
 371
-00:23:17,680 --> 00:23:18,920
-If what's true, Claire?
+00: 23: 17,680 -> 00: 23: 18,920
+Nếu điều gì là sự thật, Claire?
 
 372
-00:23:19,960 --> 00:23:22,040
-You don't seem
-too sure about your past.
+00: 23: 19,960 -> 00: 23: 22,040
+Bạn dường như không
+quá chắc chắn về quá khứ của bạn.
 
 373
-00:23:22,080 --> 00:23:24,040
-Oh God, look at your faces.
+00: 23: 22,080 -> 00: 23: 24,040
+Ôi Chúa ơi, hãy nhìn vào khuôn mặt của bạn.
 
 374
-00:23:24,080 --> 00:23:25,520
-I know,
-I sound like a loon.
+00: 23: 24,080 -> 00: 23: 25,520
+Tôi biết,
+Tôi nghe như một con loon.
 
 375
-00:23:25,560 --> 00:23:26,840
-Don't let me distract you.
+00: 23: 25,560 -> 00: 23: 26,840
+Đừng để tôi phân tâm.
 
 376
-00:23:26,880 --> 00:23:28,880
-I didn't even know
-you'd be here.
-I was just...
+00: 23: 26,880 -> 00: 23: 28,880
+Tôi thậm chí còn không biết
+bạn sẽ ở đây.
+Tôi chỉ ...
 
 377
-00:23:30,800 --> 00:23:31,840
-taking the long way home.
+00: 23: 30,800 -> 00: 23: 31,840
+đi đường dài về nhà.
 
 378
-00:23:33,560 --> 00:23:34,840
-'Cause it's Halloween.
+00: 23: 33,560 -> 00: 23: 34,840
+Vì đó là Halloween.
 
 379
-00:23:41,840 --> 00:23:44,200
-Lupari fleet is getting closer.
+00: 23: 41,840 -> 00: 23: 44,200
+Hạm đội Lupari đang tiến gần hơn.
 
 380
-00:23:44,240 --> 00:23:46,320
-We don't have any more time.
-Come on, Yaz.
+00: 23: 44,240 -> 00: 23: 46,320
+Chúng ta không còn thời gian nữa.
+Cố lên, Summer.
 
 381
-00:23:47,920 --> 00:23:48,920
-It's okay.
+00: 23: 47,920 -> 00: 23: 48,920
+Không sao đâu.
 
 382
-00:23:50,120 --> 00:23:51,160
-We'll see each other again.
+00: 23: 50,120 -> 00: 23: 51,160
+Chúng ta sẽ gặp lại nhau.
 
 383
-00:23:52,240 --> 00:23:53,240
-Look after yourself.
+00: 23: 52,240 -> 00: 23: 53,240
+Chăm sóc chính mình.
 
 384
-00:23:57,240 --> 00:23:59,080
-Woah. That's not right.
+00: 23: 57,240 -> 00: 23: 59,080
+Chà! Điều đó không đúng.
 
 385
-00:24:00,960 --> 00:24:02,120
-The door's moved.
+00: 24: 00,960 -> 00: 24: 02,120
+Cửa đã chuyển.
 
 386
-00:24:02,560 --> 00:24:03,560
-Yeah.
+00: 24: 02,560 -> 00: 24: 03,560
+Vâng.
 
 387
-00:24:04,480 --> 00:24:05,760
-That's never happened before.
+00: 24: 04.480 -> 00: 24: 05.760
+Điều đó chưa bao giờ xảy ra trước đây.
 
 388
-00:24:06,640 --> 00:24:07,640
-No.
+00: 24: 06,640 -> 00: 24: 07,640
+Không.
 
 389
-00:24:12,000 --> 00:24:13,600
-You've got to
-go home now, Claire.
+00: 24: 12.000 -> 00: 24: 13.600
+Bạn đã có để
+về nhà ngay, Claire.
 
 390
-00:24:21,080 --> 00:24:23,440
-Right, let's get
-a lock on Karvanista.
+00: 24: 21.080 -> 00: 24: 23.440
+Đúng, chúng ta hãy lấy
+một chiếc khóa là của Karvan.
 
 391
-00:24:23,480 --> 00:24:24,840
-- Co-pilot?
-- Course.
+00: 24: 23,480 -> 00: 24: 24,840
+- Phi công phụ?
+- Món ăn.
 
 392
-00:24:24,880 --> 00:24:26,320
-Sending Karvanista's Craft ID.
+00: 24: 24,880 -> 00: 24: 26,320
+Gửi ID nghề của Karvanista.
 
 393
-00:24:26,360 --> 00:24:28,960
-Cross-referencing
-with spatial-temporal locations,
+00: 24: 26.360 -> 00: 24: 28.960
+Tham khảo chéo
+với các vị trí không gian-thời gian,
 
 394
-00:24:29,000 --> 00:24:30,960
-I'll restrict to
-this solar system
-and time zone
+00: 24: 29,000 -> 00: 24: 30,960
+Tôi sẽ hạn chế
+hệ mặt trời này
+và múi giờ
 
 395
-00:24:31,000 --> 00:24:32,160
-for exact trajectory.
+00: 24: 31,000 -> 00: 24: 32,160
+cho quỹ đạo chính xác.
 
 396
-00:24:32,200 --> 00:24:33,840
-Yeah. I'll jam his radar,
+00: 24: 32,200 -> 00: 24: 33,840
+Vâng. Tôi sẽ làm nhiễu radar của anh ấy,
 
 397
-00:24:33,880 --> 00:24:34,920
-and find a sweet spot
-on his ship
+00: 24: 33,880 -> 00: 24: 34,920
+và tìm một điểm ngọt ngào
+trên con tàu của anh ấy
 
 398
-00:24:34,960 --> 00:24:36,000
-for us to land unnoticed.
+00: 24: 34,960 -> 00: 24: 36,000
+để chúng tôi hạ cánh không được chú ý.
 
 399
-00:24:41,560 --> 00:24:43,800
+00: 24: 41,560 -> 00: 24: 43,800
 - Ah.
-- Final adjustment?
+- Điều chỉnh cuối cùng?
 
 400
-00:24:43,840 --> 00:24:44,920
-Final adjustment.
+00: 24: 43,840 -> 00: 24: 44,920
+Điều chỉnh cuối cùng.
 
 401
-00:24:47,720 --> 00:24:48,720
+00: 24: 47,720 -> 00: 24: 48,720
 Ah.
 
 402
-00:24:49,640 --> 00:24:50,640
-Right.
+00: 24: 49,640 -> 00: 24: 50,640
+Bên phải.
 
 403
-00:24:52,800 --> 00:24:53,840
-What are you doing?
+00: 24: 52,800 -> 00: 24: 53,840
+Bạn đang làm gì đấy?
 
 404
-00:24:53,880 --> 00:24:56,040
-Checking all systems
-for malfunctions.
+00: 24: 53,880 -> 00: 24: 56,040
+Kiểm tra tất cả các hệ thống
+cho các trục trặc.
 
 405
-00:24:56,080 --> 00:25:01,360
-Also, quick MOT check
-on my mind,
-had a little glitch earlier.
+00: 24: 56,080 -> 00: 25: 01,360
+Ngoài ra, kiểm tra nhanh Bộ GTVT
+trong tâm trí tôi,
+đã có một chút trục trặc trước đó.
 
 406
-00:25:01,400 --> 00:25:03,200
-What sort of glitch?
-You didn't mention it.
+00: 25: 01,400 -> 00: 25: 03,200
+Loại trục trặc nào?
+Bạn đã không đề cập đến nó.
 
 407
-00:25:03,240 --> 00:25:05,560
-You know what, Yaz,
-I don't mention everything.
+00: 25: 03,240 -> 00: 25: 05,560
+Bạn biết gì không, Yaz,
+Tôi không đề cập đến mọi thứ.
 
 408
-00:25:05,600 --> 00:25:07,840
-- No kidding.
-- Are you being mardy?
+00: 25: 05,600 -> 00: 25: 07,840
+- Không đua đâu.
+- Bạn có đang bị lãng quên không?
 
 409
-00:25:09,080 --> 00:25:10,360
-What sort of glitch?
+00: 25: 09.080 -> 00: 25: 10.360
+Loại trục trặc nào?
 
 410
-00:25:10,400 --> 00:25:12,040
-A glitchy glitch.
-What does it matter?
+00: 25: 10,400 -> 00: 25: 12,040
+Một trục trặc không đáng có.
+Nó có vấn đề gì?
 
 411
-00:25:12,080 --> 00:25:13,480
-Because I thought
-we were friends.
+00: 25: 12,080 -> 00: 25: 13,480
+Vì tôi nghĩ rằng
+chúng tôi đã là bạn bè.
 
 412
-00:25:13,520 --> 00:25:14,720
-We are friends.
+00: 25: 13,520 -> 00: 25: 14,720
+Chúng ta là bạn bè.
 
 413
-00:25:15,520 --> 00:25:17,760
-Then why won't you let me in?
+00: 25: 15,520 -> 00: 25: 17,760
+Vậy tại sao bạn không cho tôi vào?
 
 414
-00:25:17,800 --> 00:25:19,720
-- What's going on with you?
-- Nothing is going on with me.
+00: 25: 17,800 -> 00: 25: 19,720
+- Chuyện gì đang xảy ra với bạn?
+- Không có chuyện gì xảy ra với tôi.
 
 415
-00:25:19,760 --> 00:25:21,240
-Don't lie.
+00: 25: 19,760 -> 00: 25: 21,240
+Đừng nói dối.
 
 416
-00:25:24,880 --> 00:25:26,760
-Have we not had
-a good time together?
+00: 25: 24,880 -> 00: 25: 26,760
+Chúng ta chưa có
+một thời gian tốt với nhau?
 
 417
-00:25:26,800 --> 00:25:28,320
-Since Ryan and Graham left,
+00: 25: 26,800 -> 00: 25: 28,320
+Kể từ khi Ryan và Graham rời đi,
 
 418
-00:25:28,360 --> 00:25:30,600
-- have I not taken you
-to amazing places?
-- Of course, but...
+00: 25: 28.360 -> 00: 25: 30.600
+- tôi đã không đưa bạn đi
+đến những nơi tuyệt vời?
+- Tất nhiên, nhưng ...
 
 419
-00:25:30,640 --> 00:25:31,800
-I thought I was showing you
+00: 25: 30,640 -> 00: 25: 31,800
+Tôi nghĩ rằng tôi đang cho bạn thấy
 
 420
-00:25:31,840 --> 00:25:33,200
-experiences of a lifetime.
+00: 25: 31,840 -> 00: 25: 33,200
+kinh nghiệm của một cuộc đời.
 
 421
-00:25:34,280 --> 00:25:35,760
-You're hiding something,
+00: 25: 34,280 -> 00: 25: 35,760
+Bạn đang che giấu điều gì đó,
 
 422
-00:25:35,800 --> 00:25:37,280
-about him.
+00: 25: 35,800 -> 00: 25: 37,280
+về anh ấy.
 
 423
-00:25:37,320 --> 00:25:39,600
-About why you tracked him down
-in the first place.
+00: 25: 37,320 -> 00: 25: 39,600
+Về lý do tại sao bạn theo dõi anh ấy
+ngay từ đầu.
 
 424
-00:25:40,760 --> 00:25:42,000
-Tell me.
+00: 25: 40,760 -> 00: 25: 42,000
+Nói với tôi.
 
 425
-00:25:47,040 --> 00:25:48,040
-What was that?
+00: 25: 47,040 -> 00: 25: 48,040
+Đó là gì?
 
 426
-00:25:52,320 --> 00:25:54,840
-Temporal residue surrounding
+00: 25: 52,320 -> 00: 25: 54,840
+Dư lượng thời gian xung quanh
 Karvanista's ship.
 
 427
-00:25:54,880 --> 00:25:55,960
-Is it us or him?
+00: 25: 54,880 -> 00: 25: 55,960
+Đó là chúng tôi hay anh ta?
 
 428
-00:25:56,000 --> 00:25:57,760
-Him. Very much him.
+00: 25: 56,000 -> 00: 25: 57,760
+Anh ta. Rất thích anh ấy.
 
 429
-00:25:58,840 --> 00:26:00,000
-It's like his ship's
-covered in it.
+00: 25: 58,840 -> 00: 26: 00,000
+Nó giống như con tàu của anh ấy
+được bao phủ trong đó.
 
 430
-00:26:00,040 --> 00:26:01,720
-That shouldn't be happening.
+00: 26: 00,040 -> 00: 26: 01,720
+Điều đó không nên xảy ra.
 
 431
-00:26:01,760 --> 00:26:03,080
-We're pushing through it
-to land.
+00: 26: 01,760 -> 00: 26: 03,080
+Chúng tôi đang cố gắng vượt qua nó
+hạ cánh.
 
 432
-00:26:05,360 --> 00:26:06,760
-Nothing is as it should be, Yaz.
+00: 26: 05.360 -> 00: 26: 06.760
+Không có gì phải như vậy đâu, Yaz.
 
 433
-00:26:07,720 --> 00:26:09,280
-Too much
-out of the ordinary tonight.
+00: 26: 07,720 -> 00: 26: 09,280
+Quá nhiều
+khác thường tối nay.
 
 434
-00:26:49,080 --> 00:26:50,080
-Mustn't blink.
+00: 26: 49,080 -> 00: 26: 50,080
+Không được chớp mắt.
 
 435
-00:26:51,800 --> 00:26:54,800
-If you blink, it will move.
+00: 26: 51,800 -> 00: 26: 54,800
+Nếu bạn chớp mắt, nó sẽ di chuyển.
 
 436
-00:26:55,480 --> 00:26:56,520
-Don't blink.
+00: 26: 55,480 -> 00: 26: 56,520
+Đừng chớp mắt.
 
 437
-00:27:41,920 --> 00:27:43,680
-Don't blink.
+00: 27: 41,920 -> 00: 27: 43,680
+Đừng chớp mắt.
 
 438
-00:28:03,680 --> 00:28:06,760
-<i>The universe is looking
-particularly beautiful today. </i>
+00: 28: 03,680 -> 00: 28: 06,760
+<i> Vũ trụ đang tìm kiếm
+đặc biệt đẹp ngày hôm nay. </i>
 
 439
-00:28:08,040 --> 00:28:09,760
-Observation officer
-Vinder reporting,
+00: 28: 08.040 -> 00: 28: 09.760
+Quan sát viên
+Báo cáo người chiến thắng,
 
 440
-00:28:09,800 --> 00:28:12,920
-as per assigned duty.
+00: 28: 09,800 -> 00: 28: 12,920
+theo nhiệm vụ được giao.
 
 441
-00:28:12,960 --> 00:28:17,840
-Status report,
-rotation number 21,754.
+00: 28: 12,960 -> 00: 28: 17,840
+Báo cáo,
+số vòng quay 21.754.
 
 442
-00:28:17,880 --> 00:28:20,640
-No activity.
-No change in status.
+00: 28: 17,880 -> 00: 28: 20,640
+Không hoạt động.
+Không thay đổi trạng thái.
 
 443
-00:28:21,200 --> 00:28:23,360
-Summary, constant.
+00: 28: 21,200 -> 00: 28: 23,360
+Tóm tắt, hằng số.
 
 444
-00:28:23,400 --> 00:28:30,040
-Everything remains
-as per my previous
-21,753 reports.
+00: 28: 23,400 -> 00: 28: 30,040
+Mọi thứ còn lại
+như trước đây của tôi
+21.753 báo cáo.
 
 445
-00:28:31,400 --> 00:28:32,440
-Nothing has changed.
+00: 28: 31,400 -> 00: 28: 32,440
+Không có gì thay đổi.
 
 446
-00:28:33,440 --> 00:28:34,720
-Nothing ever changes.
+00: 28: 33,440 -> 00: 28: 34,720
+Không có gì thay đổi.
 
 447
-00:28:35,640 --> 00:28:37,040
-But then, you know that.
+00: 28: 35,640 -> 00: 28: 37,040
+Nhưng sau đó, bạn biết điều đó.
 
 448
-00:28:38,000 --> 00:28:39,600
-Additional comments.
+00: 28: 38,000 -> 00: 28: 39,600
+Ý kiến ​​khác.
 
 449
-00:28:39,640 --> 00:28:45,040
-My spirits remain high,
-while there is little
-or no activity.
+00: 28: 39,640 -> 00: 28: 45,040
+Tinh thần của tôi vẫn cao,
+trong khi có rất ít
+hoặc không có hoạt động.
 
 450
-00:28:47,200 --> 00:28:55,400
-The sheer beauty
-of what I can see is...
-unimaginable!
+00: 28: 47,200 -> 00: 28: 55,400
+Vẻ đẹp tuyệt đối
+những gì tôi có thể thấy là ...
+không thể tưởng tượng được!
 
 451
-00:28:55,440 --> 00:29:00,160
-<i>I'm lucky to observe that
-which few others will ever see. </i>
+00: 28: 55,440 -> 00: 29: 00,160
+<i> Tôi thật may mắn khi quan sát thấy điều đó
+mà ít người khác sẽ từng thấy. </i>
 
 452
-00:29:01,160 --> 00:29:03,920
-For that at least, I thank you.
+00: 29: 01,160 -> 00: 29: 03,920
+Vì điều đó ít nhất, tôi cảm ơn bạn.
 
 453
-00:29:05,280 --> 00:29:06,680
-In all other respects,
+00: 29: 05,280 -> 00: 29: 06,680
+Trong tất cả các khía cạnh khác,
 
 454
-00:29:06,720 --> 00:29:09,360
-I conclude this report
-with my usual
-sign-off request,
+00: 29: 06,720 -> 00: 29: 09,360
+Tôi kết thúc báo cáo này
+với bình thường của tôi
+yêu cầu đăng xuất,
 
 455
-00:29:10,120 --> 00:29:11,160
-that you all go to hell.
+00: 29: 10,120 -> 00: 29: 11,160
+rằng tất cả các bạn đi đến địa ngục.
 
 456
-00:29:18,760 --> 00:29:19,800
-System?
+00: 29: 18,760 -> 00: 29: 19,800
+Hệ thống?
 
 457
-00:29:19,840 --> 00:29:21,240
-<i>Yes, Commander.</i>
+00: 29: 19,840 -> 00: 29: 21,240
+<i> Vâng, chỉ huy. </i>
 
 458
-00:29:21,280 --> 00:29:23,240
-Amplify Thoribus section.
+00: 29: 21,280 -> 00: 29: 23,240
+Khuếch đại phần Thoribus.
 
 459
-00:29:23,280 --> 00:29:25,320
-<i>Of course. Amplifying.</i>
+00: 29: 23,280 -> 00: 29: 25,320
+Tất nhiên. Khuếch đại. </i>
 
 460
-00:29:26,760 --> 00:29:28,960
-What is that?
+00: 29: 26,760 -> 00: 29: 28,960
+Đó là gì?
 
 461
-00:29:29,000 --> 00:29:33,560
-System, analyse and focus on
-the Thoribus Trifecta.
+00: 29: 29,000 -> 00: 29: 33,560
+Hệ thống, phân tích và tập trung vào
+Thoribus Trifecta.
 
 462
-00:29:33,600 --> 00:29:37,920
-<i>Analysing
+00: 29: 33,600 -> 00: 29: 37,920
+<i> Phân tích
 Thoribus Trifecta.
-Unknown phenomena detected.  </i>
+Các hiện tượng không xác định được phát hiện. </i>
 
 463
-00:29:39,280 --> 00:29:41,920
-<i>Analysing,
-anomalous property detected. </i>
+00: 29: 39,280 -> 00: 29: 41,920
+<i> Phân tích,
+tài sản bất thường được phát hiện. </i>
 
 464
-00:29:41,960 --> 00:29:44,320
-What in the name
-of the saints...
+00: 29: 41,960 -> 00: 29: 44,320
+Tên gì
+của các thánh ...
 
 465
-00:29:56,720 --> 00:29:58,480
-<i>Thoribus minor
-destroyed. </i>
+00: 29: 56,720 -> 00: 29: 58,480
+<i> Thoribus nhỏ
+bị phá hủy. </i>
 
 466
-00:29:58,520 --> 00:30:00,600
-<i>Unknown phenomena approaching.</i>
+00: 29: 58,520 -> 00: 30: 00,600
+<i> Hiện tượng không xác định đang đến gần. </i>
 
 467
-00:30:00,640 --> 00:30:02,840
-<i>Outpost Rose
-is compromised. </i>
+00: 30: 00,640 -> 00: 30: 02,840
+<i> Outpost Rose
+bị xâm phạm. </i>
 
 468
-00:30:02,880 --> 00:30:06,480
-Emergency status update.
-Urgent warning transmission.
+00: 30: 02.880 -> 00: 30: 06.480
+Cập nhật tình trạng khẩn cấp.
+Truyền cảnh báo khẩn cấp.
 
 469
-00:30:50,160 --> 00:30:51,240
+00: 30: 50,160 -> 00: 30: 51,240
 -Jon?
 
 470
-00:30:53,280 --> 00:30:54,400
-Don't touch anything!
+00: 30: 53,280 -> 00: 30: 54,400
+Đừng chạm vào bất cứ thứ gì!
 
 471
-00:31:06,480 --> 00:31:09,120
-Why is this thought in my mind?
+00: 31: 06,480 -> 00: 31: 09,120
+Tại sao lại có suy nghĩ này trong đầu tôi?
 
 472
-00:31:09,720 --> 00:31:10,720
-What thought?
+00: 31: 09,720 -> 00: 31: 10,720
+Ý nghĩ gì?
 
 473
-00:31:13,640 --> 00:31:14,640
-Thank you.
+00: 31: 13,640 -> 00: 31: 14,640
+Cảm ơn bạn.
 
 474
-00:31:24,000 --> 00:31:29,280
-My sister...
-How I have missed you.
+00: 31: 24,000 -> 00: 31: 29,280
+Chị tôi...
+Tôi đã nhớ bạn như thế nào.
 
 475
-00:31:41,480 --> 00:31:43,640
-So we think this Dan bloke
-is somewhere on board?
+00: 31: 41,480 -> 00: 31: 43,640
+Vì vậy, chúng tôi nghĩ rằng Dan bloke này
+ở đâu đó trên tàu?
 
 476
-00:31:43,680 --> 00:31:46,440
-Yeah. Now just gonna take
-out his security systems
+00: 31: 43,680 -> 00: 31: 46,440
+Vâng. Bây giờ chỉ cần lấy
+ra khỏi hệ thống an ninh của anh ấy
 
 477
-00:31:46,480 --> 00:31:47,600
-before we get spotted.
+00: 31: 46,480 -> 00: 31: 47,600
+trước khi chúng tôi bị phát hiện.
 
 478
-00:31:47,640 --> 00:31:48,680
-And lay another hack.
+00: 31: 47,640 -> 00: 31: 48,680
+Và đặt một vụ hack khác.
 
 479
-00:31:48,720 --> 00:31:49,720
-Here, hold this.
+00: 31: 48,720 -> 00: 31: 49,720
+Nè, giữ lấy cái này đi.
 
 480
-00:31:50,360 --> 00:31:53,160
-Well... where is it?
+00: 31: 50,360 -> 00: 31: 53,160
+Chà ... nó ở đâu?
 
 481
-00:31:56,200 --> 00:31:58,720
-Left over hopper virus particles
-should do the trick.
+00: 31: 56,200 -> 00: 31: 58,720
+Còn lại các hạt virus rầy
+nên làm thủ thuật.
 
 482
-00:32:00,880 --> 00:32:03,080
-Right, you find Dan.
+00: 32: 00,880 -> 00: 32: 03,080
+Đúng vậy, bạn tìm thấy Dan.
 
 483
-00:32:03,120 --> 00:32:04,720
-I'll confront Karvanista,
-meet back here.
+00: 32: 03,120 -> 00: 32: 04,720
+Tôi sẽ đối đầu với Karvanista,
+gặp lại ở đây.
 
 484
-00:32:04,760 --> 00:32:07,080
-Confront him?
-Do you not remember
-how that ended up last time?
+00: 32: 04,760 -> 00: 32: 07,080
+Đối đầu với anh ta?
+Bạn không nhớ à
+lần trước kết thúc như thế nào?
 
 485
-00:32:07,120 --> 00:32:08,280
-Yes, we got away.
+00: 32: 07,120 -> 00: 32: 08,280
+Vâng, chúng tôi đã đi.
 
 486
-00:32:08,320 --> 00:32:09,920
-- Doctor!
-- The prisoner's hold
-is that way.
+00: 32: 08,320 -> 00: 32: 09,920
+- Bác sĩ!
+- Trại giam của tù nhân
+Theo cách đó.
 
 487
-00:32:09,960 --> 00:32:12,480
-If you hear
-gunfire or explosions,
-get back sharpish.
+00: 32: 09,960 -> 00: 32: 12,480
+Nếu bạn nghe thấy
+tiếng súng hoặc vụ nổ,
+lấy lại sắc nét.
 
 488
-00:32:12,520 --> 00:32:14,000
-Right, synchronise watches.
+00: 32: 12,520 -> 00: 32: 14,000
+Đúng, đồng bộ hóa đồng hồ.
 
 489
-00:32:14,040 --> 00:32:15,800
-Forget that,
-I'm not wearing a watch.
-Any questions?
+00: 32: 14,040 -> 00: 32: 15,800
+Quên đi,
+Tôi không đeo đồng hồ.
+Có câu hỏi nào không?
 
 490
-00:32:15,840 --> 00:32:17,360
-No? See you soon.
+00: 32: 15,840 -> 00: 32: 17,360
+Không? Hẹn sớm gặp lại.
 
 491
-00:32:20,200 --> 00:32:23,640
-"Does that
-make sense to you, Yaz?"
-Not really Doctor, no.
+00: 32: 20,200 -> 00: 32: 23,640
+"Có phải không
+có ý nghĩa với bạn không, Yaz? "
+Không hẳn là Tiến sĩ, không.
 
 492
-00:32:23,680 --> 00:32:28,200
-Karvanista to Lupari command,
-unknown temporal propulsion
-has been corrected.
+00: 32: 23,680 -> 00: 32: 28,200
+Lệnh Karvanista đến Lupari,
+lực đẩy thời gian không xác định
+đã được chỉnh sửa.
 
 493
-00:32:28,240 --> 00:32:32,000
-Now activating
-strategic formation realignment
-to rejoin battalion.
+00: 32: 28,240 -> 00: 32: 32,000
+Hiện đang kích hoạt
+tổ chức lại hình thành chiến lược
+tái gia nhập tiểu đoàn.
 
 494
-00:32:32,040 --> 00:32:35,880
-Also sharing mission intel
-of Earth festival Halloween
+00: 32: 32,040 -> 00: 32: 35,880
+Cũng chia sẻ thông tin về sứ mệnh
+lễ hội của trái đất Halloween
 
 495
-00:32:35,920 --> 00:32:38,920
-which may affect
-some operational deployments.
+00: 32: 35,920 -> 00: 32: 38,920
+có thể ảnh hưởng đến
+một số triển khai hoạt động.
 
 496
-00:32:38,960 --> 00:32:40,360
-I've got a bone
-to pick with you.
+00: 32: 38,960 -> 00: 32: 40,360
+Tôi có một cái xương
+để chọn với bạn.
 
 497
-00:32:41,600 --> 00:32:43,200
-Oh, come on!
+00: 32: 41,600 -> 00: 32: 43,200
+Oh, thôi nào!
 
 498
-00:32:43,240 --> 00:32:45,680
-How many traps
-do I have to leave
-to get rid of you?
+00: 32: 43,240 -> 00: 32: 45,680
+Có bao nhiêu cái bẫy
+tôi có phải đi không
+để thoát khỏi bạn?
 
 499
-00:32:45,720 --> 00:32:46,960
-More than you have done so far.
+00: 32: 45,720 -> 00: 32: 46,960
+Nhiều hơn những gì bạn đã làm cho đến nay.
 
 500
-00:32:47,000 --> 00:32:48,440
-I don't have time
-for you right now.
+00: 32: 47,000 -> 00: 32: 48,440
+Tôi không có thời gian
+cho bạn ngay bây giờ.
 
 501
-00:32:48,480 --> 00:32:49,480
-You're gonna make time.
+00: 32: 48,480 -> 00: 32: 49,480
+Bạn sẽ có thời gian.
 
 502
-00:32:54,160 --> 00:32:56,080
-Did you just shut my ship down?
+00: 32: 54,160 -> 00: 32: 56,080
+Bạn vừa đóng cửa tàu của tôi?
 
 503
-00:32:57,280 --> 00:32:58,760
-Yes, I did.
+00: 32: 57,280 -> 00: 32: 58,760
+Vâng, tôi đã làm.
 
 504
-00:32:59,560 --> 00:33:00,960
-And now your weapon as well.
+00: 32: 59,560 -> 00: 33: 00,960
+Và bây giờ là vũ khí của bạn.
 
 505
-00:33:01,000 --> 00:33:03,160
-Because I've tracked you
-down across
-half the universe
+00: 33: 01,000 -> 00: 33: 03,160
+Bởi vì tôi đã theo dõi bạn
+xuống ngang qua
+một nửa vũ trụ
 
 506
-00:33:03,200 --> 00:33:05,440
-and you're gonna stand there
-while I tell you two things.
+00: 33: 03,200 -> 00: 33: 05,440
+và bạn sẽ đứng đó
+trong khi tôi nói với bạn hai điều.
 
 507
-00:33:05,480 --> 00:33:09,040
-Number one, the Lupari invasion
-of Earth is off.
+00: 33: 05,480 -> 00: 33: 09,040
+Số một, cuộc xâm lược Lupari
+của Trái đất đã tắt.
 
 508
-00:33:10,240 --> 00:33:11,360
-What are you talking about?
+00: 33: 10,240 -> 00: 33: 11,360
+Bạn đang nói về cái gì vậy?
 
 509
-00:33:11,400 --> 00:33:12,960
-I couldn't be clearer.
+00: 33: 11,400 -> 00: 33: 12,960
+Tôi không thể rõ ràng hơn.
 
 510
-00:33:13,000 --> 00:33:17,000
-You tell the rest of your people
-to stay away from Earth.
+00: 33: 13,000 -> 00: 33: 17,000
+Bạn nói với những người còn lại của bạn
+để tránh xa Trái đất.
 
 511
-00:33:17,040 --> 00:33:19,960
-It is protected, is protected,
+00: 33: 17,040 -> 00: 33: 19,960
+Nó được bảo vệ, được bảo vệ,
 
 512
-00:33:22,360 --> 00:33:26,480
-protected by me, to be clear.
+00: 33: 22,360 -> 00: 33: 26,480
+được bảo vệ bởi tôi, để được rõ ràng.
 
 513
-00:33:26,520 --> 00:33:30,920
-Number two,
-you're gonna tell me everything
-you know about The Division.
+00: 33: 26,520 -> 00: 33: 30,920
+Số hai,
+bạn sẽ nói với tôi tất cả mọi thứ
+bạn biết về The Division.
 
 514
-00:33:33,400 --> 00:33:34,480
-Dan Lewis, right?
+00: 33: 33,400 -> 00: 33: 34,480
+Dan Lewis, phải không?
 
 515
-00:33:34,800 --> 00:33:35,800
-Ow!
+00: 33: 34,800 -> 00: 33: 35,800
+Ồ!
 
 516
-00:33:36,640 --> 00:33:38,280
-Might be. Who are you?
+00: 33: 36,640 -> 00: 33: 38,280
+Có thể là. Bạn là ai?
 
 517
-00:33:38,320 --> 00:33:40,840
-Rescue party.
-Keep quiet and stay still.
+00: 33: 38,320 -> 00: 33: 40,840
+Bên cứu hộ.
+Giữ im lặng và nằm yên.
 
 518
-00:33:40,880 --> 00:33:45,440
-It looks like this
-holding pen has
-nine different booby traps.
+00: 33: 40,880 -> 00: 33: 45,440
+Nó trông như thế này
+cầm bút có
+chín bẫy booby khác nhau.
 
 519
-00:33:45,480 --> 00:33:47,400
-How do you know that?
+00: 33: 45,480 -> 00: 33: 47,400
+Làm sao bạn biết điều đó?
 
 520
-00:33:47,440 --> 00:33:49,440
-I've had a lot
-of experience of getting out
-of places like this,
+00: 33: 47,440 -> 00: 33: 49,440
+Tôi đã có rất nhiều
+kinh nghiệm thoát ra
+những nơi như thế này,
 
 521
-00:33:49,480 --> 00:33:50,520
-bear with me.
+00: 33: 49,480 -> 00: 33: 50,520
+chịu với tôi.
 
 522
-00:33:50,560 --> 00:33:51,640
-Where have you come from?
+00: 33: 50,560 -> 00: 33: 51,640
+Bạn đến từ đâu?
 
 523
-00:33:51,680 --> 00:33:54,000
-Why fussy about
-who you get rescued by?
+00: 33: 51,680 -> 00: 33: 54,000
+Tại sao lại kén chọn
+bạn được giải cứu bởi ai?
 
 524
-00:33:54,040 --> 00:33:55,240
-How do I know
-I can trust you?
+00: 33: 54,040 -> 00: 33: 55,240
+Làm sao tôi biết
+Tôi có thể tin bạn?
 
 525
-00:33:55,280 --> 00:33:56,520
-You might be
-with the dog fella.
+00: 33: 55,280 -> 00: 33: 56,520
+Bạn có thể là
+với con chó.
 
 526
-00:33:56,560 --> 00:33:58,760
-Does this look like a face
-you can trust?
+00: 33: 56,560 -> 00: 33: 58,760
+Cái này có giống một khuôn mặt không
+bạn có thể tin tưởng?
 
 527
-00:33:58,800 --> 00:34:00,800
-- Maybe.
-- Maybe?
+00: 33: 58,800 -> 00: 34: 00,800
+- Có lẽ.
+- Có lẽ?
 
 528
-00:34:00,840 --> 00:34:02,600
-Are you an alien, too?
+00: 34: 00,840 -> 00: 34: 02,600
+Bạn cũng là người ngoài hành tinh?
 
 529
-00:34:02,640 --> 00:34:04,680
-I am Yaz, Yasmin Khan.
+00: 34: 02,640 -> 00: 34: 04,680
+Tôi là Yaz, Yasmin Khan.
 
 530
-00:34:04,720 --> 00:34:06,880
-Formerly PC Yasmin Khan
-of Hallamshire Police
+00: 34: 04,720 -> 00: 34: 06,880
+Trước đây là PC Yasmin Khan
+của Cảnh sát Hallamshire
 
 531
-00:34:06,920 --> 00:34:09,800
-Very human, very much
-not with dog fella.
+00: 34: 06,920 -> 00: 34: 09,800
+Rất con người, rất nhiều
+không phải với con chó.
 
 532
-00:34:09,840 --> 00:34:12,520
-Hallamshire, what?
-Like Sheffield?
+00: 34: 09,840 -> 00: 34: 12,520
+Hallamshire, cái gì?
+Giống như Sheffield?
 
 533
-00:34:12,560 --> 00:34:13,920
-Why, what's the matter
-with Sheffield?
+00: 34: 12,560 -> 00: 34: 13,920
+Tại sao, có chuyện gì vậy
+với Sheffield?
 
 534
-00:34:13,960 --> 00:34:15,400
-Too near Leeds.
+00: 34: 13,960 -> 00: 34: 15,400
+Quá gần Leeds.
 
 535
-00:34:15,440 --> 00:34:18,920
-Pro tip, Dan Lewis,
-don't diss
-the designated rescuer.
+00: 34: 15,440 -> 00: 34: 18,920
+Mẹo chuyên nghiệp, Dan Lewis,
+đừng phản đối
+người cứu hộ được chỉ định.
 
 536
-00:34:18,960 --> 00:34:20,840
-How're you here,
-if you're from Sheffield?
+00: 34: 18,960 -> 00: 34: 20,840
+Làm thế nào bạn ở đây,
+nếu bạn đến từ Sheffield?
 
 537
-00:34:20,880 --> 00:34:22,400
-Got a mate who's an alien.
+00: 34: 20,880 -> 00: 34: 22,400
+Có một người bạn đời là người ngoài hành tinh.
 
 538
-00:34:22,440 --> 00:34:24,320
-Does he look like a dog?
+00: 34: 22,440 -> 00: 34: 24,320
+Anh ta trông giống một con chó?
 
 539
-00:34:24,360 --> 00:34:27,000
-No, but she's got her own ship
-and we can get you
-back to Earth.
+00: 34: 24,360 -> 00: 34: 27,000
+Không, nhưng cô ấy có con tàu của riêng mình
+và chúng tôi có thể giúp bạn
+trở lại Trái đất.
 
 540
-00:34:28,280 --> 00:34:30,360
-- You can come out.
-- And the bars won't zap me?
+00: 34: 28,280 -> 00: 34: 30,360
+- Bạn có thể ra ngoài.
+- Và các thanh sẽ không đánh gục tôi?
 
 541
-00:34:30,400 --> 00:34:33,720
-Not if I've done it properly.
-Which I'm pretty sure I have.
+00: 34: 30,400 -> 00: 34: 33,720
+Không nếu tôi đã làm đúng cách.
+Điều mà tôi khá chắc chắn là tôi có.
 
 542
-00:34:33,760 --> 00:34:35,760
-- How sure?
-- Well, you know life's a gamble.
+00: 34: 33,760 -> 00: 34: 35,760
+- Làm thế nào chắc chắn?
+- Chà, bạn biết cuộc đời là một canh bạc.
 
 543
-00:34:42,160 --> 00:34:44,080
-- Nice work, girl.
-- Yaz is fine.
+00: 34: 42,160 -> 00: 34: 44,080
+- Làm tốt lắm cô gái.
+- Mùa hè cũng được.
 
 544
-00:34:44,120 --> 00:34:46,600
-Now I don't want to
-hear another word
-against Yorkshire again.
+00: 34: 44,120 -> 00: 34: 46,600
+Bây giờ tôi không muốn
+nghe một từ khác
+chống lại Yorkshire một lần nữa.
 
 545
-00:34:46,640 --> 00:34:48,920
-Come on,
-we're meeting the Doctor
-back at our ship.
+00: 34: 46,640 -> 00: 34: 48,920
+Cố lên,
+chúng tôi đang gặp bác sĩ
+trở lại tàu của chúng tôi.
 
 546
-00:34:48,960 --> 00:34:52,040
-- Assuming nothing goes wrong.
-- Why, do things often go wrong?
+00: 34: 48,960 -> 00: 34: 52,040
+- Giả sử không có gì sai.
+- Tại sao, mọi việc thường trục trặc?
 
 547
-00:34:52,080 --> 00:34:53,400
-Come on!
+00: 34: 52,080 -> 00: 34: 53,400
+Cố lên!
 
 548
-00:34:53,440 --> 00:34:55,000
-<i>Stop asking
-about The Division. </i>
+00: 34: 53,440 -> 00: 34: 55,000
+<i> Ngừng hỏi
+về The Division. </i>
 
 549
-00:34:57,600 --> 00:34:59,400
-That's not a question
-I can answer.
+00: 34: 57,600 -> 00: 34: 59,400
+Đó không phải là một câu hỏi
+Tôi có thể trả lời.
 
 550
-00:34:59,440 --> 00:35:02,680
-Yes, you can.
-You have to.
+00: 34: 59,440 -> 00: 35: 02,680
+Có, bạn có thể.
+Bạn phải.
 
 551
-00:35:04,560 --> 00:35:06,560
-I've spent a long time
-hunting you down.
+00: 35: 04,560 -> 00: 35: 06,560
+Tôi đã trải qua một thời gian dài
+săn lùng bạn.
 
 552
-00:35:06,600 --> 00:35:09,800
-You are the only known Division
-operative, I can find alive.
+00: 35: 06,600 -> 00: 35: 09,800
+Bạn là Bộ phận duy nhất được biết đến
+hoạt động, tôi có thể tìm thấy còn sống.
 
 553
-00:35:09,840 --> 00:35:12,120
-The only one who can...
-Right, sorry about that.
+00: 35: 09,840 -> 00: 35: 12,120
+Người duy nhất có thể ...
+Đúng, xin lỗi về điều đó.
 
 554
-00:35:12,160 --> 00:35:13,640
-What is that call sign?
+00: 35: 12,160 -> 00: 35: 13,640
+Dấu hiệu cuộc gọi đó là gì?
 
 555
-00:35:13,680 --> 00:35:15,920
-Why is it bothering me so much?
+00: 35: 13,680 -> 00: 35: 15,920
+Tại sao nó làm phiền tôi nhiều như vậy?
 
 556
-00:35:15,960 --> 00:35:18,160
-Species Recall.
-Universal pattern.
+00: 35: 15,960 -> 00: 35: 18,160
+Loài nhớ lại.
+Mô hình phổ quát.
 
 557
-00:35:18,200 --> 00:35:19,560
-That's it. Thank you!
+00: 35: 18,200 -> 00: 35: 19,560
+Đó là nó. Cảm ơn bạn!
 
 558
-00:35:19,600 --> 00:35:23,200
-No, what, wait!
-You're on Species Recall?
-Right now?
+00: 35: 19,600 -> 00: 35: 23,200
+Không, cái gì, đợi đã!
+Bạn đang thu hồi loài?
+Ngay lập tức?
 
 559
-00:35:23,240 --> 00:35:25,960
-The Lupari are species,
-bonded to humanity.
+00: 35: 23,240 -> 00: 35: 25,960
+Lupari là loài,
+gắn bó với nhân loại.
 
 560
-00:35:26,000 --> 00:35:27,280
-And for every human,
+00: 35: 26,000 -> 00: 35: 27,280
+Và đối với mỗi con người,
 
 561
-00:35:27,320 --> 00:35:29,440
-there's a paired guardian Lupar.
+00: 35: 27,320 -> 00: 35: 29,440
+có một người giám hộ ghép đôi Lupar.
 
 562
-00:35:29,480 --> 00:35:31,280
-The bond is
-our genetic obligation
+00: 35: 29,480 -> 00: 35: 31,280
+Mối ràng buộc là
+nghĩa vụ di truyền của chúng ta
 
 563
-00:35:31,320 --> 00:35:32,680
-and our honour.
+00: 35: 31,320 -> 00: 35: 32,680
+và danh dự của chúng tôi.
 
 564
-00:35:32,720 --> 00:35:35,840
-Only ever to come into effect
-in the ultimate crisis.
+00: 35: 32,720 -> 00: 35: 35,840
+Chỉ bao giờ mới có hiệu lực
+trong cơn khủng hoảng tột cùng.
 
 565
-00:35:35,880 --> 00:35:38,160
-But that would mean
-you're not abducting
-Dan then?
+00: 35: 35,880 -> 00: 35: 38,160
+Nhưng điều đó có nghĩa là
+bạn không bắt cóc
+Và sau đó?
 
 566
-00:35:38,200 --> 00:35:40,320
-I'm saving him, you idiot!
+00: 35: 38,200 -> 00: 35: 40,320
+Tôi đang cứu anh ta, đồ ngốc!
 
 567
-00:35:40,360 --> 00:35:42,920
-Right. Every Lupar has
-a designated human.
+00: 35: 40,360 -> 00: 35: 42,920
+Bên phải. Mọi Lupar đều có
+một con người được chỉ định.
 
 568
-00:35:42,960 --> 00:35:45,800
-He's mine, we have to save them,
-before it's too late.
+00: 35: 42,960 -> 00: 35: 45,800
+Anh ấy là của tôi, chúng tôi phải cứu họ,
+trước khi quá muộn.
 
 569
-00:35:45,840 --> 00:35:47,560
-But you used a stun cube on him.
+00: 35: 45,840 -> 00: 35: 47,560
+Nhưng bạn đã sử dụng một khối lập phương gây choáng cho anh ta.
 
 570
-00:35:47,600 --> 00:35:48,680
-Just because we have to
-save them
+00: 35: 47,600 -> 00: 35: 48,680
+Chỉ vì chúng ta phải
+cứu họ
 
 571
-00:35:48,720 --> 00:35:49,880
-doesn't mean
-I have to like them.
+00: 35: 48,720 -> 00: 35: 49,880
+không có nghĩa là
+Tôi phải thích chúng.
 
 572
-00:35:49,920 --> 00:35:51,600
-They're infuriating.
+00: 35: 49,920 -> 00: 35: 51,600
+Họ đang tức giận.
 
 573
-00:35:51,640 --> 00:35:54,960
-Seven billion ships.
-Seven billion humans.
+00: 35: 51,640 -> 00: 35: 54,960
+Bảy tỷ con tàu.
+Bảy tỷ con người.
 
 574
-00:35:56,120 --> 00:35:57,440
-Man's best friend.
+00: 35: 56,120 -> 00: 35: 57,440
+Bạn thân của con người.
 
 575
-00:35:57,480 --> 00:35:59,240
-Not if you don't power up
-my ship.
+00: 35: 57,480 -> 00: 35: 59,240
+Không nếu bạn không tăng điện
+tàu của tôi.
 
 576
-00:35:59,280 --> 00:36:01,000
-But what is it
-you're saving them from?
+00: 35: 59,280 -> 00: 36: 01,000
+Nhưng nó là gì
+bạn đang cứu họ khỏi?
 
 577
-00:36:01,680 --> 00:36:02,680
-You don't know?
+00: 36: 01,680 -> 00: 36: 02,680
+Bạn không biết?
 
 578
-00:36:03,760 --> 00:36:05,000
-I've been busy.
+00: 36: 03,760 -> 00: 36: 05,000
+Tôi đang bận.
 
 579
-00:36:05,040 --> 00:36:06,200
-The Flux.
+00: 36: 05,040 -> 00: 36: 06,200
+Dòng chảy.
 
 580
-00:36:06,240 --> 00:36:07,760
-What's the Flux?
+00: 36: 06,240 -> 00: 36: 07,760
+Flux là gì?
 
 581
-00:36:07,800 --> 00:36:11,520
-A hurricane, ripping through
-the structure of this universe.
+00: 36: 07,800 -> 00: 36: 11,520
+Một cơn bão, xé toạc
+cấu trúc của vũ trụ này.
 
 582
-00:36:11,560 --> 00:36:14,200
-Disrupting every particle.
+00: 36: 11,560 -> 00: 36: 14,200
+Phá vỡ từng hạt.
 
 583
-00:36:14,240 --> 00:36:16,400
-The falling of the structure
-of the universe.
+00: 36: 14,240 -> 00: 36: 16,400
+Sự sụp đổ của cấu trúc
+của vũ trụ.
 
 584
-00:36:16,440 --> 00:36:19,520
-A cataclysm
-of unknown proportions
-or patterns.
+00: 36: 16,440 -> 00: 36: 19,520
+Một trận đại hồng thủy
+tỷ lệ không xác định
+hoặc các mẫu.
 
 585
-00:36:20,480 --> 00:36:21,680
-We don't know for sure.
+00: 36: 20,480 -> 00: 36: 21,680
+Chúng tôi không biết chắc chắn.
 
 586
-00:36:21,720 --> 00:36:23,400
-And when is this Flux
-due to happen?
+00: 36: 21,720 -> 00: 36: 23,400
+Và khi nào thì Flux này
+do xảy ra?
 
 587
-00:36:24,000 --> 00:36:25,240
-It's already begun.
+00: 36: 24,000 -> 00: 36: 25,240
+Nó đã bắt đầu.
 
 588
-00:36:29,240 --> 00:36:31,840
-<i>Update from
+00: 36: 29,240 -> 00: 36: 31,840
+<i> Cập nhật từ
 Thoribus Trifecta. </i>
 
 589
-00:36:31,880 --> 00:36:34,600
-<i>Three planets now compromised.</i>
+00: 36: 31,880 -> 00: 36: 34,600
+<i> Ba hành tinh hiện đã bị xâm phạm. </i>
 
 590
-00:36:34,640 --> 00:36:37,280
-Wait. No, I don't
-mean compromised.
+00: 36: 34,640 -> 00: 36: 37,280
+Đợi đã. Không, tôi không
+có nghĩa là bị xâm phạm.
 
 591
-00:36:37,320 --> 00:36:40,080
-I mean destroyed.
-Disintegrated.
+00: 36: 37,320 -> 00: 36: 40,080
+Ý tôi là bị phá hủy.
+Đã tan rã.
 
 592
-00:36:41,280 --> 00:36:42,440
-But not by weapons.
+00: 36: 41,280 -> 00: 36: 42,440
+Nhưng không phải bằng vũ khí.
 
 593
-00:36:42,480 --> 00:36:44,800
-Like they were folding in
-on themselves,
+00: 36: 42,480 -> 00: 36: 44,800
+Giống như họ đang gấp
+về bản thân họ,
 
 594
-00:36:44,840 --> 00:36:49,120
-because of proximity to...
-I don't know what. System?
+00: 36: 44,840 -> 00: 36: 49,120
+vì gần ...
+Tôi không biết điều gì. Hệ thống?
 
 595
-00:36:49,160 --> 00:36:53,920
-<i>Catastrophic event
-compromising base level
-integrity of all structures.  </i>
+00: 36: 49,160 -> 00: 36: 53,920
+<i> Sự kiện thảm khốc
+thỏa hiệp mức cơ sở
+tính toàn vẹn của tất cả các cấu trúc. </i>
 
 596
-00:36:53,960 --> 00:36:57,760
-Did you mean something
-is erasing this galaxy?
+00: 36: 53,960 -> 00: 36: 57,760
+Ý bạn là gì đó
+đang xóa sổ thiên hà này?
 
 597
-00:36:57,800 --> 00:36:59,480
-<i>Warning! Urgent update.</i>
+00: 36: 57,800 -> 00: 36: 59,480
+<i> Cảnh báo! Cập nhật khẩn cấp. </i>
 
 598
-00:36:59,520 --> 00:37:02,080
-<i>Observation Outpost Rose
-will be compromised. </i>
+00: 36: 59,520 -> 00: 37: 02,080
+<i> Hoa hồng tiền đồn quan sát
+sẽ bị xâm phạm. </i>
 
 599
-00:37:02,120 --> 00:37:04,800
-<i>Evacuation procedures
-urgently recommended. </i>
+00: 37: 02.120 -> 00: 37: 04.800
+<i> Thủ tục sơ tán
+khuyến cáo khẩn cấp. </i>
 
 600
-00:37:04,840 --> 00:37:06,600
-You hear that System advice?
+00: 37: 04.840 -> 00: 37: 06.600
+Bạn nghe lời khuyên của Hệ thống?
 
 601
-00:37:06,640 --> 00:37:09,440
-This is Serving Commander
+00: 37: 06,640 -> 00: 37: 09,440
+Đây là Chỉ huy Phục vụ
 Inston Vee Vinder,
 
 602
-00:37:09,480 --> 00:37:11,800
-of Kasto-Winfer-Foxfell
+00: 37: 09,480 -> 00: 37: 11,800
+của Kasto-Winfer-Foxfell
 
 603
-00:37:11,840 --> 00:37:15,360
-doing the unthinkable
-and leaving his post.
+00: 37: 11,840 -> 00: 37: 15,360
+làm điều không thể tưởng tượng được
+và rời khỏi bài đăng của mình.
 
 604
-00:37:15,400 --> 00:37:19,280
+00: 37: 15,400 -> 00: 37: 19,280
 <i>
-Escape procedures activated.
-Survival pod ejection imminent. </i>
+Đã kích hoạt quy trình thoát hiểm.
+Sắp xảy ra vụ phóng sinh tồn. </i>
 
 605
-00:37:24,360 --> 00:37:26,160
-Data, I need data.
+00: 37: 24,360 -> 00: 37: 26,160
+Dữ liệu, tôi cần dữ liệu.
 
 606
-00:37:26,200 --> 00:37:28,720
-What causes this Flux?
-And where does it start?
+00: 37: 26,200 -> 00: 37: 28,720
+Điều gì gây ra Flux này?
+Và nó bắt đầu từ đâu?
 
 607
-00:37:28,760 --> 00:37:31,000
-I don't know.
-I don't have a guidebook to it.
+00: 37: 28,760 -> 00: 37: 31,000
+Tôi không biết.
+Tôi không có sách hướng dẫn về nó.
 
 608
-00:37:31,040 --> 00:37:32,640
-The other side
-of the universe
-or somewhere.
+00: 37: 31,040 -> 00: 37: 32,640
+Mặt khác
+của vũ trụ
+hoặc ở đâu đó.
 
 609
-00:37:32,680 --> 00:37:33,880
-Now, unblock my ship's systems.
+00: 37: 32,680 -> 00: 37: 33,880
+Bây giờ, hãy mở khóa các hệ thống trên tàu của tôi.
 
 610
-00:37:33,920 --> 00:37:35,480
-I need to re-align
-with my battalion.
+00: 37: 33,920 -> 00: 37: 35,480
+Tôi cần căn chỉnh lại
+với tiểu đoàn của tôi.
 
 611
-00:37:36,640 --> 00:37:38,480
-Fine, doing it!
+00: 37: 36,640 -> 00: 37: 38,480
+Tốt, đang làm nó!
 
 612
-00:37:38,520 --> 00:37:40,880
-But I'm keeping your weapons
-powered down.
+00: 37: 38,520 -> 00: 37: 40,880
+Nhưng tôi đang giữ vũ khí của bạn
+tắt nguồn.
 
 613
-00:37:42,440 --> 00:37:44,440
-It doesn't make any sense.
+00: 37: 42,440 -> 00: 37: 44,440
+Nó không có ý nghĩa gì cả.
 
 614
-00:37:44,480 --> 00:37:47,320
-You're moving away from Earth
-but the rest are travelling
-towards it.
+00: 37: 44,480 -> 00: 37: 47,320
+Bạn đang rời xa Trái đất
+nhưng những người còn lại đang đi du lịch
+đối với nó.
 
 615
-00:37:47,360 --> 00:37:49,560
-My ship hit a time disturbance
-at the head of the battalion.
+00: 37: 47,360 -> 00: 37: 49,560
+Con tàu của tôi bị nhiễu loạn thời gian
+ở đầu tiểu đoàn trưởng.
 
 616
-00:37:49,600 --> 00:37:50,640
-It meant I got to Earth
+00: 37: 49,600 -> 00: 37: 50,640
+Nó có nghĩa là tôi đã đến Trái đất
 
 617
-00:37:50,680 --> 00:37:51,840
-a few hours ahead of the others.
+00: 37: 50,680 -> 00: 37: 51,840
+vài giờ trước những người khác.
 
 618
-00:37:51,880 --> 00:37:53,960
-And your battalion
-aim to transport humanity
+00: 37: 51,880 -> 00: 37: 53,960
+Và tiểu đoàn của bạn
+nhằm mục đích vận chuyển nhân loại
 
 619
-00:37:54,000 --> 00:37:56,040
-off Earth before the Flux hits.
+00: 37: 54,000 -> 00: 37: 56,040
+ngoài Trái đất trước khi Flux tấn công.
 
 620
-00:37:56,080 --> 00:37:57,600
-That's what species bond means,
+00: 37: 56,080 -> 00: 37: 57,600
+Đó là những gì liên kết loài có nghĩa là,
 
 621
-00:37:57,640 --> 00:37:59,520
-to protect when called upon.
+00: 37: 57,640 -> 00: 37: 59,520
+để bảo vệ khi được kêu gọi.
 
 622
-00:37:59,560 --> 00:38:01,840
-And how will this ship
-survive the Flux?
+00: 37: 59,560 -> 00: 38: 01,840
+Và nó sẽ vận chuyển như thế nào
+tồn tại trong Flux?
 
 623
-00:38:01,880 --> 00:38:04,360
-Our survival battalion
-was engineered
-and built to weather
+00: 38: 01.880 -> 00: 38: 04.360
+Tiểu đoàn sống sót của chúng tôi
+được thiết kế
+và được xây dựng để phù hợp với thời tiết
 
 624
-00:38:04,400 --> 00:38:06,320
-whatever the Flux
-can throw at us.
+00: 38: 04,400 -> 00: 38: 06,320
+bất cứ điều gì Flux
+có thể ném vào chúng tôi.
 
 625
-00:38:06,360 --> 00:38:08,760
-Once the humans are on board,
-the individual ships unite
+00: 38: 06.360 -> 00: 38: 08.760
+Khi con người đã ở trên tàu,
+những con tàu riêng lẻ đoàn kết
 
 626
-00:38:08,800 --> 00:38:10,680
-to form a long-term
-survival structure.
+00: 38: 08,800 -> 00: 38: 10,680
+để hình thành lâu dài
+cấu trúc tồn tại.
 
 627
-00:38:10,720 --> 00:38:13,000
-Clever, except has anyone asked
-humanity about this?
+00: 38: 10,720 -> 00: 38: 13,000
+Thông minh, ngoại trừ có ai hỏi
+nhân loại về điều này?
 
 628
-00:38:13,040 --> 00:38:14,640
-Because I think they're
-going to have an opinion.
+00: 38: 13,040 -> 00: 38: 14,640
+Bởi vì tôi nghĩ họ
+sẽ có một ý kiến.
 
 629
-00:38:14,680 --> 00:38:17,360
-We don't need to ask them.
-We're protecting them.
+00: 38: 14,680 -> 00: 38: 17,360
+Chúng ta không cần phải hỏi họ.
+Chúng tôi đang bảo vệ họ.
 
 630
-00:38:17,400 --> 00:38:20,960
-Yeah, well, we don't want
-your protection.
+00: 38: 17,400 -> 00: 38: 20,960
+Vâng, chúng tôi không muốn
+bảo vệ của bạn.
 
 631
-00:38:21,000 --> 00:38:23,000
-We were supposed to be
-sneaking in quietly.
+00: 38: 21,000 -> 00: 38: 23,000
+Chúng tôi được cho là
+lẻn vào lặng lẽ.
 
 632
-00:38:23,040 --> 00:38:24,120
-Sorry.
+00: 38: 23,040 -> 00: 38: 24,120
+Xin lỗi.
 
 633
-00:38:24,160 --> 00:38:25,560
-Did you release him?
+00: 38: 24,160 -> 00: 38: 25,560
+Bạn có thả anh ta không?
 
 634
-00:38:25,600 --> 00:38:26,920
-Yeah, I did.
+00: 38: 25,600 -> 00: 38: 26,920
+Vâng, tôi đã làm.
 
 635
-00:38:26,960 --> 00:38:29,320
-And that's payback for
-dangling me over boiling acid.
+00: 38: 26,960 -> 00: 38: 29,320
+Và đó là sự hoàn vốn cho
+treo tôi trên axit sôi.
 
 636
-00:38:31,040 --> 00:38:33,000
-All systems back online,
-including weapons.
+00: 38: 31,040 -> 00: 38: 33,000
+Tất cả hệ thống trực tuyến trở lại,
+kể cả vũ khí.
 
 637
-00:38:33,040 --> 00:38:35,040
-Right, plan modifications,
-two stages.
+00: 38: 33,040 -> 00: 38: 35,040
+Đúng, lập kế hoạch sửa đổi,
+hai giai đoạn.
 
 638
-00:38:35,080 --> 00:38:39,480
-One, this is not over,
-between me and you,
-we are not done.
+00: 38: 35,080 -> 00: 38: 39,480
+Một, điều này vẫn chưa kết thúc,
+giữa tôi và bạn,
+chúng tôi không xong.
 
 639
-00:38:39,520 --> 00:38:40,680
-Two, run!
+00: 38: 39,520 -> 00: 38: 40,680
+Hai, chạy!
 
 640
-00:38:43,080 --> 00:38:45,840
-- Dan, Doctor, Doctor, Dan!
-- All right, Doc!
+00: 38: 43,080 -> 00: 38: 45,840
+- Dan, bác sĩ, bác sĩ, Dan!
+- Được rồi, Tiến sĩ!
 
 641
-00:38:45,880 --> 00:38:48,080
-Nice to meet you Dan,
-run for your life!
+00: 38: 45,880 -> 00: 38: 48,080
+Rất vui được gặp bạn Dan,
+chạy cho cuộc sống của bạn!
 
 642
-00:38:49,200 --> 00:38:50,440
-Give me back
-my human.
+00: 38: 49,200 -> 00: 38: 50,440
+Trả lại cho tôi
+con người của tôi.
 
 643
-00:38:50,480 --> 00:38:51,840
-That's my human.
+00: 38: 50,480 -> 00: 38: 51,840
+Đó là con người của tôi.
 
 644
-00:38:51,880 --> 00:38:53,240
-I am not your human!
+00: 38: 51,880 -> 00: 38: 53,240
+Tôi không phải là con người của bạn!
 
 645
-00:38:56,280 --> 00:38:57,800
-You said it was a ship.
-That's not a ship.
+00: 38: 56,280 -> 00: 38: 57,800
+Bạn nói đó là một con tàu.
+Đó không phải là một con tàu.
 
 646
-00:38:57,840 --> 00:38:59,440
-It is, get in!
+00: 38: 57,840 -> 00: 38: 59,440
+Đó là, nhận được vào!
 
 647
-00:38:59,480 --> 00:39:01,320
-Why have you
-put the door
-on the floor?
+00: 38: 59,480 -> 00: 39: 01,320
+Tại sao có bạn
+đặt cửa
+trên sàn?
 
 648
-00:39:01,360 --> 00:39:03,600
-Bit of a daft place
-to have a door,
-isn't it?
+00: 39: 01.360 -> 00: 39: 03.600
+Một chút của một nơi daft
+để có một cánh cửa,
+phải không
 
 649
-00:39:03,640 --> 00:39:06,600
-Seems to have a surplus
-of doors right now,
-I'm not sure why.
+00: 39: 03,640 -> 00: 39: 06,600
+Có vẻ có dư
+cửa ngay bây giờ,
+Tôi cung không chăc tại sao.
 
 650
-00:39:06,640 --> 00:39:08,400
-Is this all inside that box?
+00: 39: 06,640 -> 00: 39: 08,400
+Đây có phải là tất cả bên trong cái hộp đó không?
 
 651
-00:39:10,800 --> 00:39:11,840
-It's bigger on the inside.
+00: 39: 10,800 -> 00: 39: 11,840
+Nó lớn hơn ở bên trong.
 
 652
-00:39:12,360 --> 00:39:13,400
-I can see that.
+00: 39: 12,360 -> 00: 39: 13,400
+Tôi có thể thấy rằng.
 
 653
-00:39:13,440 --> 00:39:14,760
-It's called a TARDIS.
+00: 39: 13,440 -> 00: 39: 14,760
+Nó được gọi là TARDIS.
 
 654
-00:39:14,800 --> 00:39:16,040
-I had a mate
-who had one of these.
+00: 39: 14,800 -> 00: 39: 16,040
+Tôi đã có một người bạn đời
+ai đã có một trong những cái này.
 
 655
-00:39:16,080 --> 00:39:17,440
-I think his was
-a bit bigger actually.
+00: 39: 16,080 -> 00: 39: 17,440
+Tôi nghĩ anh ấy đã
+thực sự lớn hơn một chút.
 
 656
-00:39:17,480 --> 00:39:18,520
-Shut up.
+00: 39: 17,480 -> 00: 39: 18,520
+Câm miệng.
 
 657
-00:39:21,000 --> 00:39:22,840
-By the way,
-here's your house.
+00: 39: 21,000 -> 00: 39: 22,840
+Nhân tiện,
+đây là nhà của bạn.
 
 658
-00:39:24,000 --> 00:39:25,960
-What?
-How did that happen?
+00: 39: 24,000 -> 00: 39: 25,960
+Gì?
+Làm thế nào mà điều đó xảy ra?
 
 659
-00:39:26,000 --> 00:39:28,840
-Karvanista set a trap for us,
-which miniaturised it.
+00: 39: 26,000 -> 00: 39: 28,840
+Karvanista đã đặt một cái bẫy cho chúng tôi,
+mà đã thu nhỏ nó.
 
 660
-00:39:29,600 --> 00:39:30,640
-I can't live in that.
+00: 39: 29,600 -> 00: 39: 30,640
+Tôi không thể sống trong điều đó.
 
 661
-00:39:30,680 --> 00:39:31,880
-Right now
-you don't have a house.
+00: 39: 30,680 -> 00: 39: 31,880
+Ngay lập tức
+bạn không có nhà.
 
 662
-00:39:31,920 --> 00:39:33,560
-Very soon you
-may not have a planet
+00: 39: 31,920 -> 00: 39: 33,560
+Rất sớm bạn
+có thể không có một hành tinh
 
 663
-00:39:33,600 --> 00:39:35,480
-and there may not be a universe.
+00: 39: 33,600 -> 00: 39: 35,480
+và có thể không có vũ trụ.
 
 664
-00:39:35,520 --> 00:39:38,680
-- Is she joking?
-- Are you joking?
+00: 39: 35,520 -> 00: 39: 38,680
+- Cô ấy nói đùa à?
+- Bạn đang nói đùa?
 
 665
-00:39:38,720 --> 00:39:41,600
-Not joking, I'm trying to locate
-an event called the Flux.
+00: 39: 38,720 -> 00: 39: 41,600
+Không nói đùa, tôi đang cố định vị
+một sự kiện được gọi là Flux.
 
 666
-00:39:41,640 --> 00:39:45,720
-Karvanista seems to think
-it will overwhelm
-most of the universe.
+00: 39: 41,640 -> 00: 39: 45,720
+Karvanista dường như nghĩ
+nó sẽ áp đảo
+hầu hết vũ trụ.
 
 667
-00:39:45,760 --> 00:39:46,800
-And you're looking for it?
+00: 39: 45,760 -> 00: 39: 46,800
+Và bạn đang tìm kiếm nó?
 
 668
-00:39:46,840 --> 00:39:49,080
-We are.
+00: 39: 46,840 -> 00: 39: 49,080
+Chúng tôi là.
 
 669
-00:39:49,120 --> 00:39:52,680
-Why don't I know about this?
-And who else does?
+00: 39: 49,120 -> 00: 39: 52,680
+Tại sao tôi không biết về điều này?
+Và ai khác làm?
 
 670
-00:40:17,680 --> 00:40:19,680
-Finally!
+00: 40: 17,680 -> 00: 40: 19,680
+Cuối cùng!
 
 671
-00:40:19,720 --> 00:40:24,640
-<i>Psychic Surveyor Kragar,
-concluding assessment,
-Commander.  </i>
+00: 40: 19,720 -> 00: 40: 24,640
+<i> Nhà khảo sát ngoại cảm Kragar,
+kết luận đánh giá,
+Chỉ huy. </i>
 
 672
-00:40:24,680 --> 00:40:26,880
-It's been a long time,
-old comrade.
+00: 40: 24,680 -> 00: 40: 26,880
+Đã được một thời gian dài,
+đồng chí cũ.
 
 673
-00:40:27,680 --> 00:40:29,000
-You look old.
+00: 40: 27,680 -> 00: 40: 29,000
+Bạn trông già.
 
 674
-00:40:29,040 --> 00:40:32,280
-<i>My mission has withered me.
-It is true. </i>
+00: 40: 29,040 -> 00: 40: 32,280
+<i> Nhiệm vụ của tôi đã làm tôi héo mòn.
+Đúng rồi. </i>
 
 675
-00:40:32,320 --> 00:40:35,000
-Really?
-You look disgusting!
+00: 40: 32,320 -> 00: 40: 35,000
+Có thật không?
+Trông bạn thật kinh tởm!
 
 676
-00:40:35,040 --> 00:40:38,880
-<i>Yes, Well,
-no point dwelling on it. </i>
+00: 40: 35,040 -> 00: 40: 38,880
+<i> Vâng,
+không có điểm nào ở trên đó. </i>
 
 677
-00:40:38,920 --> 00:40:40,560
-Really disgusting.
+00: 40: 38,920 -> 00: 40: 40,560
+Thật là kinh tởm.
 
 678
-00:40:41,640 --> 00:40:42,680
-Continue.
+00: 40: 41,640 -> 00: 40: 42,680
+Tiếp tục.
 
 679
-00:40:42,720 --> 00:40:44,760
-<i>I have analysed
-the psychic waves </i>
+00: 40: 42,720 -> 00: 40: 44,760
+<i> Tôi đã phân tích
+sóng tâm linh </i>
 
 680
-00:40:44,800 --> 00:40:47,360
-<i>and it is
-my privilege to report </i>
+00: 40: 44,800 -> 00: 40: 47,360
+<i> và nó là
+đặc quyền của tôi được báo cáo </i>
 
 681
-00:40:47,400 --> 00:40:50,120
-<i>the cataclysm approaches.</i>
+00: 40: 47,400 -> 00: 40: 50,120
+<i> trận đại hồng thủy đến gần. </i>
 
 682
-00:40:50,160 --> 00:40:52,960
-<i>The Flux is imminent.</i>
+00: 40: 50,160 -> 00: 40: 52,960
+<i> Flux sắp xảy ra. </i>
 
 683
-00:40:53,000 --> 00:40:56,040
-<i>I forecast
-incredible suffering, </i>
+00: 40: 53,000 -> 00: 40: 56,040
+<i> tôi dự báo
+đau khổ lạ thường, </i>
 
 684
-00:40:56,080 --> 00:40:58,080
-<i>vast bloodshed.</i>
+00: 40: 56,080 -> 00: 40: 58,080
+<i> đổ máu lớn. </i>
 
 685
-00:40:58,120 --> 00:41:01,920
-<i>A conflict that will dwarf
-all that has come before. </i>
+00: 40: 58,120 -> 00: 41: 01,920
+<i> Một cuộc xung đột sẽ trở nên tồi tệ
+tất cả những gì đã đến trước đây. </i>
 
 686
-00:41:03,320 --> 00:41:06,360
-<i>The greatest of times
-are upon us. </i>
+00: 41: 03.320 -> 00: 41: 06.360
+<i> Thời đại vĩ đại nhất
+đang ở trên chúng tôi. </i>
 
 687
-00:41:06,400 --> 00:41:09,080
-<i>We must be ready
-to take advantage. </i>
+00: 41: 06,400 -> 00: 41: 09,080
+<i> Chúng ta phải sẵn sàng
+lợi dụng. </i>
 
 688
-00:41:09,120 --> 00:41:14,960
-My old friend,
-I find myself, excited!
+00: 41: 09,120 -> 00: 41: 14,960
+Bạn cũ của tôi,
+Tôi thấy mình, phấn khích!
 
 689
-00:41:15,520 --> 00:41:17,080
-<i>Yesss!</i>
+00: 41: 15,520 -> 00: 41: 17,080
+<i> Yesss! </i>
 
 690
-00:41:25,960 --> 00:41:28,440
-Why have you
-brought us here?
+00: 41: 25,960 -> 00: 41: 28,440
+Tại sao có bạn
+đã đưa chúng tôi đến đây?
 
 691
-00:41:28,480 --> 00:41:30,720
-Multiple readings?
-It's one event.
+00: 41: 28,480 -> 00: 41: 30,720
+Nhiều bài đọc?
+Đó là một sự kiện.
 
 692
-00:41:30,760 --> 00:41:32,320
-I said, trace one event.
+00: 41: 30,760 -> 00: 41: 32,320
+Tôi nói, theo dõi một sự kiện.
 
 693
-00:41:32,360 --> 00:41:35,840
-In all of time and space
-you bring us here, why?
+00: 41: 32,360 -> 00: 41: 35,840
+Trong mọi thời gian và không gian
+bạn đưa chúng tôi đến đây, tại sao?
 
 694
-00:41:35,880 --> 00:41:37,920
-- Who is she talking to?
-- The TARDIS.
+00: 41: 35,880 -> 00: 41: 37,920
+- Cô ấy đang nói chuyện với ai?
+- TARDIS.
 
 695
-00:41:39,120 --> 00:41:41,400
-What, is it alive?
+00: 41: 39,120 -> 00: 41: 41,400
+Cái gì, nó còn sống không?
 
 696
-00:41:41,440 --> 00:41:43,920
-No idea, but they do chat.
+00: 41: 41,440 -> 00: 41: 43,920
+Không có ý kiến, nhưng họ có trò chuyện.
 
 697
-00:41:43,960 --> 00:41:46,040
-It's brought us to the edge
-of your solar system.
+00: 41: 43,960 -> 00: 41: 46,040
+Nó đã đưa chúng ta đến bờ vực
+của hệ mặt trời của bạn.
 
 698
-00:41:46,080 --> 00:41:47,480
-It doesn't make any sense.
+00: 41: 46,080 -> 00: 41: 47,480
+Nó không có ý nghĩa gì cả.
 
 699
-00:41:47,520 --> 00:41:48,600
-There's nothing here.
+00: 41: 47,520 -> 00: 41: 48,600
+Không có gì ở đây.
 
 700
-00:41:56,520 --> 00:41:59,280
-Whoa,
-when you say nothing...
+00: 41: 56,520 -> 00: 41: 59,280
+Ái chà,
+khi bạn không nói gì ...
 
 701
-00:42:00,640 --> 00:42:05,760
-Yeah, nothing here
-except an amazing view.
+00: 42: 00,640 -> 00: 42: 05,760
+Vâng, không có gì ở đây
+ngoại trừ một khung cảnh tuyệt vời.
 
 702
-00:42:06,880 --> 00:42:08,240
-How can we breathe?
+00: 42: 06,880 -> 00: 42: 08,240
+Làm thế nào chúng ta có thể thở?
 
 703
-00:42:08,280 --> 00:42:09,640
-Protective air bubble.
+00: 42: 08,280 -> 00: 42: 09,640
+Bảo vệ bọt khí.
 
 704
-00:42:11,160 --> 00:42:12,560
-I'll take your word for it.
+00: 42: 11,160 -> 00: 42: 12,560
+Ill dùng từ ngữ của bạn cho nó.
 
 705
-00:42:15,760 --> 00:42:17,280
-What is it?
+00: 42: 15,760 -> 00: 42: 17,280
+Nó là gì?
 
 706
-00:42:17,320 --> 00:42:19,440
-- The Cloister Bell.
-It's a warning.
+00: 42: 17,320 -> 00: 42: 19,440
+- Chuông Cloister.
+Đó là một cảnh báo.
 
 707
-00:42:19,480 --> 00:42:21,520
-- Of what?
-- The TARDIS is worried.
+00: 42: 19,480 -> 00: 42: 21,520
+- Của cái gì?
+- TARDIS lo lắng.
 
 708
-00:42:21,560 --> 00:42:22,560
-What's that?
+00: 42: 21,560 -> 00: 42: 22,560
+Cái gì vậy?
 
 709
-00:42:26,320 --> 00:42:30,040
-The Flux! This is what
-the Lupari have seen.
+00: 42: 26,320 -> 00: 42: 30,040
+Dòng chảy! Đây là những gì
+Lupari đã nhìn thấy.
 
 710
-00:42:30,080 --> 00:42:31,920
-What they were trying to protect
-humanity from.
+00: 42: 30,080 -> 00: 42: 31,920
+Những gì họ đang cố gắng bảo vệ
+nhân loại từ.
 
 711
-00:42:31,960 --> 00:42:33,280
-What's it doing?
+00: 42: 31,960 -> 00: 42: 33,280
+Nó đang làm gì?
 
 712
-00:42:35,320 --> 00:42:37,880
-Disobeying every law
-of time and space.
+00: 42: 35,320 -> 00: 42: 37,880
+Tuân theo mọi luật lệ
+của thời gian và không gian.
 
 713
-00:42:37,920 --> 00:42:40,080
-Disrupting every particle
-it comes into contact with.
+00: 42: 37,920 -> 00: 42: 40,080
+Phá vỡ từng hạt
+nó tiếp xúc với.
 
 714
-00:43:02,520 --> 00:43:03,600
-Doctor, what's the matter?
+00: 43: 02,520 -> 00: 43: 03,600
+Bác sĩ, có chuyện gì vậy?
 
 715
-00:43:04,760 --> 00:43:07,480
-- I can feel it all.
+00: 43: 04,760 -> 00: 43: 07,480
+- Tôi có thể cảm nhận được tất cả.
 
 716
-00:43:07,520 --> 00:43:10,520
-- I can feel
-the universe breaking.
+00: 43: 07,520 -> 00: 43: 10,520
+- Tôi có thể cảm thấy
+vũ trụ đang tan vỡ.
 
 717
-00:43:10,560 --> 00:43:12,920
-- But you can stop it, right?
+00: 43: 10,560 -> 00: 43: 12,920
+- Nhưng bạn có thể dừng nó lại, phải không?
 
 718
-00:43:12,960 --> 00:43:13,960
-<i>No.</i>
+00: 43: 12,960 -> 00: 43: 13,960
+<i> Không.
 
 719
-00:43:25,640 --> 00:43:26,760
-Hello again, Doctor.
+00: 43: 25,640 -> 00: 43: 26,760
+Xin chào một lần nữa, Bác sĩ.
 
 720
-00:43:29,880 --> 00:43:30,880
-Who are you?
+00: 43: 29,880 -> 00: 43: 30,880
+Bạn là ai?
 
 721
-00:43:32,560 --> 00:43:34,160
-They were so efficient.
+00: 43: 32,560 -> 00: 43: 34,160
+Chúng rất hiệu quả.
 
 722
-00:43:36,160 --> 00:43:39,400
-There is not
-a tiny corner of you
-that remembers.
+00: 43: 36,160 -> 00: 43: 39,400
+Không có
+một góc nhỏ của bạn
+mà nhớ.
 
 723
-00:43:41,000 --> 00:43:42,120
-Remembers what?
+00: 43: 41,000 -> 00: 43: 42,120
+Nhớ những gì?
 
 724
-00:43:42,160 --> 00:43:43,440
-You and I,
+00: 43: 42,160 -> 00: 43: 43,440
+Bạn và tôi,
 
 725
-00:43:46,160 --> 00:43:52,400
-dancing across space and time,
-locked in combat.
+00: 43: 46,160 -> 00: 43: 52,400
+nhảy múa xuyên không gian và thời gian,
+bị khóa trong chiến đấu.
 
 726
-00:43:57,240 --> 00:44:01,400
-And now, after so long apart,
-we get to do it once more.
+00: 43: 57,240 -> 00: 44: 01,400
+Và bây giờ, sau quá lâu xa cách,
+chúng ta phải làm điều đó một lần nữa.
 
 727
-00:44:03,160 --> 00:44:04,360
-I don't know you.
+00: 44: 03,160 -> 00: 44: 04,360
+Tôi không biết bạn.
 
 728
-00:44:04,400 --> 00:44:05,720
-Yet, I know you.
+00: 44: 04,400 -> 00: 44: 05,720
+Tuy nhiên, tôi biết bạn.
 
 729
-00:44:07,680 --> 00:44:09,400
-I remember every battle.
+00: 44: 07,680 -> 00: 44: 09,400
+Tôi nhớ từng trận chiến.
 
 730
-00:44:10,800 --> 00:44:12,680
-Which gives me the advantage.
+00: 44: 10,800 -> 00: 44: 12,680
+Điều đó mang lại lợi thế cho tôi.
 
 731
-00:44:15,400 --> 00:44:17,160
-Our final fight has begun.
+00: 44: 15,400 -> 00: 44: 17,160
+Cuộc chiến cuối cùng của chúng ta đã bắt đầu.
 
 732
-00:44:18,760 --> 00:44:21,640
-- Doctor, are you all right?
+00: 44: 18,760 -> 00: 44: 21,640
+- Bác sĩ, ông không sao chứ?
 
 733
-00:44:21,680 --> 00:44:23,040
-- Stop asking me that.
+00: 44: 21,680 -> 00: 44: 23,040
+- Đừng hỏi tôi điều đó.
 
 734
-00:44:24,520 --> 00:44:26,960
-Is it me, or does it look like
-it's changing direction?
+00: 44: 24,520 -> 00: 44: 26,960
+Có phải tôi không, hay nó giống
+nó đang thay đổi hướng?
 
 735
-00:44:29,360 --> 00:44:30,560
-It's like it's coming for us!
+00: 44: 29,360 -> 00: 44: 30,560
+Nó giống như nó đến cho chúng ta!
 
 736
-00:44:30,600 --> 00:44:31,640
-Get inside!
+00: 44: 30,600 -> 00: 44: 31,640
+Vào trong!
 
 737
-00:44:36,600 --> 00:44:38,400
-Do not stall on me now.
+00: 44: 36,600 -> 00: 44: 38,400
+Đừng dừng lại ở tôi bây giờ.
 
 738
-00:44:38,440 --> 00:44:39,680
-Taking evasive action.
+00: 44: 38,440 -> 00: 44: 39,680
+Thực hiện hành động lảng tránh.
 
 739
-00:44:40,520 --> 00:44:41,520
-Sorry!
+00: 44: 40,520 -> 00: 44: 41,520
+Xin lỗi!
 
 740
-00:44:42,280 --> 00:44:43,640
-Sorry!
+00: 44: 42,280 -> 00: 44: 43,640
+Xin lỗi!
 
 741
-00:44:43,680 --> 00:44:44,680
-Really sorry!
+00: 44: 43,680 -> 00: 44: 44,680
+Thật sự xin lỗi!
 
 742
-00:44:46,560 --> 00:44:47,600
-This is impossible!
+00: 44: 46,560 -> 00: 44: 47,600
+Điều này là không thể!
 
 743
-00:44:47,640 --> 00:44:50,160
-The end of the Universe
-is chasing us!
+00: 44: 47,640 -> 00: 44: 50,160
+Sự kết thúc của vũ trụ
+đang đuổi theo chúng tôi!
 
 744
-00:44:50,200 --> 00:44:51,720
-So what are you doing?
+00: 44: 50,200 -> 00: 44: 51,720
+Vậy bạn đang lam gi?
 
 745
-00:44:51,760 --> 00:44:53,240
-The only thing I can do.
+00: 44: 51,760 -> 00: 44: 53,240
+Điều duy nhất tôi có thể làm.
 
 746
-00:44:53,280 --> 00:44:54,640
-If the Flux is coming for us,
+00: 44: 53,280 -> 00: 44: 54,640
+Nếu Flux đến với chúng ta,
 
 747
-00:44:55,480 --> 00:44:56,960
-then we're gonna head to Earth.
+00: 44: 55,480 -> 00: 44: 56,960
+sau đó chúng ta sẽ đến Trái đất.
 
 748
-00:44:57,000 --> 00:44:58,040
-What?
+00: 44: 57,000 -> 00: 44: 58,040
+Gì?
 
 749
-00:45:02,800 --> 00:45:04,760
-<i>TARDIS
-calling Karvanista! </i>
+00: 45: 02,800 -> 00: 45: 04,760
+<i> TARDIS
+đang gọi Karvanista! </i>
 
 750
-00:45:04,800 --> 00:45:06,960
-Bring me back my human, now!
+00: 45: 04,800 -> 00: 45: 06,960
+Hãy mang tôi trở lại con người của tôi, ngay bây giờ!
 
 751
-00:45:07,000 --> 00:45:08,480
-<i>I am not your human!</i>
+00: 45: 07,000 -> 00: 45: 08,480
+<i> Tôi không phải là con người của bạn! </i>
 
 752
-00:45:08,520 --> 00:45:11,200
-I'm trying to save
-your worthless life.
+00: 45: 08,520 -> 00: 45: 11,200
+Tôi đang cố gắng tiết kiệm
+cuộc sống vô giá trị của bạn.
 
 753
-00:45:11,240 --> 00:45:13,160
-Listen to me,
-we are approaching you fast
+00: 45: 11,240 -> 00: 45: 13,160
+Lắng nghe tôi,
+chúng tôi đang tiếp cận bạn nhanh chóng
 
 754
-00:45:13,200 --> 00:45:15,240
-and the Flux is right behind us.
+00: 45: 13,200 -> 00: 45: 15,240
+và Flux ở ngay sau chúng ta.
 
 755
-00:45:15,280 --> 00:45:17,600
-Following us,
-as we head to Earth.
+00: 45: 15,280 -> 00: 45: 17,600
+Theo chúng tôi,
+khi chúng ta đến Trái đất.
 
 756
-00:45:17,640 --> 00:45:19,320
-It can't be.
+00: 45: 17,640 -> 00: 45: 19,320
+Nó không thể được.
 
 757
-00:45:19,360 --> 00:45:21,800
-We don't have enough time
-to get all the humans
-on board the ships.
+00: 45: 19,360 -> 00: 45: 21,800
+Chúng tôi không có đủ thời gian
+để có được tất cả con người
+trên tàu.
 
 758
-00:45:21,840 --> 00:45:23,600
-The battalion's only on
-the edge of the planet.
+00: 45: 21,840 -> 00: 45: 23,600
+Tiểu đoàn chỉ có trên
+rìa của hành tinh.
 
 759
-00:45:23,640 --> 00:45:26,280
-We have to have time, Doctor,
-my family are there.
+00: 45: 23,640 -> 00: 45: 26,280
+Chúng ta phải có thời gian, bác sĩ,
+gia đình tôi ở đó.
 
 760
-00:45:26,320 --> 00:45:28,680
-Mine too.
-And Di.
+00: 45: 26,320 -> 00: 45: 28,680
+Của tôi cũng thế.
+Và Di.
 
 761
-00:45:28,720 --> 00:45:30,160
-I'm late to meet Diane.
+00: 45: 28,720 -> 00: 45: 30,160
+Tôi đến muộn để gặp Diane.
 
 762
-00:45:39,760 --> 00:45:41,040
-<i>Diane,</i>
+00: 45: 39,760 -> 00: 45: 41,040
+<i> Diane, </i>
 
 763
-00:45:43,120 --> 00:45:47,600
-<i>inside the house.
-Come on in. </i>
+00: 45: 43,120 -> 00: 45: 47,600
+<i> trong nhà.
+Vào đi. </i>
 
 764
-00:45:47,640 --> 00:45:49,320
-<i>I said...</i>
+00: 45: 47,640 -> 00: 45: 49,320
+<i> Tôi đã nói ...
 
 765
-00:45:49,920 --> 00:45:52,040
-<i>come on in!</i>
+00: 45: 49,920 -> 00: 45: 52,040
+<i> vào đi! </i>
 
 766
-00:45:58,280 --> 00:45:59,680
-Stop walking, Di.
+00: 45: 58,280 -> 00: 45: 59,680
+Dừng bước đi, Di.
 
 767
-00:46:00,200 --> 00:46:01,440
-Stop walking now.
+00: 46: 00,200 -> 00: 46: 01,440
+Hãy dừng bước ngay bây giờ.
 
 768
-00:46:07,600 --> 00:46:09,200
-No, no.
+00: 46: 07,600 -> 00: 46: 09,200
+Mọt sách.
 
 769
-00:46:29,880 --> 00:46:31,680
-We're going to have
-fun with you.
+00: 46: 29,880 -> 00: 46: 31,680
+Chúng ta sắp có
+vui vẻ với bạn.
 
 770
-00:46:33,200 --> 00:46:34,280
-I've got a plan here!
+00: 46: 33,200 -> 00: 46: 34,280
+Tôi có một kế hoạch ở đây!
 
 771
-00:46:34,320 --> 00:46:36,080
-There's only one chance
-to survive this!
+00: 46: 34,320 -> 00: 46: 36,080
+Chỉ có một cơ hội
+để tồn tại điều này!
 
 772
-00:46:36,120 --> 00:46:40,480
-Karvanista, you said
-the battalion ships
-were designed to fit together
+00: 46: 36,120 -> 00: 46: 40,480
+Karvanista, bạn đã nói
+tiểu đoàn tàu
+được thiết kế để phù hợp với nhau
 
 773
-00:46:40,520 --> 00:46:41,680
-to form a protective structure.
+00: 46: 40,520 -> 00: 46: 41,680
+để tạo thành một cấu trúc bảo vệ.
 
 774
-00:46:41,720 --> 00:46:43,040
-What about it?
+00: 46: 41,720 -> 00: 46: 43,040
+Còn nó thì sao?
 
 775
-00:46:43,080 --> 00:46:45,960
-I am sending you a formation
-for the ships,
+00: 46: 43,080 -> 00: 46: 45,960
+Tôi gửi cho bạn một đội hình
+cho những con tàu,
 
 776
-00:46:46,000 --> 00:46:47,800
-get it communicated
-to them instantly.
+00: 46: 46,000 -> 00: 46: 47,800
+làm cho nó được giao tiếp
+cho họ ngay lập tức.
 
 777
-00:46:47,840 --> 00:46:48,840
-You have to move fast!
+00: 46: 47,840 -> 00: 46: 48,840
+Bạn phải di chuyển nhanh chóng!
 
 778
-00:46:49,960 --> 00:46:52,040
-- What good will that do?
-- Just do it!
+00: 46: 49,960 -> 00: 46: 52,040
+- Điều đó có ích gì?
+- Cứ làm đi!
 
 779
-00:46:52,080 --> 00:46:55,840
-<i>That shape, that formation,
-got to outrun this thing. </i>
+00: 46: 52,080 -> 00: 46: 55,840
+<i> Hình dạng đó, sự hình thành đó,
+phải chạy nhanh hơn thứ này. </i>
 
 780
-00:46:58,240 --> 00:47:00,920
-We are being dragged
-into the heart of the Flux!
+00: 46: 58,240 -> 00: 47: 00,920
+Chúng tôi đang bị kéo
+vào trung tâm của Flux!
 
 781
-00:47:00,960 --> 00:47:02,240
-Can the TARDIS withstand it?
+00: 47: 00,960 -> 00: 47: 02,240
+TARDIS có thể chịu được nó không?
 
 782
-00:47:02,280 --> 00:47:04,120
-I don't know!
-I don't understand it!
+00: 47: 02,280 -> 00: 47: 04,120
+Tôi không biết!
+Tôi không hiểu nó!
 
 783
-00:47:04,160 --> 00:47:05,680
-I hate not understanding.
+00: 47: 04,160 -> 00: 47: 05,680
+Tôi ghét không hiểu.
 
 784
-00:47:07,600 --> 00:47:09,880
-Battalion positioned
-just as you ordered!
+00: 47: 07,600 -> 00: 47: 09,880
+Tiểu đoàn định vị
+giống như bạn đã đặt hàng!
 
 785
-00:47:09,920 --> 00:47:11,200
-Lock them into the pattern now!
+00: 47: 09,920 -> 00: 47: 11,200
+Khóa chúng vào mô hình ngay bây giờ!
 
 786
-00:47:11,240 --> 00:47:12,440
-This better work.
+00: 47: 11,240 -> 00: 47: 12,440
+Điều này làm việc tốt hơn.
 
 787
-00:47:12,480 --> 00:47:13,640
-You're telling me!
+00: 47: 12,480 -> 00: 47: 13,640
+Bạn nói với tôi!
 
 788
-00:47:13,680 --> 00:47:14,840
-Interlocking.
+00: 47: 13,680 -> 00: 47: 14,840
+Lồng vào nhau.
 
 789
-00:47:23,800 --> 00:47:26,560
-Lupari Battalion,
-now encasing Earth.
+00: 47: 23,800 -> 00: 47: 26,560
+Tiểu đoàn Lupari,
+hiện đang bao bọc Trái đất.
 
 790
-00:47:30,200 --> 00:47:32,880
-It worked!
-The pattern worked!
+00: 47: 30,200 -> 00: 47: 32,880
+Nó đã làm việc!
+Mô hình đã hoạt động!
 
 791
-00:47:32,920 --> 00:47:35,360
-The battalion is
-shielding Earth!
+00: 47: 32,920 -> 00: 47: 35,360
+Tiểu đoàn là
+Trái đất che chắn!
 
 792
-00:47:35,400 --> 00:47:38,320
-Your ships better be as good
-as you say they are, Karvanista.
+00: 47: 35,400 -> 00: 47: 38,320
+Tàu của bạn tốt hơn là tốt
+như bạn nói, Karvanista.
 
 793
-00:47:38,360 --> 00:47:40,160
-What about you?
+00: 47: 38,360 -> 00: 47: 40,160
+Còn bạn thì sao?
 
 794
-00:47:40,200 --> 00:47:43,200
-Get your ship behind
-that Battalion wall.
+00: 47: 40,200 -> 00: 47: 43,200
+Đưa con tàu của bạn về phía sau
+tường Tiểu đoàn đó.
 
 795
-00:47:43,240 --> 00:47:44,360
-Doing it now!
+00: 47: 43,240 -> 00: 47: 44,360
+Làm nó bây giờ!
 
 796
-00:47:51,440 --> 00:47:52,560
-Trouble, right?
+00: 47: 51,440 -> 00: 47: 52,560
+Rắc rối, phải không?
 
 797
-00:47:53,920 --> 00:47:55,560
-I can't get us out of its pull!
+00: 47: 53,920 -> 00: 47: 55,560
+Tôi không thể giúp chúng ta thoát khỏi sức kéo của nó!
 
 798
-00:47:55,600 --> 00:47:56,880
-We can't outrun it!
+00: 47: 55,600 -> 00: 47: 56,880
+Chúng tôi không thể chạy nhanh hơn nó!
 
 799
-00:47:58,200 --> 00:48:01,080
-But we are safe in here.
-We are sealed in.
+00: 47: 58,200 -> 00: 48: 01,080
+Nhưng chúng tôi an toàn ở đây.
+Chúng tôi bị niêm phong.
 
 800
-00:48:05,200 --> 00:48:06,720
-Oh, no!
+00: 48: 05,200 -> 00: 48: 06,720
+Ôi không!
 
 801
-00:48:06,760 --> 00:48:09,040
-Come on, Doctor,
-there must be something
-you can do!
+00: 48: 06,760 -> 00: 48: 09,040
+Cố lên, bác sĩ,
+phải có một cái gì đó
+bạn có thể làm!
 
 802
-00:48:11,040 --> 00:48:12,640
-One last throw of the dice...
+00: 48: 11,040 -> 00: 48: 12,640
+Một lần ném xúc xắc cuối cùng ...
 
 803
-00:48:14,960 --> 00:48:16,200
-Get down!
+00: 48: 14,960 -> 00: 48: 16,200
+Nằm xuống!
 
 804
-00:48:21,720 --> 00:48:24,400
-Flux, meet Vortex energy.
+00: 48: 21,720 -> 00: 48: 24,400
+Flux, đáp ứng năng lượng Vortex.
 
 805
-00:48:25,200 --> 00:48:26,960
-See what that does to you!
+00: 48: 25,200 -> 00: 48: 26,960
+Hãy xem điều đó có tác dụng gì với bạn!
 
 806
-00:48:30,160 --> 00:48:32,520
-Ah, not much
-by the look of things.
+00: 48: 30,160 -> 00: 48: 32,520
+Ah, không nhiều
+bởi cái nhìn của mọi thứ.
 
 807
-00:48:54,240 --> 00:48:57,120
-Attack!
+00: 48: 54,240 -> 00: 48: 57,120
+Tấn công!
 
 808
-00:49:02,400 --> 00:49:03,880
-The end of the universe!
+00: 49: 02,400 -> 00: 49: 03,880
+Ngày tận thế của vũ trụ!
 
 809
-00:49:05,600 --> 00:49:08,760
-I always wondered
-what it would feel like.
+00: 49: 05,600 -> 00: 49: 08,760
+Tôi luôn thắc mắc
+nó sẽ cảm thấy như thế nào.
 
 810
-00:49:43,480 --> 00:49:46,120
-Please tell me you are not about
-to engage Sontarans in battle?
+00: 49: 43,480 -> 00: 49: 46,120
+Xin vui lòng cho tôi biết bạn không phải về
+để giao chiến với Sontarans?
 
 811
-00:49:46,160 --> 00:49:47,640
-Mrs Secole to you.
+00: 49: 46,160 -> 00: 49: 47,640
+Bà Secole cho bạn.
 
 812
-00:49:47,680 --> 00:49:51,160
-I accept your offer
-of a massacre.
-
+00: 49: 47,680 -> 00: 49: 51,160
+Tôi chấp nhận lời đề nghị của bạn
+của một vụ thảm sát.
