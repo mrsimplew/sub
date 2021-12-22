@@ -84,7 +84,7 @@ Nhưng vẫn còn muốn nhiều hơn nữa.
 
 20
 00:03:26,791 --> 00:03:28,543
-Cậu đã nghe tới truyền thuyết về Ta Lo chưa?
+Cậu đã nghe tới truyền thuyết về Tháp La chưa?
 
 21
 00:03:29,961 --> 00:03:34,841
@@ -134,7 +134,7 @@ tìm tới quê hương của mẹ.
 
 31
 00:05:13,564 --> 00:05:15,817
-Lối vào Ta Lo
+Lối vào Tháp La
 ở đâu vậy?
 
 32
@@ -213,7 +213,7 @@ Mẹ vẫn còn làm được những điều đó chứ?
 
 48
 00:08:57,747 --> 00:09:01,959
-Mẹ đã để lại sức mạnh tại Ta Lo
+Mẹ đã để lại sức mạnh tại Tháp La
 cùng với rồng thần rồi,
 
 49
@@ -673,7 +673,7 @@ tới con đường xưa cũ</i>
 
 150
 00:14:27,535 --> 00:14:28,661
-Chào buổi sáng cô Chen.
+Chào buổi sáng cô Trần.
 
 151
 00:14:28,827 --> 00:14:29,954
@@ -695,7 +695,7 @@ ra ngay đây.
 
 155
 00:14:37,419 --> 00:14:38,420
-Ruihua à,
+Thụy Hoa à,
 
 156
 00:14:38,504 --> 00:14:41,006
@@ -722,7 +722,7 @@ Cháu rất sẵn lòng giúp ạ.
 
 161
 00:14:49,723 --> 00:14:52,434
-Không được, đấy là việc của Ruihua,
+Không được, đấy là việc của Thụy Hoa,
 cứ để cho nó làm.
 
 162
@@ -1501,7 +1501,7 @@ Kí ở đây để vào cửa.
 337
 00:28:42,847 --> 00:28:45,308
 Tôi đang tìm em gái mình,
-Xu Xialing.
+Từ Hạ Linh.
 
 338
 00:28:45,558 --> 00:28:47,644
@@ -1644,7 +1644,7 @@ Tôi không ở đây
 369
 00:29:56,004 --> 00:29:57,422
 Tôi đang tìm em
-gái mình, Xu Xialing.
+gái mình, Từ Hạ Linh.
 
 370
 00:29:58,965 --> 00:29:59,966
@@ -1858,7 +1858,7 @@ của anh ấy đêm nay,</i>
 
 417
 00:32:33,453 --> 00:32:37,457
-<i>Xu Xialing!</i>
+<i>Từ Hạ Linh!</i>
 
 418
 00:32:42,170 --> 00:32:43,504
@@ -1952,11 +1952,11 @@ Anh sẽ quay lại sau ba ngày.
 
 440
 00:35:14,197 --> 00:35:15,865
-<i>Xu Xialing, cô thật là tuyệt vời!</i>
+<i>Từ Hạ Linh, cô thật là tuyệt vời!</i>
 
 441
 00:35:16,032 --> 00:35:17,700
-<i>Chúng tôi yêu cô lắm, Xialing à!
+<i>Chúng tôi yêu cô lắm, Hạ Linh à!
 Whoo!</i>
 
 442
@@ -1982,7 +1982,7 @@ Không đâu.
 
 447
 00:35:49,690 --> 00:35:51,108
-Chào Xialing. Chị là Katy.
+Chào Hạ Linh. Chị là Katy.
 
 448
 00:35:51,275 --> 00:35:52,527
@@ -2432,11 +2432,11 @@ Tên tiếng Hoa của cô là gì?
 
 550
 00:47:33,977 --> 00:47:35,270
-Ruiwen.
+Thụy Văn.
 
 551
 00:47:36,313 --> 00:47:38,482
-Cái tên thiêng liêng lắm, Ruiwen à.
+Cái tên thiêng liêng lắm, Thụy Văn à.
 
 552
 00:47:38,649 --> 00:47:40,651
@@ -2580,7 +2580,7 @@ Con có biết ai ở trong đó không?
 
 584
 00:49:58,246 --> 00:50:00,624
-Tên thật của ta là Wenwu.
+Tên thật của ta là Văn Vũ.
 
 585
 00:50:01,458 --> 00:50:04,044
@@ -2615,7 +2615,7 @@ về ngôi làng của mẹ các con.
 
 592
 00:50:30,278 --> 00:50:32,072
-Ta Lo huyền thoại.
+Tháp La huyền thoại.
 
 593
 00:50:33,281 --> 00:50:34,449
@@ -2700,7 +2700,7 @@ Sau khi chúng ta phải lòng nhau,
 611
 00:51:29,755 --> 00:51:32,466
 mẹ con đã muốn chúng ta
-sống tại Ta Lo.
+sống tại Tháp La.
 
 612
 00:51:32,632 --> 00:51:34,634
@@ -2726,7 +2726,7 @@ sống cùng nhau.
 
 617
 00:51:44,895 --> 00:51:46,605
-Ta Lo đã làm chúng ta ra thế này.
+Tháp La đã làm chúng ta ra thế này.
 
 618
 00:51:48,398 --> 00:51:51,026
@@ -2770,7 +2770,7 @@ Vậy mấy cái này là gì?
 
 627
 00:53:07,352 --> 00:53:11,022
-Lối vào Ta Lo
+Lối vào Tháp La
 được che chắn bởi một mê cung di động.
 
 628
@@ -2907,7 +2907,7 @@ về làng của mẹ ông là thật hả?
 657
 00:55:47,137 --> 00:55:48,555
 Bà ấy thường kể cho bọn tôi
-những câu chuyện về Ta Lo
+những câu chuyện về Tháp La
 
 658
 00:55:48,638 --> 00:55:49,639
@@ -2949,7 +2949,7 @@ chuyện gì đang diễn ra nữa.
 666
 00:56:11,911 --> 00:56:14,330
 nhưng nếu bọn mình không tìm được cách
-tới Ta Lo trước ông ấy,
+tới Tháp La trước ông ấy,
 
 667
 00:56:14,497 --> 00:56:16,916
@@ -3256,7 +3256,7 @@ Làm sao mà nó biết tôi?
 734
 00:59:11,966 --> 00:59:14,802
 Nó nói nó đã lớn lên
-cùng với mẹ cậu. Tại Ta Lo.
+cùng với mẹ cậu. Tại Tháp La.
 
 735
 00:59:15,678 --> 00:59:18,765
@@ -3832,11 +3832,11 @@ Tôi là Shang-Chi
 
 864
 01:09:01,806 --> 01:09:04,600
-Đây là em gái tôi, Xu Xialing.
+Đây là em gái tôi, Từ Hạ Linh.
 
 865
 01:09:04,767 --> 01:09:07,311
-Chúng tôi là con của Ying Li.
+Chúng tôi là con của Ứng Lệ.
 
 866
 01:09:11,190 --> 01:09:12,691
@@ -3856,7 +3856,7 @@ Whoa.
 
 870
 01:09:25,579 --> 01:09:26,997
-Guang Bo à!
+Quang Bá à!
 
 871
 01:09:28,374 --> 01:09:30,543
@@ -3872,11 +3872,11 @@ Shang-Chi.
 
 874
 01:09:38,425 --> 01:09:39,552
-Xialing.
+Hạ Linh.
 
 875
 01:09:39,718 --> 01:09:42,972
-Ta là dì Nan của các con.
+Ta là dì Nam của các con.
 
 876
 01:09:44,723 --> 01:09:47,434
@@ -3892,7 +3892,7 @@ Xin chào, cháu là Katy.
 
 879
 01:10:07,913 --> 01:10:09,290
-Chào mừng tới Ta Lo, Katy.
+Chào mừng tới Tháp La, Katy.
 
 880
 01:10:09,373 --> 01:10:10,958
@@ -3987,7 +3987,7 @@ tới chuyện này chứ?
 
 900
 01:11:18,442 --> 01:11:20,527
-Khu vực Ta Lo
+Khu vực Tháp La
 trải dài vượt qua cả
 
 901
@@ -4044,7 +4044,7 @@ thế giới của các con để tiếp tục tàn sát.
 
 912
 01:11:54,979 --> 01:11:58,357
-Những chỉ huy của Ta Lo đã
+Những chỉ huy của Tháp La đã
 cử những chiến binh mạnh nhất tới đây
 
 913
@@ -4232,7 +4232,7 @@ trở thành nỗi thất vọng.
 
 953
 01:14:17,538 --> 01:14:18,997
-Guang Bo à.
+Quang Bá à.
 
 954
 01:14:20,249 --> 01:14:21,583
@@ -4286,7 +4286,7 @@ Con không còn
 
 965
 01:16:06,897 --> 01:16:11,026
-Tại Ta Lo, chúng ta luyện tập bình đẳng.
+Tại Tháp La, chúng ta luyện tập bình đẳng.
 
 966
 01:16:12,778 --> 01:16:16,657
@@ -4295,7 +4295,7 @@ Con đã ở trong bóng tối
 
 967
 01:16:36,051 --> 01:16:37,261
-Guang Bo, ông thấy cái đó không?
+Quang Bá, ông thấy cái đó không?
 
 968
 01:16:38,011 --> 01:16:39,346
@@ -4429,7 +4429,7 @@ nhưng ai đó sẽ phải trả giá.
 
 998
 01:21:56,037 --> 01:21:57,872
-Xialing. Shang-Chi.
+Hạ Linh. Shang-Chi.
 
 999
 01:21:58,039 --> 01:21:59,040
