@@ -1,0 +1,1718 @@
+﻿1
+00:00:08,708 --> 00:00:12,916
+LOẠT PHIM NETFLIX
+
+2
+00:00:30,458 --> 00:00:31,958
+<i>Thầy muốn gặp em à, Giáo sư?</i>
+
+3
+00:00:32,041 --> 00:00:33,833
+<i>Vào đi, Jayce.</i>
+
+4
+00:00:34,416 --> 00:00:38,625
+<i>Tin nổi không? Thành phố của ta
+sắp được 200 năm tuổi.</i>
+
+5
+00:00:39,750 --> 00:00:41,041
+Hai trăm năm!
+
+6
+00:00:42,041 --> 00:00:45,083
+Ngày hôm nay có vẻ
+sẽ là một Ngày Tiến Bộ tuyệt vời.
+
+7
+00:00:48,958 --> 00:00:51,958
+"Stanwick Padidly?"
+
+8
+00:00:52,791 --> 00:00:53,875
+Nghe lạ quá.
+
+9
+00:00:53,958 --> 00:00:57,916
+Mọi thứ ông ấy xây dựng
+hoặc nổ tung, tan chảy, hoặc bị đổ.
+
+10
+00:00:58,500 --> 00:01:00,958
+Nhưng ông ấy vẫn đứng đây.
+
+11
+00:01:01,833 --> 00:01:05,125
+Stanwick bỏ qua tham vọng cá nhân của mình
+
+12
+00:01:05,208 --> 00:01:07,916
+và tập trung
+vào điều quan trọng hơn nhiều.
+
+13
+00:01:08,416 --> 00:01:09,458
+Tương lai của chúng ta.
+
+14
+00:01:09,958 --> 00:01:12,291
+Ông ấy nhận ra
+mình không thể hoàn thành được gì
+
+15
+00:01:12,375 --> 00:01:15,291
+có thể so sánh với
+những đóng góp của học trò mình.
+
+16
+00:01:15,375 --> 00:01:16,791
+Em không hề biết.
+
+17
+00:01:18,583 --> 00:01:20,750
+Đó là sự hy sinh của ông ấy.
+
+18
+00:01:22,291 --> 00:01:23,541
+Người bạn thân mến của tôi.
+
+19
+00:01:24,125 --> 00:01:28,041
+Hội Đồng đã đề xuất cậu
+đọc phát biểu Ngày Tiến Bộ năm nay.
+
+20
+00:01:28,125 --> 00:01:31,625
+Sao… Nhưng thầy luôn là người phát biểu.
+
+21
+00:01:31,708 --> 00:01:33,583
+Em không thể thay thế thầy.
+
+22
+00:01:33,666 --> 00:01:35,583
+Tôi đồng ý với họ.
+
+23
+00:01:35,666 --> 00:01:38,750
+Hexgates của cậu đã làm được
+nhiều điều kỳ diệu cho thành phố này.
+
+24
+00:01:38,833 --> 00:01:41,125
+<i>Đưa các học giả từ vùng đất xa xôi đến.</i>
+
+25
+00:01:41,208 --> 00:01:44,125
+<i>Khơi lại đam mê nghệ thuật và khoa học.</i>
+
+26
+00:01:44,833 --> 00:01:46,666
+Cậu xứng đáng có vinh dự này.
+
+27
+00:01:48,791 --> 00:01:52,375
+Em sẽ cố hết sức
+làm Piltover tự hào, thưa Giáo sư.
+
+28
+00:01:52,458 --> 00:01:53,833
+Rất gấp, tôi biết,
+
+29
+00:01:53,916 --> 00:01:57,916
+nhưng có lẽ có gì đó ở phòng thí nghiệm
+mà cậu có thể chia sẻ không?
+
+30
+00:01:58,000 --> 00:01:59,916
+Mọi người thích một công bố hoành tráng.
+
+31
+00:02:00,000 --> 00:02:01,875
+Viktor và em có đúng thứ cần thiết.
+
+32
+00:02:01,958 --> 00:02:03,458
+Chương tiếp theo của Hextech.
+
+33
+00:02:03,541 --> 00:02:05,708
+Chiều đến phòng thí nghiệm,
+em sẽ cho thầy xem.
+
+34
+00:02:05,791 --> 00:02:07,291
+Ta rất mong chờ đấy.
+
+35
+00:02:07,375 --> 00:02:09,708
+Cậu thật sự rất đáng kỳ vọng, anh bạn.
+
+36
+00:04:04,458 --> 00:04:07,250
+NGÀY TIẾN BỘ PILTOVER
+
+37
+00:04:07,875 --> 00:04:12,291
+<i>Chúc mừng Ngày Tiến Bộ.</i>
+
+38
+00:04:31,958 --> 00:04:34,375
+Học trò nổi tiếng nhất của chúng ta…
+
+39
+00:04:34,458 --> 00:04:36,000
+Jayce Talis.
+
+40
+00:04:36,583 --> 00:04:38,916
+Người có tầm nhìn đã tạo ra Hexgates,
+
+41
+00:04:39,000 --> 00:04:43,000
+người đem đến phồn vinh và thịnh vượng
+cho Thành phố Tiến Bộ vĩ đại chúng tôi.
+
+42
+00:04:43,083 --> 00:04:44,083
+Thứ lỗi.
+
+43
+00:04:44,625 --> 00:04:46,625
+Thứ lỗi. Xin phép nhé.
+
+44
+00:04:47,375 --> 00:04:49,208
+Cậu ấy là người rất bận rộn.
+
+45
+00:04:54,583 --> 00:04:56,791
+- Cait!
+- Đáng đời cậu.
+
+46
+00:05:00,958 --> 00:05:02,291
+Cậu vẫn tránh mặt bà ấy à?
+
+47
+00:05:02,375 --> 00:05:04,708
+- Tôi đang làm việc.
+- Tôi thấy chứ.
+
+48
+00:05:04,791 --> 00:05:08,458
+Có rất nhiều tội ác cần phá ngang
+ngoài lều của gia đình cậu.
+
+49
+00:05:08,541 --> 00:05:12,125
+Tôi chỉ có thể tưởng tượng bà ấy
+gây ảnh hưởng thế nào để tôi phải ở đây.
+
+50
+00:05:12,208 --> 00:05:13,541
+Thật ra là lỗi của cậu,
+
+51
+00:05:13,625 --> 00:05:16,875
+vì không đi theo sự nghiệp
+"phù hợp với địa vị của cậu hơn".
+
+52
+00:05:17,666 --> 00:05:20,458
+Bà ấy sẽ làm bất cứ việc gì
+để ngăn tôi thấy thế giới thực.
+
+53
+00:05:20,541 --> 00:05:22,791
+Ít nhất cậu sẽ ở hàng ghế đầu
+nghe bài phát biểu.
+
+54
+00:05:23,791 --> 00:05:24,708
+Phát biểu?
+
+55
+00:05:25,666 --> 00:05:27,666
+Tối nay tôi có bài phát biểu quan trọng.
+
+56
+00:05:28,375 --> 00:05:30,500
+Ta thật sự đã rơi vào
+tình trạng vô chính phủ.
+
+57
+00:05:30,583 --> 00:05:32,541
+Bắt đám say xỉn vui vẻ nhé.
+
+58
+00:05:34,125 --> 00:05:36,125
+Chúc mừng Ngày Tiến Bộ!
+
+59
+00:06:17,166 --> 00:06:18,333
+Bảng kê khai vận chuyển?
+
+60
+00:06:19,708 --> 00:06:22,458
+Từ bạn của anh. Khu trung tâm.
+
+61
+00:06:39,958 --> 00:06:41,166
+Nằm xuống!
+
+62
+00:06:41,666 --> 00:06:43,666
+Chết tiệt! Bọn Ánh Lửa!
+
+63
+00:06:59,541 --> 00:07:01,375
+Năm phút nữa là chúng tới ngoài đó.
+
+64
+00:07:08,541 --> 00:07:11,125
+Chưa từng thấy
+nhiều Shimmer như thế này bao giờ à?
+
+65
+00:07:11,708 --> 00:07:13,000
+Chúng đang nở ra kìa.
+
+66
+00:07:13,083 --> 00:07:15,291
+Kiểm tra xem
+bên dưới còn nữa không. Đốt hết đi!
+
+67
+00:07:30,291 --> 00:07:33,125
+Không! Mở cửa ra!
+
+68
+00:07:35,458 --> 00:07:36,416
+Mở cửa ra!
+
+69
+00:07:43,708 --> 00:07:46,333
+Ôi không. Cô ta ở đây!
+
+70
+00:08:15,791 --> 00:08:17,458
+BÙM
+
+71
+00:08:52,708 --> 00:08:53,708
+Chào.
+
+72
+00:09:28,000 --> 00:09:28,916
+Vi?
+
+73
+00:09:29,541 --> 00:09:30,833
+Chị không thể mất em.
+
+74
+00:09:34,958 --> 00:09:36,708
+Sao chị lại bỏ em lại?
+
+75
+00:09:36,791 --> 00:09:39,375
+Vì em thật xúi quẩy!
+
+76
+00:09:43,583 --> 00:09:45,500
+<i>- Em muốn chiến đấu.
+- Em chưa sẵn sàng.</i>
+
+77
+00:09:50,625 --> 00:09:52,250
+Không!
+
+78
+00:10:44,166 --> 00:10:46,666
+Cô lẽ ra phải bảo vệ hàng!
+
+79
+00:11:07,291 --> 00:11:09,083
+Cậu nghĩ ông ấy sẽ đồng ý sao?
+
+80
+00:11:09,958 --> 00:11:13,583
+Heimerdinger cũng như ta, tin khoa học
+nên được dùng để cải thiện cuộc sống.
+
+81
+00:11:13,666 --> 00:11:15,500
+Ta chỉ cần cho ông ấy thấy nó an toàn.
+
+82
+00:11:17,333 --> 00:11:18,875
+Vậy còn Hội Đồng?
+
+83
+00:11:19,708 --> 00:11:22,291
+Ta đã ổn định tinh thể như họ yêu cầu.
+
+84
+00:11:22,375 --> 00:11:24,458
+Xây Hexgates như họ yêu cầu.
+
+85
+00:11:25,125 --> 00:11:27,791
+Đã đến lượt ta
+quyết định tương lai của Hextech.
+
+86
+00:11:29,541 --> 00:11:32,041
+Giáo sư! Em mừng vì thầy tới được.
+
+87
+00:11:32,125 --> 00:11:34,333
+Ta không đời nào bỏ lỡ đâu, anh bạn!
+
+88
+00:11:34,416 --> 00:11:36,291
+Hôm nay ta có những việc gì nào?
+
+89
+00:11:38,875 --> 00:11:40,875
+Tất cả bắt đầu với thứ này.
+
+90
+00:11:42,166 --> 00:11:44,458
+Một tinh thể năng lượng phép thuật,
+
+91
+00:11:44,541 --> 00:11:47,250
+quá bất ổn để xử lý
+bên ngoài cơ sở của chúng tôi.
+
+92
+00:11:47,333 --> 00:11:50,583
+Hextech lẽ ra phải mang phép thuật
+đến cuộc sống của thường dân.
+
+93
+00:11:50,666 --> 00:11:53,875
+Và giờ, cuối cùng nó cũng có thể.
+
+94
+00:11:55,791 --> 00:11:57,791
+Một viên Đá Quý Hextech.
+
+95
+00:12:09,333 --> 00:12:10,583
+Đợi đã!
+
+96
+00:12:16,125 --> 00:12:17,875
+Thánh thần ơi!
+
+97
+00:12:19,458 --> 00:12:21,875
+Chúng tôi đã tìm ra
+cách để củng cố tinh thể.
+
+98
+00:12:21,958 --> 00:12:26,708
+Phiên bản mới này
+ổn định và tuyệt đối an toàn.
+
+99
+00:12:29,791 --> 00:12:33,875
+Xin được giới thiệu
+chương tiếp theo của Hextech.
+
+100
+00:12:34,708 --> 00:12:37,458
+Ta có thể thiết kế các thiết bị cầm tay.
+
+101
+00:12:42,750 --> 00:12:45,083
+Viên đá này
+cung cấp năng lượng gần như cho mọi thứ.
+
+102
+00:13:04,958 --> 00:13:06,791
+Găng Tay Atlas.
+
+103
+00:13:07,541 --> 00:13:10,875
+Việc khai thác mỏ ở các Rãnh nứt
+sẽ nhanh hơn và đỡ hao sức lực.
+
+104
+00:13:13,291 --> 00:13:14,750
+Móng Vuốt Hex.
+
+105
+00:13:16,291 --> 00:13:20,208
+Một cánh tay cơ khí
+được trang bị một tia sáng cực mạnh.
+
+106
+00:13:28,083 --> 00:13:31,750
+Nghĩ xem các thợ thủ công của ta
+có thể làm gì với nó.
+
+107
+00:13:31,833 --> 00:13:34,916
+Em muốn Hextech trở thành công cụ
+để xây dựng một thế giới mới.
+
+108
+00:13:35,500 --> 00:13:37,333
+Và bây giờ, cuối cùng cũng có thể!
+
+109
+00:13:42,666 --> 00:13:46,125
+Dù sao thì,
+đây là bài thuyết trình của chúng tôi.
+
+110
+00:13:46,208 --> 00:13:48,583
+Khá tuyệt đấy, các cậu!
+
+111
+00:13:48,666 --> 00:13:50,541
+Các cậu nên thấy tự hào.
+
+112
+00:13:50,625 --> 00:13:55,250
+Rõ ràng, có vài vấn đề
+cần giải quyết và hoàn thiện,
+
+113
+00:13:55,333 --> 00:13:59,458
+nhưng chỉ cần một thập kỷ
+nghiên cứu cẩn thận, nó sẽ sẵn sàng!
+
+114
+00:13:59,541 --> 00:14:00,583
+Một thập kỷ?
+
+115
+00:14:00,666 --> 00:14:02,208
+Đừng lo, anh bạn.
+
+116
+00:14:02,291 --> 00:14:04,666
+Nó sẽ trôi qua trong nháy mắt.
+
+117
+00:14:04,750 --> 00:14:06,291
+Với sự tôn trọng, thưa Giáo sư,
+
+118
+00:14:06,375 --> 00:14:09,541
+ta có thể dùng Hextech
+cải thiện cuộc sống ngay bây giờ.
+
+119
+00:14:09,625 --> 00:14:12,041
+Một đột phá như vậy
+cần có thời gian, Viktor.
+
+120
+00:14:12,125 --> 00:14:15,416
+Đưa sức mạnh như thế
+vào tay mọi người rất nguy hiểm.
+
+121
+00:14:15,500 --> 00:14:17,916
+Tiếp tục duy trì
+và ta chắc hai cậu sẽ tìm ra cách
+
+122
+00:14:18,000 --> 00:14:20,625
+để bảo vệ Hextech không bị lạm dụng.
+
+123
+00:14:32,791 --> 00:14:37,625
+Chắc phải có bốn, năm tên.
+Tôi không biết chúng vào bằng cách nào.
+
+124
+00:15:54,333 --> 00:15:55,958
+Anh đến từ Thành phố ngầm.
+
+125
+00:15:58,125 --> 00:16:00,750
+Tôi không làm gì cả. Cô ta điên rồi.
+
+126
+00:16:00,833 --> 00:16:01,958
+Bình tĩnh.
+
+127
+00:16:03,041 --> 00:16:04,250
+Cô ta đã bắn tôi.
+
+128
+00:16:04,333 --> 00:16:06,875
+Ai đã bắn anh? Anh làm việc cho ai?
+
+129
+00:16:07,666 --> 00:16:09,791
+Tôi không thể. Hắn sẽ giết tôi.
+
+130
+00:16:09,875 --> 00:16:11,000
+Ai?
+
+131
+00:16:12,166 --> 00:16:13,333
+Tôi có thể bảo vệ anh.
+
+132
+00:16:13,916 --> 00:16:17,458
+Caitlyn Kiramman,
+sao tôi không thấy ngạc nhiên nhỉ?
+
+133
+00:16:17,541 --> 00:16:20,416
+Lại cản trở việc điều tra.
+
+134
+00:16:20,500 --> 00:16:23,000
+Cô lẽ ra phải gác lều của mẹ cô.
+
+135
+00:16:23,083 --> 00:16:25,833
+Vâng, Cảnh sát trưởng,
+nhưng mẹ tôi không cần.
+
+136
+00:16:25,916 --> 00:16:28,000
+Và rõ ràng, việc này cần ưu tiên.
+
+137
+00:16:28,083 --> 00:16:30,083
+Tôi biết cô đã quen
+tự tung tự tác, Kiramman,
+
+138
+00:16:30,166 --> 00:16:32,125
+nhưng chuỗi mệnh lệnh tồn tại là có lý do.
+
+139
+00:16:32,208 --> 00:16:33,791
+Tôi hiểu.
+
+140
+00:16:33,875 --> 00:16:36,625
+Nhưng việc ở đây không chỉ là buôn lậu.
+
+141
+00:16:36,708 --> 00:16:39,583
+- Nếu được thẩm vấn anh ta, tôi có thể…
+- Tôi sẽ lo từ đây.
+
+142
+00:16:39,666 --> 00:16:41,208
+Vì cô đang muốn có thêm việc làm,
+
+143
+00:16:41,291 --> 00:16:43,666
+cô có thể làm ca đêm tại hội chợ.
+
+144
+00:16:44,708 --> 00:16:46,708
+- Vâng.
+- Tốt.
+
+145
+00:16:46,791 --> 00:16:48,875
+Đưa tên này
+lên thuyền đến Nhà Tù Stillwater.
+
+146
+00:16:48,958 --> 00:16:49,958
+Vâng.
+
+147
+00:16:57,416 --> 00:16:58,291
+KHÔNG KHÍ TRONG LÀNH
+
+148
+00:17:08,208 --> 00:17:10,541
+QUÁN GIỌT CUỐI CÙNG
+
+149
+00:17:34,375 --> 00:17:35,958
+Cô ta bắn bọn tôi.
+
+150
+00:17:36,041 --> 00:17:38,250
+Trận chiến nào cũng có rủi ro.
+
+151
+00:17:38,791 --> 00:17:42,083
+Bọn Ánh Lửa là mục tiêu của cô ta,
+và hầu hết đều đã chết.
+
+152
+00:17:43,166 --> 00:17:46,958
+Đó không phải rủi ro.
+Cô ta đứng hình và nổi điên.
+
+153
+00:17:47,666 --> 00:17:51,458
+Tôi đã có thể xử lý lũ nhóc đó.
+Cô ta là vấn đề, ta đều biết là vậy.
+
+154
+00:17:51,541 --> 00:17:52,375
+"Ta?"
+
+155
+00:17:53,750 --> 00:17:55,250
+"Ta" ở đây là ai?
+
+156
+00:17:57,541 --> 00:18:00,416
+Tôi kỳ vọng ở cô nhiều hơn việc viện cớ.
+
+157
+00:18:00,500 --> 00:18:03,541
+Việc của cô là đảm bảo
+mọi thứ diễn ra suôn sẻ.
+
+158
+00:18:04,666 --> 00:18:05,583
+Cô đã thất bại.
+
+159
+00:18:06,250 --> 00:18:07,833
+Đừng làm tôi thất vọng nữa.
+
+160
+00:18:16,416 --> 00:18:20,916
+Thế giới ngày càng nhỏ lại,
+nhờ có Hexgates.
+
+161
+00:18:21,583 --> 00:18:23,875
+Và giờ, ta bị cô lập.
+
+162
+00:18:23,958 --> 00:18:26,958
+Phía trên đang bỏ ta lại
+ngày càng xa phía sau.
+
+163
+00:18:28,625 --> 00:18:29,750
+Có chuyện gì vậy?
+
+164
+00:18:30,458 --> 00:18:32,208
+Cô ta đã kể với ông rồi.
+
+165
+00:18:33,250 --> 00:18:34,833
+Tôi đang hỏi cô.
+
+166
+00:18:38,250 --> 00:18:40,958
+Một trong tên trong lũ Ánh Lửa là con gái.
+
+167
+00:18:41,625 --> 00:18:43,458
+Có mái tóc hồng.
+
+168
+00:18:52,541 --> 00:18:54,333
+Chị cô mất tích rồi.
+
+169
+00:18:54,833 --> 00:18:56,875
+Cô và tôi đều biết rõ việc đó.
+
+170
+00:18:56,958 --> 00:18:58,666
+Tôi biết. Tôi biết chứ!
+
+171
+00:18:58,750 --> 00:19:00,250
+Chị em gái, phải không?
+
+172
+00:19:00,333 --> 00:19:03,583
+Không thể sống chung, cũng không thể
+nhét vào lại cái máy tạo em bé.
+
+173
+00:19:05,666 --> 00:19:08,291
+Vụ hỏng việc hôm nay
+sẽ làm ta tụt lại vài tuần.
+
+174
+00:19:10,458 --> 00:19:11,500
+Tôi xin lỗi.
+
+175
+00:19:11,583 --> 00:19:14,791
+Tôi cần biết là tôi có thể tin tưởng cô.
+
+176
+00:19:15,958 --> 00:19:18,166
+Tôi làm việc này vì chúng ta, Jinx.
+
+177
+00:19:18,250 --> 00:19:19,833
+Tất cả chúng ta.
+
+178
+00:19:19,916 --> 00:19:21,833
+Những đứa con của Zaun
+
+179
+00:19:21,916 --> 00:19:24,625
+xứng đáng được có nhiều hơn
+ngoài đống nước thải của chúng.
+
+180
+00:19:26,041 --> 00:19:27,500
+Sẽ không xảy ra nữa đâu.
+
+181
+00:19:28,500 --> 00:19:29,458
+Tôi biết.
+
+182
+00:19:40,791 --> 00:19:42,416
+Sevika sẽ dọn mớ lộn xộn hôm nay.
+
+183
+00:19:42,500 --> 00:19:46,625
+Sevika? Mụ già đó có dùng đèn hàn
+cũng không dọn nổi một cục bụi.
+
+184
+00:19:46,708 --> 00:19:51,125
+Cô ta sẽ làm được.
+Cô nên tập trung vào đống đồ nghề.
+
+185
+00:19:52,916 --> 00:19:54,291
+Dành ra chút thời gian đi.
+
+186
+00:19:54,375 --> 00:19:56,500
+Tôi không cần thời gian.
+
+187
+00:19:58,833 --> 00:20:00,416
+Thì cứ dành ra chút thời gian đi.
+
+188
+00:20:23,208 --> 00:20:25,041
+Buổi gây quỹ diễn ra suôn sẻ.
+
+189
+00:20:26,541 --> 00:20:28,000
+Mẹ cô sẽ rất tự hào.
+
+190
+00:20:28,875 --> 00:20:31,750
+- Vậy sao?
+- Chán giao du rồi à?
+
+191
+00:20:33,041 --> 00:20:35,458
+Những người này
+chẳng có gì mới để cho tôi.
+
+192
+00:20:36,041 --> 00:20:38,750
+Người duy nhất
+đáng để tôi bỏ thời gian là cậu ta.
+
+193
+00:20:39,333 --> 00:20:40,916
+Cậu bé vàng.
+
+194
+00:20:41,750 --> 00:20:43,666
+Cậu ta đã có được trái tim của Piltover.
+
+195
+00:20:43,750 --> 00:20:45,041
+NGƯỜI TIẾN BỘ
+
+196
+00:20:46,125 --> 00:20:47,333
+Vừa mới nhắc đến.
+
+197
+00:21:02,041 --> 00:21:03,916
+Tôi có thể gặp cô một lát không?
+
+198
+00:21:14,916 --> 00:21:16,750
+Sao tôi lại có vinh hạnh này vậy?
+
+199
+00:21:18,416 --> 00:21:20,250
+Là về Heimerdinger.
+
+200
+00:21:20,750 --> 00:21:21,958
+Có lần nào không phải đâu?
+
+201
+00:21:22,041 --> 00:21:25,750
+Bọn tôi đã cho ông ấy xem nghiên cứu.
+Ông ấy nghĩ bọn tôi cần thêm thời gian.
+
+202
+00:21:25,833 --> 00:21:27,208
+Hôm nay là Ngày Tiến Bộ!
+
+203
+00:21:27,291 --> 00:21:28,833
+Các đại diện từ khắp thế giới
+
+204
+00:21:28,916 --> 00:21:32,083
+đã đến để xem Thành phố Tiến Bộ
+mang lại những điều kỳ diệu mới gì.
+
+205
+00:21:32,166 --> 00:21:35,875
+Nếu có thời điểm để giới thiệu
+một sáng tạo mới, thì chính là lúc này.
+
+206
+00:21:37,500 --> 00:21:38,791
+Tuyệt.
+
+207
+00:21:41,208 --> 00:21:43,375
+Heimerdinger là một nhà khoa học lỗi lạc.
+
+208
+00:21:43,458 --> 00:21:46,750
+Nhưng ông già rồi. Ông chỉ thấy quá khứ.
+
+209
+00:21:47,416 --> 00:21:49,958
+Piltover cần một thủ lĩnh
+dám nhìn về tương lai.
+
+210
+00:21:50,666 --> 00:21:53,916
+- Một người như cậu.
+- Cô thật sự tin là vậy sao?
+
+211
+00:21:55,000 --> 00:21:58,833
+Hextech có tiềm năng thay đổi mọi thứ.
+
+212
+00:21:58,916 --> 00:22:00,291
+Thế giới đã sẵn sàng.
+
+213
+00:22:00,375 --> 00:22:02,833
+Ta cũng đã nói chuyện
+với một số nhà đầu tư tiềm năng.
+
+214
+00:22:02,916 --> 00:22:03,791
+Nhà đầu tư?
+
+215
+00:22:03,875 --> 00:22:05,083
+Tất nhiên rồi.
+
+216
+00:22:05,166 --> 00:22:07,375
+Ai cũng muốn có Hextech cho riêng mình.
+
+217
+00:22:08,208 --> 00:22:09,625
+Đây là bài phát biểu của cậu.
+
+218
+00:22:09,708 --> 00:22:12,541
+Cho dân chúng một cái nhìn vào tương lai.
+
+219
+00:22:27,083 --> 00:22:28,500
+Không phải chị ta!
+
+220
+00:22:33,166 --> 00:22:34,250
+Không phải!
+
+221
+00:22:38,416 --> 00:22:42,250
+Ta biết. Chỉ là
+một kẻ rác rưởi đường phố học đòi.
+
+222
+00:22:42,833 --> 00:22:44,791
+Ta chỉ nhầm lẫn một chút, thế thôi.
+
+223
+00:22:44,875 --> 00:22:47,541
+Giờ thì ông ta nghĩ ta yếu đuối.
+
+224
+00:22:49,541 --> 00:22:51,041
+"Sevika sẽ dọn dẹp".
+
+225
+00:22:51,125 --> 00:22:54,083
+Sevika chỉ là
+một kẻ luôn sẵn sàng nhận lệnh!
+
+226
+00:22:56,708 --> 00:22:58,375
+Ta không yếu đuối!
+
+227
+00:23:02,708 --> 00:23:05,375
+NGÀY TIẾN BỘ
+
+228
+00:23:05,458 --> 00:23:07,083
+Và ta sẽ cho ông ta thấy.
+
+229
+00:23:07,166 --> 00:23:10,458
+Ta sẽ cho ông ta thấy. Chờ mà xem!
+
+230
+00:23:22,625 --> 00:23:23,666
+Cậu đã ở đâu vậy?
+
+231
+00:23:23,750 --> 00:23:26,083
+Họ hỏi xem
+liệu tôi có phát biểu được không.
+
+232
+00:23:26,166 --> 00:23:28,416
+Anh nên lên cùng tôi. Ta là cộng sự.
+
+233
+00:23:28,500 --> 00:23:32,500
+Không. Không phải trước mặt tất cả bọn họ.
+
+234
+00:23:33,875 --> 00:23:36,250
+Cậu chuẩn bị bài phát biểu chưa?
+
+235
+00:23:38,833 --> 00:23:44,041
+<i>Nguồn cảm hứng cho tương lai
+của Piltover và toàn nhân loại.</i>
+
+236
+00:23:44,125 --> 00:23:47,958
+<i>Xin hãy cùng tôi chào đón lên sân khấu… </i>
+
+237
+00:23:49,041 --> 00:23:50,166
+<i>Jayce Talis.</i>
+
+238
+00:23:50,250 --> 00:23:51,625
+Đến lúc rồi.
+
+239
+00:23:53,208 --> 00:23:55,500
+NGƯỜI TIẾN BỘ
+
+240
+00:24:31,625 --> 00:24:32,750
+Chào buổi tối.
+
+241
+00:24:34,166 --> 00:24:37,541
+Tôi biết nhiều người
+không ngờ sẽ thấy tôi ở đây hôm nay.
+
+242
+00:24:37,625 --> 00:24:39,666
+Và tin tôi đi, tôi cũng sốc y như các bạn.
+
+243
+00:24:47,083 --> 00:24:48,958
+Tôi và gia đình tôi rất đơn giản.
+
+244
+00:24:49,541 --> 00:24:51,458
+Nhà máy chúng tôi làm búa.
+
+245
+00:24:52,041 --> 00:24:55,416
+Có thể chúng từng cắt
+các tảng đá các bạn đang đứng trên.
+
+246
+00:24:56,125 --> 00:24:59,416
+Trong đời tôi,
+không ai mong đợi nhiều ở tôi.
+
+247
+00:24:59,500 --> 00:25:04,583
+Và đó chính xác là điều làm cho
+khoảnh khắc này trở nên phi thường.
+
+248
+00:25:05,125 --> 00:25:08,875
+Vài năm trước,
+Hexgates mở cửa với thế giới
+
+249
+00:25:08,958 --> 00:25:13,500
+giúp Piltover phát đạt
+vượt xa tưởng tượng của chúng tôi.
+
+250
+00:25:20,791 --> 00:25:23,208
+Nhưng chúng tôi vẫn chưa xong.
+
+251
+00:25:35,875 --> 00:25:39,500
+Năm nay, bọn tôi đã tạo ra
+một thứ mới cho các bạn.
+
+252
+00:25:42,666 --> 00:25:44,125
+Một thứ mà…
+
+253
+00:25:52,041 --> 00:25:55,625
+Mà chúng tôi sẽ chia sẻ với các bạn…
+
+254
+00:25:58,750 --> 00:26:00,333
+khi đến thời điểm thích hợp.
+
+255
+00:26:05,125 --> 00:26:07,375
+Những thứ sẽ giúp các bạn
+không phải khổ cực nữa,
+
+256
+00:26:07,458 --> 00:26:09,750
+dù các bạn là con cháu dòng dõi cao quý,
+
+257
+00:26:09,833 --> 00:26:12,125
+hay là một công nhân chân chính
+từ thế giới ngầm.
+
+258
+00:26:12,208 --> 00:26:15,833
+Chúng tôi thề sẽ luôn tiến về phía trước,
+vì chúng ta là Thành phố Tiến Bộ.
+
+259
+00:26:15,916 --> 00:26:17,875
+Và tương lai chúng ta vô cùng tươi sáng!
+
+260
+00:26:46,625 --> 00:26:47,791
+Thế thôi sao?
+
+261
+00:26:47,875 --> 00:26:50,583
+Tôi cứ tưởng
+thằng nhóc Talis đó là thiên tài.
+
+262
+00:26:50,666 --> 00:26:53,166
+Năm ngoái, nó phóng khinh khí cầu
+đi nửa lục địa còn gì?
+
+263
+00:26:53,250 --> 00:26:54,416
+Nói đúng hơn là tàu bay.
+
+264
+00:26:54,500 --> 00:26:57,458
+Tàu bay có thân tàu kim loại cứng.
+
+265
+00:26:57,541 --> 00:26:59,041
+Không phải khinh khí cầu.
+
+266
+00:26:59,125 --> 00:27:02,500
+- Là hình quả bóng bay, phải không?
+- Nhìn thì đúng là vậy.
+
+267
+00:27:03,458 --> 00:27:07,458
+Thứ lỗi nếu chúng tôi
+không tinh tế như quý cô.
+
+268
+00:27:08,208 --> 00:27:10,250
+Mà cô làm gì ở đây thế, Kiramman?
+
+269
+00:27:10,333 --> 00:27:12,958
+Cô không bận đi dự tiệc cocktail à?
+
+270
+00:27:16,791 --> 00:27:19,000
+Cháy. Cháy!
+
+271
+00:27:24,875 --> 00:27:27,500
+- Chuyện gì vậy?
+- Gọi đội cứu hỏa đi!
+
+272
+00:27:32,875 --> 00:27:36,500
+Cứu với! Tôi ở đây, làm ơn! Cứu tôi với!
+
+273
+00:27:44,958 --> 00:27:49,041
+Cứu với! Nóng quá, làm ơn! Tôi bị kẹt rồi.
+
+274
+00:27:52,458 --> 00:27:55,583
+Tôi là một cô bé bất lực,
+và tôi đã đốt cháy cả tòa nhà.
+
+275
+00:27:56,166 --> 00:27:59,125
+<i>Vô tình thôi. Hoàn toàn là vô tình thôi.</i>
+
+276
+00:28:05,333 --> 00:28:07,125
+Ra ngoài. Ngay!
+
+277
+00:28:07,208 --> 00:28:09,708
+<i>Tôi cũng mang theo số thuốc nổ này.</i>
+
+278
+00:28:09,791 --> 00:28:10,916
+<i>Tạm biệt!</i>
+
+279
+00:28:43,583 --> 00:28:45,416
+CHÚC MỪNG NGÀY TIẾN BỘ
+
+280
+00:28:45,500 --> 00:28:46,583
+<i>Đá Quý biến mất rồi.</i>
+
+281
+00:28:47,333 --> 00:28:49,708
+<i>Cùng một số tài liệu nghiên cứu.</i>
+
+282
+00:28:51,416 --> 00:28:53,125
+<i>Tình hình vẫn đang tiến triển.</i>
+
+283
+00:28:53,208 --> 00:28:56,250
+Chưa có ai ở Thành phố ngầm
+đứng ra nhận trách nhiệm.
+
+284
+00:28:58,125 --> 00:29:00,333
+Sao lại thành ra thế này?
+
+285
+00:29:05,458 --> 00:29:08,791
+Ta đã bỏ mặc thế giới ngầm quá lâu rồi.
+
+286
+00:29:08,875 --> 00:29:10,250
+Ta đã mất liên lạc.
+
+287
+00:29:10,333 --> 00:29:12,583
+Có thể họ không phải là
+những cư dân ta yêu thích,
+
+288
+00:29:12,666 --> 00:29:14,708
+nhưng họ vẫn là người dân của ta.
+
+289
+00:29:14,791 --> 00:29:18,250
+Ta không thể nào
+kiểm soát được Thành phố ngầm.
+
+290
+00:29:18,333 --> 00:29:20,041
+Vậy ta sẽ ra sao?
+
+291
+00:29:21,916 --> 00:29:22,833
+Cậu Talis?
+
+292
+00:29:22,916 --> 00:29:25,791
+Người dưới cống có tạo được vũ khí
+với tinh thể bị mất không?
+
+293
+00:29:25,875 --> 00:29:30,041
+Shimmer, thay thế thân thể,
+qua nhiều năm ta đã thấy tài năng của họ.
+
+294
+00:29:30,125 --> 00:29:31,541
+Tất nhiên là họ có thể.
+
+295
+00:29:35,291 --> 00:29:36,833
+Nếu người có tài năng có được nó,
+
+296
+00:29:36,916 --> 00:29:39,708
+họ có thể tận dụng năng lượng của nó.
+
+297
+00:29:39,791 --> 00:29:41,916
+Ta cần giải quyết việc này ngay lập tức.
+
+298
+00:29:43,875 --> 00:29:44,708
+Tôi đồng ý.
+
+299
+00:29:45,291 --> 00:29:48,791
+Nhiệm vụ của tôi là
+bảo vệ công nghệ này và tôi đã thất bại.
+
+300
+00:29:48,875 --> 00:29:51,208
+Sai lầm của tôi
+đã khiến nhiều người mất mạng.
+
+301
+00:29:51,291 --> 00:29:53,083
+Tôi đứng trước mọi người đề nghị
+
+302
+00:29:53,166 --> 00:29:57,250
+ta tạm dừng mọi hoạt động Hextech
+cho đến khi tình hình được giải quyết.
+
+303
+00:29:57,333 --> 00:30:00,833
+Bao gồm cả phòng thí nghiệm,
+nhà máy tinh luyện, và Hexgates.
+
+304
+00:30:00,916 --> 00:30:05,291
+- Cậu mất trí rồi à?
+- Hexgates phải luôn mở.
+
+305
+00:30:05,375 --> 00:30:08,625
+Vị thế đường vận chuyển toàn cầu
+của Piltover phụ thuộc vào nó.
+
+306
+00:30:08,708 --> 00:30:10,875
+Hàng ngàn người sẽ mất thu nhập.
+
+307
+00:30:10,958 --> 00:30:14,791
+Nhưng không phải ưu tiên số một
+là sự an toàn của Piltover sao?
+
+308
+00:30:14,875 --> 00:30:16,750
+Cậu sẽ hy sinh sự nghiệp cả đời của cậu?
+
+309
+00:30:16,833 --> 00:30:21,666
+Không có Hexgates, hàng của ta
+mùa đông mới tới thị trường nước ngoài!
+
+310
+00:30:21,750 --> 00:30:23,625
+Ta có nên nói với bên Noxians
+
+311
+00:30:23,708 --> 00:30:26,291
+lô rượu tiếp theo của họ sẽ là giấm không?
+
+312
+00:30:26,375 --> 00:30:29,375
+Các Ủy viên, có vẻ ta đã rơi vào bế tắc.
+
+313
+00:30:29,958 --> 00:30:33,291
+Nếu ta đóng Hexgates,
+cả thành phố sẽ chịu khổ.
+
+314
+00:30:33,375 --> 00:30:35,000
+Nhưng nếu ta không làm gì,
+
+315
+00:30:35,083 --> 00:30:38,416
+bản thân ta sẽ dễ bị kẻ ác tấn công.
+
+316
+00:30:38,500 --> 00:30:40,833
+Có thể sẽ có thêm người phải chết.
+
+317
+00:30:41,458 --> 00:30:46,416
+Có lẽ đã đến lúc
+dùng đến một giải pháp triệt để hơn.
+
+318
+00:30:46,500 --> 00:30:48,125
+Cô có để xuất gì?
+
+319
+00:30:50,291 --> 00:30:53,875
+Cậu Talis đã cho thấy sự hết mình
+của cậu ấy với an toàn của chúng ta.
+
+320
+00:30:54,583 --> 00:30:57,583
+Cậu ấy sẵn sàng
+hy sinh công việc của mình.
+
+321
+00:30:57,666 --> 00:31:01,125
+Và có vẻ như chỉ có cậu Talis có kiến thức
+
+322
+00:31:01,208 --> 00:31:03,625
+cần thiết để đảm bảo an toàn cho Hexgates.
+
+323
+00:31:03,708 --> 00:31:07,041
+Tôi đề nghị sắp xếp thêm một cái ghế mới,
+
+324
+00:31:07,125 --> 00:31:10,708
+và Nhà Talis sẽ được thăng cấp
+thành thành viên nhóm người ưu tú này.
+
+325
+00:31:10,791 --> 00:31:11,625
+Sao cơ?
+
+326
+00:31:11,708 --> 00:31:17,291
+Là Ủy viên, cậu ấy có nguồn lực cần thiết
+để bảo vệ mọi khoản đầu tư của ta.
+
+327
+00:31:17,375 --> 00:31:20,791
+Ủy viên Medarda, việc này rất bất thường.
+
+328
+00:31:20,875 --> 00:31:24,083
+Hội Đồng luôn có bảy ghế qua nhiều thế hệ.
+
+329
+00:31:24,166 --> 00:31:26,583
+Cậu ấy có kinh nghiệm gì không?
+
+330
+00:31:26,666 --> 00:31:30,458
+Chỉ có kinh nghiệm của một khoa học gia.
+Như Heimerdinger vậy.
+
+331
+00:31:36,750 --> 00:31:39,500
+Tôi tin Ủy viên Medarda nói đúng.
+
+332
+00:31:39,583 --> 00:31:43,208
+Sự an toàn của Hextech
+nên được quản lý bởi một khoa học gia.
+
+333
+00:31:43,291 --> 00:31:44,958
+Tôi đồng ý kiến nghị.
+
+334
+00:31:45,041 --> 00:31:47,250
+Vậy ta biểu quyết nhé?
+
+335
+00:32:07,208 --> 00:32:08,166
+Jinx!
+
+336
+00:32:11,541 --> 00:32:13,583
+Jinx!
+
+337
+00:32:14,833 --> 00:32:17,125
+- Jinx!
+- Có ta đây!
+
+338
+00:32:17,208 --> 00:32:19,083
+Nửa tá Cảnh Vệ Binh, đã chết!
+
+339
+00:32:19,166 --> 00:32:21,250
+Cảnh Vệ Binh! Chết!
+
+340
+00:32:21,333 --> 00:32:23,333
+- Ừ.
+- Một tòa nhà bị nổ tung!
+
+341
+00:32:24,458 --> 00:32:25,375
+Phải!
+
+342
+00:32:26,958 --> 00:32:29,750
+Cô có biết mình đã làm gì không?
+
+343
+00:32:30,291 --> 00:32:33,250
+Thật ra là biết đấy.
+
+344
+00:32:41,875 --> 00:32:43,791
+Chúc mừng Ngày Tiến Bộ!
+
+345
+00:33:12,083 --> 00:33:13,083
+Chào.
+
+346
+00:33:13,583 --> 00:33:15,083
+Cậu thế nào rồi?
+
+347
+00:33:17,833 --> 00:33:20,750
+- Tôi đã có đột phá trong vụ này.
+- Chẳng phải cậu nên nghỉ ngơi ư?
+
+348
+00:33:20,833 --> 00:33:22,291
+Khi manh mối vẫn còn.
+
+349
+00:33:22,375 --> 00:33:25,875
+Nghe này. Cậu biết
+tôi luôn nghi ngờ rằng chỉ có một kẻ
+
+350
+00:33:25,958 --> 00:33:27,416
+đứng sau những bạo lực ở Thành phố ngầm?
+
+351
+00:33:27,500 --> 00:33:29,416
+Đại âm mưu.
+
+352
+00:33:29,500 --> 00:33:32,625
+Tôi nghĩ
+kẻ tấn công quảng trường là nghi phạm.
+
+353
+00:33:32,708 --> 00:33:36,333
+Ký hiệu tương tự cũng xuất hiện
+ở vụ buôn lậu thất bại ở Hexgates.
+
+354
+00:33:36,416 --> 00:33:37,958
+- Hexgates?
+- Cố mà theo kịp đi.
+
+355
+00:33:38,041 --> 00:33:41,583
+Suốt thời gian qua,
+chúng giữ việc làm ăn ở Thành phố ngầm.
+
+356
+00:33:41,666 --> 00:33:45,166
+"Ưu tiên thấp".
+Tấn công quảng trường thay đổi mọi thứ.
+
+357
+00:33:45,250 --> 00:33:47,875
+Chúng đã đi quá giới hạn.
+Nếu tìm ra kẻ làm chuyện này,
+
+358
+00:33:47,958 --> 00:33:50,583
+nó có thể dẫn tôi thẳng tới kẻ chủ mưu.
+
+359
+00:33:50,666 --> 00:33:53,916
+Câu trả lời ở đây, nhìn thẳng vào mặt tôi.
+
+360
+00:33:54,625 --> 00:33:55,875
+Tôi cảm nhận được.
+
+361
+00:33:58,708 --> 00:34:00,833
+Cậu định chứng minh việc này như thế nào?
+
+362
+00:34:02,583 --> 00:34:05,416
+Nếu tôi có thể tìm ra đáp án cho việc này.
+
+363
+00:34:05,500 --> 00:34:07,083
+Marcus sẽ phải lắng nghe.
+
+364
+00:34:08,291 --> 00:34:10,416
+Theo tôi biết được về Hội Đồng,
+
+365
+00:34:10,500 --> 00:34:12,291
+thì giả thuyết là không đủ với họ.
+
+366
+00:34:12,958 --> 00:34:15,875
+Từ khi nào cậu quan tâm tới
+ý kiến của Hội đồng vậy?
+
+367
+00:34:17,333 --> 00:34:18,416
+Từ khi tôi…
+
+368
+00:34:19,250 --> 00:34:20,458
+trở thành một Ủy viên.
+
+369
+00:34:23,166 --> 00:34:26,875
+Cậu nghiêm túc. Khi nào? Tại sao?
+
+370
+00:34:27,541 --> 00:34:30,625
+Họ khám phá ra cách điều hành
+bằng dầu mỡ với cờ lê rồi à?
+
+371
+00:34:31,916 --> 00:34:36,875
+Thật ra tôi hy vọng
+cậu có thể cân nhắc tham gia đội của tôi.
+
+372
+00:34:39,500 --> 00:34:41,083
+"Bộ phận an ninh của Nhà Talis?"
+
+373
+00:34:42,583 --> 00:34:45,541
+Đó là vị trí trên danh nghĩa.
+Tôi sẽ phải ngồi sau một cái bàn.
+
+374
+00:34:45,625 --> 00:34:49,750
+Cậu suýt chết, Cait.
+Tôi chỉ muốn cậu được an toàn.
+
+375
+00:34:49,833 --> 00:34:52,250
+Cảm ơn, nhưng tôi có việc làm rồi.
+
+376
+00:34:53,083 --> 00:34:55,166
+Không. Cậu không hề có.
+
+377
+00:34:56,041 --> 00:34:58,833
+Sau vụ tấn công, bố mẹ cậu
+đã nói chuyện với Cảnh sát trưởng.
+
+378
+00:35:00,291 --> 00:35:02,000
+Đây là điều tốt nhất tôi có thể làm.
+
+379
+00:35:02,583 --> 00:35:06,500
+Tôi không cần bố thí, Ủy viên.
+Của cậu hay bố mẹ tôi.
+
+380
+00:35:06,583 --> 00:35:08,333
+- Cait.
+- Ra ngoài.
+
+381
+00:35:18,208 --> 00:35:23,000
+NHÀ GIAM STILLWATER
+
+382
+00:35:38,250 --> 00:35:40,208
+<i>Tôi cần nói chuyện với một tù nhân.</i>
+
+383
+00:35:41,791 --> 00:35:44,583
+Người ở đây thường không nói nhiều.
+
+384
+00:35:44,666 --> 00:35:47,041
+Người này bị chính người của mình bắn.
+
+385
+00:35:47,125 --> 00:35:50,833
+Anh ta có lý do để nói.
+Chắc mới được đưa tới hôm nay.
+
+386
+00:35:53,541 --> 00:35:56,166
+Tù nhân 2135.
+
+387
+00:35:56,875 --> 00:36:00,375
+<i>À, tôi e là không thể.</i>
+
+388
+00:36:00,458 --> 00:36:01,666
+Tại sao không?
+
+389
+00:36:01,750 --> 00:36:04,375
+À thì, đã có một sự cố.
+
+390
+00:36:04,458 --> 00:36:05,541
+<i>Sự cố kiểu gì vậy?</i>
+
+391
+00:36:05,625 --> 00:36:08,958
+<i>Kiểu không đẹp mắt lắm.</i>
+
+392
+00:36:12,250 --> 00:36:15,166
+<i>Anh không hiểu,
+tôi phải nói chuyện với anh ta.</i>
+
+393
+00:36:15,250 --> 00:36:17,750
+<i>À, chắc sẽ được thôi.</i>
+
+394
+00:36:17,833 --> 00:36:20,375
+<i>Ngay khi anh ta cử động được hàm của mình.</i>
+
+395
+00:36:21,291 --> 00:36:22,750
+<i>Ai tấn công anh ta?</i>
+
+396
+00:36:50,041 --> 00:36:51,791
+Cô là ai?
+
+397
+00:38:50,416 --> 00:38:52,500
+Biên dịch: Nguyễn Ngọc Tùng
+
