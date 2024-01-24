@@ -1,7 +1,7 @@
 ﻿1
 00:00:15,201 --> 00:00:32,464
 Phụ đề tiếng Việt được thực hiện bởi:
-<font color="#00ffff">MP12365 - mochioka - MCUDISVN</font>
+<font color="#00ffff">Dũng Đẹp Trai - MCUDISVN</font>
 <font color="#ffff00">FB.com/groups/mcudisvn</font>
 
 2
